@@ -35,8 +35,8 @@ UK.
         * [Dorsal vertebral centra Q and R](#dorsal-vertebral-centra-q-and-r)
     * ["Lump Z"](#lump-z)
     * ["Scapula"](#scapula)
-    * [Long-bone fragment](#long-bone-fragment)
-    * ["Pubis"](#pubis)
+    * [Long-bone fragment L](#long-bone-fragment-l)
+    * [Pubis M](#pubis-m)
 * [Comparisons](#comparisons)
 * [Phylogenetic analysis](#phylogenetic-analysis)
 * [Systematic Palaeontology](#systematic-palaeontology)
@@ -129,11 +129,17 @@ XXX To follow
 
 ![Composite view of Cervical S](figures/export/cervical-s-composite.jpeg)
 
+![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
+
+![Red-cyan anaglyph of Cervical S in posterior view](figures/export/archbishop-cervical-s--hyposphene-3d.jpeg)
+
 XXX To follow
 
 #### Cervical T
 
 ![Composite view of Cervical T](figures/export/cervical-t-composite.jpeg)
+
+![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
 
 XXX To follow
 
@@ -172,6 +178,8 @@ XXX To follow
 
 ![Composite view of Dorsal vertebrae A and B](figures/export/dorsals-ab-composite.jpeg)
 
+![Red-cyan anaglyph of Dorsal vertebrae A and B](figures/export/archbishop-dorsals-ab--right-posterolateral-3d.jpeg)
+
 XXX To follow
 
 #### Dorsal vertebral neural spine C
@@ -189,6 +197,8 @@ XXX To follow
 ### "Lump Z"
 
 ![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
+
+![Red-cyan anaglyph of Lump Z](figures/export/archbishop-lump-z-dorsal-3d.jpeg)
 
 XXX To follow
 
