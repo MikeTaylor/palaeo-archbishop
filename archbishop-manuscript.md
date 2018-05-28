@@ -21,12 +21,18 @@ UK.
     * [Cervical vertebrae](#cervical-vertebrae)
         * [Cervical W](#cervical-w)
         * [Cervical V](#cervical-v)
-        * [Cervical Uerior extremities exposed.](#cervical-uerior-extremities-exposed)
-        * [Cervical Pon.](#cervical-pon)
+        * [Cervical U](#cervical-u)
+        * [Cervical P](#cervical-p)
         * [Cervical S](#cervical-s)
         * [Cervical T](#cervical-t)
     * [Cervical ribs](#cervical-ribs)
+        * [Cervical rib X1](#cervical-rib-x1)
+        * [Cervical rib X2](#cervical-rib-x2)
+        * [Cervical rib X3](#cervical-rib-x3)
     * [Dorsal vertebrae](#dorsal-vertebrae)
+        * [Dorsal vertebrae A and B](#dorsal-vertebrae-a-and-b)
+        * [Dorsal vertebral neural spine C](#dorsal-vertebral-neural-spine-c)
+        * [Dorsal vertebral centra Q and R](#dorsal-vertebral-centra-q-and-r)
     * ["Lump Z"](#lump-z)
     * ["Scapula"](#scapula)
     * [Long-bone fragment](#long-bone-fragment)
@@ -135,6 +141,8 @@ XXX To follow
 
 ### Cervical ribs
 
+![Box os cervical rib fragments](figures/export/cervical-rib-box.jpeg)
+
 XXX To follow
 
 #### Cervical rib X1
@@ -187,15 +195,21 @@ XXX To follow
 
 ### "Scapula"
 
-XXX To follow
-
-
-### Long-bone fragment
+[No illustrations yet.]
 
 XXX To follow
 
 
-### "Pubis"
+### Long-bone fragment L
+
+![Composite view of Long-bone fragment L](figures/export/long-bone-l-composite.jpeg)
+
+XXX To follow
+
+
+### Pubis M
+
+![Composite view of Pubis M](figures/export/pubis-m-composite.jpeg)
 
 XXX To follow
 
