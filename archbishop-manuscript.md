@@ -137,13 +137,50 @@ XXX To follow
 
 XXX To follow
 
+#### Cervical rib X1
+
+![Composite view of Cervical rib X1](figures/export/cervical-rib-x1-composite.jpeg)
+
+XXX To follow
+
+#### Cervical rib X2
+
+![Composite view of Cervical rib X2](figures/export/cervical-rib-x2-composite.jpeg)
+
+XXX To follow
+
+#### Cervical rib X3
+
+![Composite view of Cervical rib X3](figures/export/cervical-rib-x3-composite.jpeg)
+
+XXX To follow
+
 
 ### Dorsal vertebrae
 
 XXX To follow
 
+#### Dorsal vertebrae A and B
+
+![Composite view of Dorsal vertebrae A and B](figures/export/dorsals-ab-composite.jpeg)
+
+XXX To follow
+
+#### Dorsal vertebral neural spine C
+
+![Composite view of Dorsal vertebral neural spine C](figures/export/dorsal-spine-c-composite.jpeg)
+
+XXX To follow
+
+#### Dorsal vertebral centra Q and R
+
+![Composite view of Dorsal vertebral centra Q and R](figures/export/dorsals-qr-composite.jpeg)
+
+XXX To follow
 
 ### "Lump Z"
+
+![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
 
 XXX To follow
 
