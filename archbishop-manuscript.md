@@ -14,9 +14,17 @@ UK.
 <!-- md2toc -l 2 -s 1 archbishop-manuscript.md -->
 * [Abstract](#abstract)
 * [Introduction](#introduction)
+    * [Historical background](#historical-background)
+    * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
     * [Cervical vertebrae](#cervical-vertebrae)
+        * [Cervical W](#cervical-w)
+        * [Cervical V](#cervical-v)
+        * [Cervical Uerior extremities exposed.](#cervical-uerior-extremities-exposed)
+        * [Cervical Pon.](#cervical-pon)
+        * [Cervical S](#cervical-s)
+        * [Cervical T](#cervical-t)
     * [Cervical ribs](#cervical-ribs)
     * [Dorsal vertebrae](#dorsal-vertebrae)
     * ["Lump Z"](#lump-z)
@@ -85,6 +93,44 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 ### Cervical vertebrae
 
 XXX To follow
+
+
+#### Cervical W
+
+![Composite view of Cervical W](figures/export/cervical-w-composite.jpeg)
+
+XXX To follow
+
+#### Cervical V
+
+![Composite view of Cervical V](figures/export/cervical-v-composite.jpeg)
+
+XXX To follow
+
+#### Cervical U
+
+![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
+
+XXX To follow
+
+#### Cervical P
+
+![Composite view of Cervical P](figures/export/cervical-p-composite.jpeg)
+
+XXX To follow
+
+#### Cervical S
+
+![Composite view of Cervical S](figures/export/cervical-s-composite.jpeg)
+
+XXX To follow
+
+#### Cervical T
+
+![Composite view of Cervical T](figures/export/cervical-t-composite.jpeg)
+
+XXX To follow
+
 
 
 ### Cervical ribs
