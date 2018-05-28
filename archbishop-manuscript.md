@@ -14,8 +14,9 @@ UK.
 <!-- md2toc -l 2 -s 1 archbishop-manuscript.md -->
 * [Abstract](#abstract)
 * [Introduction](#introduction)
-    * [Historical background](#historical-background)
-    * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
+    * [Institutional abbreviations](#institutional-abbreviations)
+* [Historical background](#historical-background)
+* [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
     * [Cervical vertebrae](#cervical-vertebrae)
@@ -54,13 +55,27 @@ XXX To follow
 
 ## Introduction
 
+The German East Africa expeditions of the Humboldt Museum für Naturkunde in the period before the First World War were among the most ambitious ever undertaken (Maier 2003), and yielded many superb dinosaur skeletons including the type specimens of new sauropod, theropod and ornithischian dinosaurs. After the war, the subsequent expeditions of the British Museum (Natural History) were much humbler affairs, and their results were correspondingly unimpressive. The best specimen -- a large and fairly complete sauropod skeleton -- was excavated and returned to London, but was then largely ignored for the next 75 years. In this paper, I describe this overlooked specimen, assess its affinities, and discuss its implications for sauropod systematics and palaeoecology.
 
-### Historical background
+
+### Institutional abbreviations
+
+* BMNH -- See NHMUK.
+* NHMUK -- National History Museum, London, UK. Formerly BMNH, British Museum (Natural History.
+* HMN -- See MB.
+* MB -- Museum für Naturkunde Berlin, Berlin Germany. Formerly HMN, Humboldt Museum für Naturkunde.
+
+### Anatomical nomenclature
 
 XXX To follow
 
 
-### Brachiosaurid sauropods
+## Historical background
+
+XXX To follow
+
+
+## Brachiosaurid sauropods
 
 XXX To follow
 
@@ -257,6 +272,7 @@ XXX To follow
 
 ## References
 
-XXX To follow
+* Maier, Gerhard. 2003. _African Dinosaurs Unearthed: The Tendaguru Expeditions_. Indiana University Press, Bloomington and Indianapolis. 380 pages.
+
 
 
