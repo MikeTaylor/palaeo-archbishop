@@ -15,7 +15,10 @@ UK.
 * [Abstract](#abstract)
 * [Introduction](#introduction)
     * [Institutional abbreviations](#institutional-abbreviations)
+    * [Anatomical nomenclature](#anatomical-nomenclature)
 * [Historical background](#historical-background)
+    * [The German East Africa Expeditions](#the-german-east-africa-expeditions)
+    * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
 * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
@@ -61,9 +64,10 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 ### Institutional abbreviations
 
 * BMNH -- See NHMUK.
-* NHMUK -- National History Museum, London, UK. Formerly BMNH, British Museum (Natural History.
+* FMNH -- Field Museum of Natural History, Chicago, Illinois, USA.
 * HMN -- See MB.
 * MB -- Museum für Naturkunde Berlin, Berlin Germany. Formerly HMN, Humboldt Museum für Naturkunde.
+* NHMUK -- National History Museum, London, UK. Formerly BMNH, British Museum (Natural History.
 
 ### Anatomical nomenclature
 
@@ -72,7 +76,33 @@ XXX To follow
 
 ## Historical background
 
-XXX To follow
+### The German East Africa Expeditions
+
+Between the years of 1907 and 1913, the Humboldt Museum für Naturkunde in what was then East Berlin, East Germany, sent a series of palaeontological expeditions to Tendaguru in what was then German East Africa (Maier2003).  These expeditions, led by Werner Janensch, excavated more than 185 tonnes of fossils, mostly dinosaurs.  When prepared, these fossils proved to include spectacularly complete specimens representing several dinosaurian clades: the ceratosaurian theropod _Elaphrosaurus bambergi_ Janensch, 1920, the ornithopod _Dysalotosaurus lettowvorbecki_ Virchow, 1919, the spiked stegosaur )Kentrosaurus aethiopicus_ Hennig, 1915, and several different sauropods: two species of _Dicraeosaurus_ (_D_. _hansemanni_ and _D_. _sattleri_ Janensch 1914), representing the then new family Dicraeosauridae; “_Gigantosaurus_” _africanus_ Fraas, 1908, whose complex affinities are outlined below; and the giant brachiosaurid “_Brachiosaurus_” _brancai_ Janensch, 1914, the mounted skeleton of which is the centerpiece of the exhibition of the Museum für Naturkunde Berlin. (Further species have been named from the Tendaguru formation, but these are based on fragmentary remains.)
+
+The nomenclatural history of the well-represented species has in some cases been complex. Because of its effect on the apparent diversity of dinosaurs in the Tendaguru Formation, this history warrants some explanation.
+
+_Dysalotosaurus_ was synonymised with _Dryosaurus_ Marsh, 1894, by Galton (1977), yielding the combination _Dryosaurus lettowvorbecki_. This has been followed by most authors, although it was recently disputed by Witzmann et al (2008) and awaits further exploration.
+
+The year after _Kentrosaurus_ was named, its author, noting that the name was similar to and shared its etymology with the ceratopsian dinosaur _Centrosaurus_ Lambe, 1904, proposed the replacement name _Kentrurosaurus_ Hennig, 1916; and Nopcsa (1916) independently proposed the replacement name _Doryphorosaurus_ for the same reason. However, since _Centrosaurus_ is pronounced with a soft “C” and _Kentrosaurus_ with a hard “K”, the two are not homonyms, and the original name remains valid, with _Kentrurosaurus_ and _Doryphorosaurus_ being junior objective synonyms.
+
+As recounted in detail by Taylor (2009), Janensch's referral of the species “_Brachiosaurus_” _brancai_ to the North American genus _Brachiosaurus_ Riggs, 1903 was made without having seen material of type species _Brachiosaurus altithorax_ Riggs, 1903, and was based primarily on features which we can now recognise as symplesiomorphies. The referral was questioned by Lull (1911), but generally accepted until Paul (1988) noticed proportional differences between the species while executing a skeletal reconstruction, and accordingly proposed subgeneric separation, with the African species becoming _Brachiosaurus_ (_Giraffatitan_) _brancai_. Olshevsky (1991) proposed that the subgenus _Giraffatitan_ be raised to generic rank, but the name was not used in the literature, “_Brachiosaurus_” _brancai_ being retained, until Taylor (2009) demonstrated, based on 26 features that differ from _Brachiosaurus altithorax_, that _Giraffatitan brancai_ is indeed generically distinct, and this usage is now generally followed.
+
+The name “_Gigantosaurus_” has the most complex history of all. Fraas chose this name in full knowledge that it had already been used for the poorly represented English genus _Gigantosaurus_ Seeley, 1869, but wrongly believing that the name was available as Seeley had not described or figured the material that his own genus was founded on. He named the type species _G_. _africanus_ and referred a second species, _G_. _robustus_. Recognising Fraas's error in using a preoccupied name, Sternfeld (1911) renamed the German genus _Tornieria_, the two species becoming _T_. _africana_ and _T_. _robusta_. Janensch (1922), however, continued to use the older name “_Gigantosaurus_”, but observed in a footnote that differences such as possession of bifid neural spines in “_G_”. _africanus_ and single spines in “_G_”. _robustus_ required generic separation. Believing the type species “_G_”. _africanus_ to belong to the North American genus _Barosaurus_ Marsh, 1890, Janensch referred to the two species as _Barosaurus africanus_ and _Gigantosaurus robustus_. The latter name would have been invalid even if the genus _Gigantosaurus_ had not been preoccipied, since its type species had been removed making _Gigantosarus_ a junior subjective synonym of _Barosaurus_; however, Janensch did not refer the remaining species _robustus_ to a new genus as he should have done. This was eventually done by Wild (1991), who placed the species in the new genus _Janenschia_ as _J_. _robusta_, and assigned it to Titanosauria. Bonaparte et al (2000), however, noted that the axial material assigned to _Janenschia_ was not convincingly associated with the appendicular type material, and removed this material to another new genus, _Tendaguria_. They considered _Janenschia_ to be a camarasaurid and _Tendaguria_ to belong to its own monogeneric family due to the very unusual morphology of the dorsal vertebra on which is was based. Janensch's referral of the _Tornieria africana_ material to _Barosaurus_ was mostly followed, but McIntosh (2005) questioned this, considering it more similar to _Diplodocus_ and not convincingly congeneric with either. Remes (2006) restudied this material and concluded that it represents a distinct genus for which he resurrecting the available name _Tornieria_, which now contains only the single species _T_. _africana_. Finally, Remes (2007) noted that two cervical vertebrae that had been referred to this species were distinct, and referred them to the new genus _Australodocus_. In conclusion, the two species of “_Gigantosaurus_” are now considered to belong to four distinct monospecific genera: _Tornieria_, _Janenschia_, _Tendaguria_ and _Australodocus_.
+
+
+### The British Museum East Africa Expedition
+
+German operations in East Africa were interrupted by the Great War (1914-1918), during which the territory of German East Africa changed hands and became the British protectorate of Tanganyika. Aware of the impressive results of the German expeditions, the British Museum (Natural History) began in 1920 to plan expeditions of their own, hoping to obtain display-quality specimens comparable to those that were starting to emerge from Berlin. After a series of delays, the expeditions finally commenced in 1924, under the leadership of William Cutler assisted by Louis Leakey. Cutler died in the field in 1925, having obtained only fragmentary material, and was replaced by Frederick W. H. Migeod in late 1925 and through 1926. However, Migeod's work was impeded by his lack of palaeontological experience, as he was an explorer rather than a scientist. For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929, and Migeod returned, to be joined in 1930 by a new assistant, Francis R. “Rex” Parrington. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
+
+The 1930 field season, however, excavated quarry M23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c Parrington 1931) added little information.
+
+XXX ### “Funds are lacking” at end of Discovery article.
+
+Despite its completeness and the good preservation of some of the material, Migeod's specimen has been consistently neglected in the intervening decades: much of what was collected has been lost, some of what remains has yet to be prepared, and the prepared material has never been properly studied. When in the early 1960, John S. McIntosh expressed an interest in studying the material, he was discouraged a letter sent by W. E. Swinton which read (in part): “I feel rather sad at your quest for I knew Migeod very well and had much sympathy with him but alas, I knew the material he collected even better [...] The few good bones he collected would not constitute a single limb and but a few feet of backbone. Indeed, much of East Africa was enclosed in plaster with the mistaken impression that bone was contained within. You will not, therefore, see any monographs on the specimen and you can dismiss his particular dinosaur from your mind” (unpublished letter). Swinton's dismissal is puzzling, contradicting Migeod's own account of the material and, as will become clear, greatly underestimating its value.
+
+What few references there have been to NHMUK R5937 in the literature have often used incorrect specimen numbers and mischaracterised the material – for example, Paul (1988) and Glut (1997) refer to specimen “BMNH M 23”, using the quarry number as a specimen number. 
+
 
 
 ## Brachiosaurid sauropods
@@ -266,13 +296,51 @@ XXX To follow
 
 ## Acknowledgements
 
-XXX To follow
+XXX Just in the form of notes at this stage.
+
+* Mathew J. Wedel (Western University of Health Sciences) and Darren Naish for advice and encouragement.
+* David M. Martill (University of Portsmouth) for supervision in the earliest part of this project.
+* Gerhard Maier for field-notes etc.
+* Sandra D. Chapman and Paul M. Barrett (both NHMUK) for access to Archbishop
+* David M. Unwin and Wolf-Dieter Heinrich (then both HMN) and Daniela Schwarz (MB) for access to _Giraffatitan brancai_.
+* William F. Simpson (FMNH) for access to _Brachiosarus altithorax_.
+* Ken Carpenter for photographs of _Cedarosaurus_ dorsals.
 
 
 
 ## References
 
+* Bonaparte, José F., Wolf-Dieter Heinrich, and Rupert Wild. 2000. Review of _Janenschia_ Wild, with the description of a new sauropod from the Tendaguru beds of Tanzania and a discussion on the systematic value of procoelous caudal vertebrae in the Sauropoda. _Palaeontographica A_ **256**:25-76.
+* Fraas, Eberhard. 1908. Ostafrikanische Dinosaurier. _Palaeontographica_ **55**:105-144.
+* Galton, Peter M. 1977. The ornithopod dinosaur _Dryosaurus_ and a Laurasia-Gondwanaland connection in the Upper Jurassic. _Nature_ **268**:230-232.
+* Glut, Donald F. 1997. _Dinosaurs: the Encyclopedia_. McFarland & Company, Inc., Jefferson, North Carolina. 1076 pages.
+* Hennig, Edwin. 1915. _Kentrosaurus aethiopicus_ der Stegosauride des Tendaguru. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1915**:219-247.
+* Hennig, Edwin. 1916. Zweite Mitteilung über den Stegosauriden vom Tendaguru. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1916**:175-182.
+* Janensch, Werner. 1914. Übersicht über der Wirbeltierfauna der Tendaguru-Schichten nebst einer kurzen Charakterisierung der neu aufgefuhrten Arten von Sauropoden. _Archiv für Biontologie_ **3**:81-110.
+* Janensch, Werner. 1920. Über _Elaphrosaurus bambergi_ und die Megalosaurier aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Sitzungsberichte der Gesellschaft naturforschender Freunde zu Berlin_ **1920**:225-235.
+* Janensch, Werner. 1922. Das Handskelett von _Gigantosaurus robustus_ und _Brachiosaurus brancai_ aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Centralblatt für Mineralogie, Geologie und Paläontologie_ **15**:464-480.
+* Lambe, Lawrence M. 1904. On the squamoso-parietal crest of the horned dinosaurs _Centrosaurus apertus_ and _Monoclonius canadensis_ from the Cretaceous of Alberta. _Transactions of the Royal Society of Canada_, series 2, **10**:1-9.
+* Lull, Richard S. 1911. The Reptilia of the Arundel Formation. pages 171-211 in:_Maryland Geological Survey Lower Cretaceous Volume_.
 * Maier, Gerhard. 2003. _African Dinosaurs Unearthed: The Tendaguru Expeditions_. Indiana University Press, Bloomington and Indianapolis. 380 pages.
+* Marsh, Othniel C. 1890. Description of new dinosaurian reptiles. _American
+Journal of Science_, Series 3 **39**:81-86.
+* Marsh, Othniel C. 1894. The typical Ornithopoda of the American Jurassic. _American Journal of Science_, Series 3 **48**:85-90.
+* McIntosh, John S. 2005. The genus _Barosaurus_ Marsh (Sauropoda, Diplodocidae); pp. 38-77 in Virginia Tidwell, and Ken Carpenter (eds.), _Thunder Lizards: the Sauropodomorph Dinosaurs_. Indiana University Press, Bloomington, Indiana.
+* Migeod, Frederick W. H. 1931a. British Museum East Africa Expedition: account of the work done in 1930. _Natural History Magazine_ **3**:87-103.
+* Migeod, Frederick W. H. 1931b. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February:13-14.
+* Migeod, Frederick W. H. 1931c. Digging for dinosaurs. _Discovery_ **12**:142-145.
+* Nopcsa, Franz. 1916. _Doryphorosaurus_ nov. nom. für _Kentrosaurus_ Hennig. _Centralblatt für Mineralogie, Geologie und Paläontologie_ *81916**:511-512.
+* Olshevsky, George. 1991. A revision of the parainfraclass Archosauria Cope, 1869, excluding the advanced Crocodylia. _Mesozoic Meanderings_ **2**:1-196.
+* Parrington, Francis R. 1931. The giant dinosaur of Tendaguru: an East Africa discovery. _Illustrated London News_ October 31, 1931:699-699.
+* Paul, Gregory S. 1988. The brachiosaur giants of the Morrison and Tendaguru with a description of a new subgenus, _Giraffatitan_, and a comparison of the world's largest dinosaurs. _Hunteria_ **2**:1-14.
+* Remes, Kristian. 2006. Revision of the Tendaguru sauropod dinosaur _Tornieria africana_ (Fraas) and its relevance for sauropod paleobiogeography. _Journal of Vertebrate Paleontology_ **26(3)**:651-669.
+* Remes, Kristian. 2007. A second Gondwanan diplodocid dinosaur from the Upper Jurassic Tendaguru beds of Tanzania, East Africa. _Palaeontology_ **50**:653-667.
+* Riggs, Elmer S. 1903. _Brachiosaurus altithorax_, the largest known dinosaur. _American Journal of Science_ **15(4)**:299-306.
+* Seeley, Harry G. 1869. _Index to the fossil remains of Aves, Ornithosauria, and Reptilia, from the Secondary System of Strata, arranged in the Woodwardian Museum of the University of Cambridge_. Deighton, Bell, and Co., Cambridge. 143 pages.
+* Sternfeld, Richard. 1911. Zur Nomenklatur der Gattung _Gigantosaurus_ Fraas. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1911**:398.
+* Taylor, Michael P. 2009. A re-evaluation of _Brachiosaurus altithorax_ Riggs 1903 (Dinosauria, Sauropoda) and its generic separation from _Giraffatitan brancai_ (Janensch 1914). _Journal of Vertebrate Paleontology_ **29(3)**:787-806.
+* Virchow, Hans. 1919. Atlas und Epistropheus bei den Schildkröten. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1919**:303-332.
+* Wild, Rupert. 1991. _Janenschia_ n. g. _robusta_ (E. Fraas 1908) pro _Tornieria robusta_ (E. Fraas 1908) (Reptilia, Saurischia, Sauropodomorpha). _Stuttgarter Beiträge zur Naturkunde_, Serie B (Geologie und Paläontologie) **173**:1–4.
+* Witzmann, Florian, Patrick Asbach, Kristian Remes, Oliver Hampe, André Hilger and Andreas Paulke. 2008. Vertebral pathology in an ornithopod dinosaur: a hemivertebra in _Dysalotosaurus lettowvorbecki_ from the Jurassic of Tanzania. _The Anatomical Record_ **291**:1149-1155.
 
-
-
+XXX Notes to self: somewhere I have copes of Migeod 1931b and Migeod 1931c, but I can't find them at the moment.
