@@ -27,7 +27,7 @@ The characters are described in [`CharacterList.doc`](CharacterList.doc), kindly
 
 ## Analysis
 
-The analysis for the present study was run on a MacBook Pro with MacOS High Sierra v10.13.6, using [TNT version 1.5 for Mac 64 with no taxon limit](http://www.lillo.org.ar/phylogeny/tnt/tnt-mac-no-tax-limit.zip), version of May 2020. This is [available from Fundación Miguel](http://www.lillo.org.ar/phylogeny/tnt/). To replicate the present results, this program should be downloaded and unpacked in a directory called `tnt`.
+The analysis for the present study was run on a MacBook Pro with MacOS High Sierra v10.13.6, using [TNT version 1.5 for Mac 64 with no taxon limit](http://www.lillo.org.ar/phylogeny/tnt/tnt-mac-no-tax-limit.zip), version of May 2020 (Many versions have been released as "1.5"). This software is [available from Fundación Miguel](http://www.lillo.org.ar/phylogeny/tnt/). To replicate the present results, this program should be downloaded and unpacked in a directory called `tnt`.
 
 The intention is to replicate the protocol of Mannion et al. (2019), which is described on pages 12-13 of [the PDF](https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.191057) as follows:
 
