@@ -21,7 +21,7 @@ The data for the present analysis in in the TNT data file [`archbishop.tnt`](arc
 
 XXX In fact, at the time of writing, this is just a copy of the matrix used in the _Jiangshanosaurus_ matrix, but I will expand it once I am happy that I am replication the Mannion et al. (2019) analysis correctly.
 
-The characters are described in [`Character List.doc`](Character List.doc), kindly supplied by Phil Mannion.
+The characters are described in [`CharacterList.doc`](CharacterList.doc), kindly supplied by Phil Mannion.
 
 
 
