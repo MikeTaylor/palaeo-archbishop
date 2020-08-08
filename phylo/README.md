@@ -1,5 +1,14 @@
 # Phylogenetic analysis
 
+<!-- md2toc -l 2 README.md -->
+* [Overview](#overview)
+* [Data](#data)
+* [Analysis](#analysis)
+* [Other files and directories](#other-files-and-directories)
+
+
+## Overview
+
 This area contains a phylogenetic analysis to place the Archbishop within the phylogeny of [Mannion et al. (2019) (The _Jiangshanosaurus_ paper)](https://royalsocietypublishing.org/doi/10.1098/rsos.191057), which is a direct descendant of that of Mannion et al. (2013) (the _Lusotitan_ paper).
 
 The goal is firstly to reproduce the results of from the _Jiangshanosaurus_ paper; then to add the Archbishop as an extra taxon and score it, and see where it comes out; and then to add any necessary extra characters that emerge from the description, and score all the taxa for them.
