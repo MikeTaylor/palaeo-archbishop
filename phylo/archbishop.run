@@ -1,22 +1,30 @@
+echo =;
+log archbishop.log;
 mxram 1024;
-log my_analysis.out;
-proc ;
+proc archbishop.tnt;
+taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
-taxcode -N;
+taxcode -;
 taxname =;
-xmult:sect drift fuse consense 5;
+hold 50000;
 
-xmult;
+xmult=consense 3 noratchet verbose;
 mult=tbr;
-export = ew_trees.tre;
+
+export = archbishop_ew.tre;
 nelsen;
-nelsen*; tchoose {strict}; export = ew_strict.tre;
+nelsen*; tchoose {strict}; export = archbishop_ew_strict.tre;
 
 keep 0;
+piwe=;
+proc archbishop.tnt;
 xpiwe=;
+
 xmult;
 mult=tbr;
-export = iw_trees.tre;
+
+export = archbishop_iw.tre;
 nelsen;
-nelsen*; tchoose {strict}; export = iw_strict.tre;
+nelsen*; tchoose {strict}; export = archbishop_iw_strict.tre;
+
 log/;
