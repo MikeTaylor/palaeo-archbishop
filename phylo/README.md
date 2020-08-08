@@ -42,9 +42,9 @@ The result of this work is the file [`archbishop.run`](archbishop.run), which ca
 XXX At the time of writing, this file uses `consense 3` rather than `consense 5`, because it is much faster (half an hour rather than many hours). This lets me experiment more quickly, but it will need to be changed back before I run the analysis for real.
 
 Running this analysis leaves behind the following files:
-* `archbishop.out` -- a log of the run.
+* `archbishop.log` -- a log of the run.
 * `archbishop_ew.tre` -- trees found by equal-weighting search
-* `archbishop_all_ew_strict.tre` -- strict consensus of equal-weighting trees
+* `archbishop_ew_strict.tre` -- strict consensus of equal-weighting trees
 * `archbishop_iw.tre` -- trees found by extended-implied-weighting search
 * `archbishop_iw_strict.tre` -- strict consensus of extended-implied-weighting trees
 
