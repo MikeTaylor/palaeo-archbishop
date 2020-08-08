@@ -48,3 +48,10 @@ Running this analysis leaves behind the following files:
 * `archbishop_iw.tre` -- trees found by extended-implied-weighting search
 * `archbishop_iw_strict.tre` -- strict consensus of extended-implied-weighting trees
 
+
+## Other files and directories
+
+* The [`help`](help) directory contains help texts extracted from the TNT binary. The online documentation is difficult to get into, so these individual command descriptions are sometimes more useful (though still very terse).
+* XXX Add and describe `Makefile`.
+
+
