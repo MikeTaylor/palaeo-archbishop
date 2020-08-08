@@ -1,12 +1,12 @@
 echo =;
 log archbishop.log;
-mxram 1024;
+mxram 2048;
 proc archbishop.tnt;
 taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
-hold 50000;
+hold 500000;
 
 xmult=consense 3 noratchet verbose;
 mult=tbr;
