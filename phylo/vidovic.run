@@ -1,0 +1,18 @@
+MXRAM 1000;
+MXRAM;
+nstates 32;
+
+Hold 30000;
+RSEED*
+Xmult=
+consense 5
+noratchet
+verbose
+;
+bbreak=tbr;
+
+length;
+nelsen*;
+tplot;
+taxname=;
+export - yourfilename.tre;

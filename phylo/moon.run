@@ -1,0 +1,22 @@
+mxram 1024;
+log my_analysis.out;
+proc ;
+taxcode +;
+taxcode -N;
+taxname =;
+xmult:sect drift fuse consense 5;
+
+xmult;
+mult=tbr;
+export = ew_trees.tre;
+nelsen;
+nelsen*; tchoose {strict}; export = ew_strict.tre;
+
+keep 0;
+xpiwe=;
+xmult;
+mult=tbr;
+export = iw_trees.tre;
+nelsen;
+nelsen*; tchoose {strict}; export = iw_strict.tre;
+log/;
