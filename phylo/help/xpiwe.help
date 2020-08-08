@@ -1,0 +1,117 @@
+XPIWE
+    Handle options for extended implied weighting 
+      -    set extended options OFF 
+      =    use extended implied weight (use character sets for constant 
+           or "set weighting", and/or different weighting strengths for 
+           different characters). Character sets defined with "xpiwe[" are  
+           weighted using average homoplasy in the set.  For a set of N  
+           characters with total homoplasy H, the score for the set is 
+                                    (H/N) 
+                              N * ---------  
+                                  (H/N) + k  
+           Sets defined with "xpiwe/" have constant weight. Note that set 
+           weighting is peculiar in making parsimony-uninformative characters 
+           relevant to the analysis; for set weighting, when user-defined 
+           weighting functions are in effect, TNT needs to extrapolate costs 
+           (since it uses average numbers of steps). When combining different 
+           weighting strengths in an analysis, the fitting function for all  
+           characters is rescaled so that the first extra step (i.e. no  
+           homoplasy) costs the same for all characters.  
+           NOTE: extended implied weighting is valid only under "piwe=",  
+           not "piwe+", and to apply it you must read the data with  
+           implied weights turned ON.  
+      /    define a set of characters with constant weight.  Usage is:  
+           /NxF L, where L is the list of characters for which every step 
+           costs the same as F times the cost of adding 1 step to a 
+           character with N extra steps (under the "base" concavity,  
+           or the user-defined weighting function). 
+      [L   define a set of characters (L) for homogeneous "set weighting".   
+           If L is (optionally) followed by "=N", then the set L is 
+           divided in subsets or "chunks" of N consecutive characters  
+           each.  If L is followed instead by "/" and a partition  
+           (e.g. in the form "12:3" or "1:2:3") then the first, 
+           second, and third positions within list L are grouped. Not 
+           specifying 1, 2 or 3 leaves those positions outside the subset(s). 
+           NOTE: when user-weighting function are in effect, weighting-sets 
+           require calculating fit for fractional (i.e. non-discrete)  
+           numbers of extra-steps; this is done by interpolating (on 
+           the fitting function assembled from the user-defined cost 
+           function) using the same interpolator of the macro expression  
+           "intpol". 
+      ]    like previous one, but it does all data blocks automatically 
+           (e.g. "xpiwe]/12:3;" creates a set for 1st and 2nd position, 
+           and another with 3d, for each of the data blocks, while  
+           "xpiwe]=10;" divides each of the data blocks in chunks of  
+           10 characters each) 
+      *    write to log file the list of characters in weighting sets,  
+           and the list of characters with fixed weights, in a format  
+           readable by TNT 
+      &L   report status of weighting sets for tree(s) in list L.  If list 
+           preceded by strings "steps", "score", "homoplasy", or  
+           "size", then it reports the corresponding value (default is 
+           "size").  Under different concavities, you can also report 
+           the concavity values of each set ("kvalue") or cost of adding 
+           a step to an average character in the set ("cost") 
+      !L   remove characters in list L from weighting sets and from the set of 
+           characters with fixed weight. 
+      (    handle implied weighting with different concavities for different 
+           characters. The symbol "(" can be followed either by "*" or by 
+           a list L of characters.  The "*" (see below) determines different 
+           weighting strengths based on numbers of missing entries; with a  
+           list L, the user defines the concavity for the characters  
+           specified in L.  N.B.: the values of concavities (or the cost  
+           of adding steps for the different characters) are shown by the  
+           "piwe&" command, not by this one. 
+           (* Option:  
+              This option is intended to address the problem that characters  
+              with many missing entries cannot have much homplasy, and thus  
+              normally have high implied weights during analyses. With  
+              "( *P <M /K", missing entries are assumed to have (for the  
+              purpose of calculating fit differences) a proportion P of the  
+              homoplasy which occurs in observed entries .  Thus, if P is 1  
+              and half the cells in a character are missing entries, the cost  
+              of adding a step to a character with H extra steps is (approxi- 
+              mmately) the same as the cost of adding a step to a character  
+              with 2H steps. If no P is specified, the default (0.5) is  
+              used.  When reading the matrix, inapplicables (which should  
+              not increase the counts of missing entries!) can be indicated 
+              with the symbol "*" (=set of all states but the largest).  
+              The approximmation used with the default weighting function 
+              function is based on using different K values, given that for  
+              the standard weighting function, the cost of adding a step to  
+              a character with N extra steps, under K1, is approximmately the 
+              same as adding a step to a character with N.K1/K2 extra steps  
+              under concavity K2.  Thus, characters with more missing entries 
+              get lower K values (i.e. they decrease their influence more  
+              quickly as homoplasy increases, but are equally influential in  
+              the absence of homoplasy).  M determines the maximum acceptable  
+              ratio between K1/K2 (1<=M). If no M is specified, the default  
+              (5) is used.  The value K determines the "base" concavity (i.e.  
+              the concavity for a character with no missing entries); if "/K" 
+              not included, general concavity is used.  Note that P=0 or M=1  
+              are equivalent to standard implied weighting.  If weighting sets 
+              have been defined (with the "xpiwe[" or "xpiwe]" options), TNT 
+              will honor those sets (extrapolating from the average homoplasy 
+              in the observed entries to the total missing entries in the set).  
+                 When a user-defined weighting function is in effect, then the 
+              K values are used as factors for extrapolation to missing entries 
+              (a character with concavity K, under general concavity G, is 
+              considered to have G/K times the homoplasy observed in the 
+              non-missing entries).  Remember, this means that the cost of 
+              adding a step to a character with S steps is the same as the cost 
+              of adding a step to a character with G/K times the observed 
+              homoplasy, not G/K times the step cost!  The interpolator uses 
+              the cost function defined by the user (not the fit function  
+              assembled from it; note that the two options might produce  
+              slightly different results).  
+           (L Option:  
+              with "(L /K", all the characters in list L get concavity K.  
+              Initial concavities can be set with the previous option, and  
+              then modified with this one (case in which TNT will honor the  
+              last set of concavity values determined by the user). Keep in  
+              mind that if weighting sets have been defined, all the  
+              characters in a set must have the same concavity!  When user- 
+              defined weighting functions are in effect, k is used (as in the 
+              previous option) as a factor to extrapolate. 
+      )    use a single concavity (or user-defined weighting function) for  
+           all characters.  

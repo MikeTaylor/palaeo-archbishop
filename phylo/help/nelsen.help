@@ -1,0 +1,12 @@
+NELSEN
+    Calculate strict consensus tree 
+    N/L    display consensus for tree(s) N, excluding taxon (taxa) L 
+    *N/L   same, but keep consensus as last tree in memory 
+    N/L/P  display consensus for tree(s) N, excluding taxon (taxa) L, 
+           and indicate placement of taxon (taxa) P (P may refer to 
+           node numbers in the consensus) 
+    <      always use low-memory algorithm (sometimes, faster) 
+    >      use low memory algorithm only when memory is low 
+    Note that settings established with ">" and "<" also 
+    affect the "tcomp" command. 
+ 

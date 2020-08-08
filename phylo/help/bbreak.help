@@ -1,0 +1,70 @@
+BBREAK
+    Perform branch-swapping, using pre-existing trees as starting point. 
+    Use "bbreak=options;" (change settings and run) or "bbreak:options;" 
+    (change settings, don't run).  This swaps according to current settings 
+    of suboptimal, constraints, and collapsing. 
+      
+    Basic options are: 
+      tbr         use TBR 
+      spr         use SPR 
+     [no]fillonly swap until tree-buffer is filled, and then stop. 
+     [no]mulpars  save multiple trees. 
+      
+    Fine-tuning options are: 
+     [no]safe     The "safe" option uses a slower (but safer) method for 
+                  updating buffers when finding a better tree under TBR 
+                  (default is "nosafe"). 
+     [no]skipspr skips the SPR phase on a single tree when doing multiple 
+                  RAS+TBR saving several trees per replication; "skipspr" 
+                  is useful in conjunction with "nosafe", but not so much 
+                  with "safe" because then the initial portion of TBR 
+                  (when better trees are being found often) gets slowed down 
+                  and SPR doesn't.  The "nosafe" option only makes a  
+                  difference for very large data sets; note that "skipspr" 
+                  modifies the behaviour of both "mult" and "xmult". 
+     [no]int N    There are two options, "int 1" and "int 2" (both options 
+                  identify most relevant characters for a series of swaps, 
+                  option 2 also reorders characters to try to save time). 
+                  These options useful only for large matrices (>10,000) with 
+                  large numbers of characters; otherwise they tend to produce 
+                  slower swapping. 
+     [no]randclip randomize clipping sequence (with current random seed). 
+     [no]xbit     On 64-bit systems, the (default) "xbit" option turns on 
+                  optimization using 64 bits, when possible.  This tends to  
+                  be 20-25% faster. 
+     [no]preproc  with "preproc" the program tries to identify and effect 
+                   first the clippings that would improve the tree the most; 
+                  this has effect only on "mult" searches with hold=1 (and 
+                  only when skipping the SPR phase), and TBR swapping from  
+                  existing trees with mulpars off.  This may save a little  
+                  time in the initial stages of the search for very large 
+                  data sets, although the end gain is small. 
+     clusters N   use node-clusters of N nodes.  As the data set becomes  
+                  larger, clusters of more nodes produce faster TBR-swapping. 
+                  When using clusters also for wagner trees, the same size as 
+                  defined here is used. 
+     [no]strat    for landmarks only; use a "stratified" error margin (i.e. 
+                  begin low, increase as swapping advances, as set with "lmark 
+                  errmarg") for the first tree swapped, final error for the  
+                  for the last one.  Otherwise, use the final error margin from 
+                  the beginning o fthe swapping (intended for tree that are  
+                  already optimal or near-optimal). 
+      
+    Included for comparability with PAUP*: 
+     [no]limit N  when doing TBR, only use destinations and rerooting no more  
+                  than N nodes away from the original.  Using a narrow limit  
+                  in large trees makes it look at only a tiny fraction of the 
+                  rearrangements, thus speeding up the search, but also making  
+                  it much less likely to find the optimal tree.  Using a large 
+                  limit increases the chances of finding the optimal trees, but 
+                  when using this, shortcuts used in the absence of a limit are 
+                  not applicable, with the result that that swapping with large 
+                  limit (probably above 1/4 to 1/3 of the taxa) produces a  
+                  slower TBR than swapping with no limit at all.  Thus, the use 
+                  of this option is discouraged, except to make comparisons with 
+                  other software using this option. N.B.: the use of limits is  
+                  compatible with constraints, but when using constraints with 
+                  limited TBR, only the rearrangements effectively done are  
+                  counted (in contrast to the default, unlimited  TBR, which 
+                  counts rearrangements violating constraints as done and  
+                  rejected). 

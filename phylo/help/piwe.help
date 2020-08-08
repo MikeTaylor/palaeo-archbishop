@@ -1,0 +1,22 @@
+PIWE
+      -    set implied weighting off (=default ) 
+      =N;  set it on, with weighting constant N (0 < N <= 1000) 
+      :N   set weighting constant only 
+      [    followed by a list of weights, sets relative weights for 
+           implied weighting (starting from 0 extra steps). Followed 
+           by a semicolon, displays current relative implied weights 
+      ];   deactivates user-defined implied weights 
+      +N   use auto-weighted optimization instead of implied weights, with 
+           weighting constant N.  This does implied weighting at the level 
+           of character-state transformations; it can be very time-consuming  
+           for data sets with many taxa and/or states.  General options  
+           and parameters for auto-weighting are set with the "slfwt" 
+           command. 
+       &   when using multiple concavities, show k values for individual 
+           characters (if not using a user-defined weighting function), 
+           or the "shift" (for a character with shift S, the cost of adding 
+           one step to N steps of homoplasy is the same as the cost of adding 
+           a step to a character with S.N steps with the user-defined weighting 
+           function.  If a list L of characters is given after after "&, then 
+           the relative cost of adding a step to a different numbers of extra 
+           steps (as in "piwe[;"), for the characters in L. 

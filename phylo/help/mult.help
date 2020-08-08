@@ -1,0 +1,41 @@
+MULT
+    do N random addition sequences, followed by rearrangements. 
+    Options are: 
+      wagner       no branch-swapping 
+      spr          use SPR branch swapping 
+      tbr          use TBR branch swapping 
+      [no]keepall  keep the trees from all replications 
+      replic N     do N replications  
+      hold N       save up to N trees per replication (only if swapping) 
+      [no]ratchet  do ratchet as well (settings with "ratchet" command) 
+      [no]drift    do drift as well (settings with "drift" command) 
+      [no]wclus N  after adding N taxa to the wagner tree, start using 
+                   node clusters (of size defined with "bbreak:clus SIZE"). 
+                   Useful only for very large data sets (several K-taxa). 
+      outfreq N    frequency for which reports are produced during branch 
+                   swapping (default is every N=10 clips, but for large data 
+                   sets this implies reports take too long to be produced). 
+      ras          use randomized addition sequences for Wagner trees  
+                   [default, works best for most data sets] 
+      cas N        use closest-addition sequence for Wagner trees (ties in 
+                   the addition sequence broken randomly), looking ahead up 
+                   N taxa (no N = all taxa). Tends to work best on data sets 
+                   with a lot of incongruence. 
+      fas N        as previous one, but using furthest addition sequence 
+      ias N        as previous one, but select first those taxa which make 
+                   the largest number of characters informative (N.B. only  
+                   additive/nonadditive characters considered for this; the 
+                   other character types have no influence on the sequence). 
+                   Tends to work best on data sets with many missing entries 
+                   and non-overlapping blocks of data. 
+      sas N        as previous one, but select first those taxa with the  
+                   largest difference in score for best/worst locations (N.B. 
+                   all character types are considered). Works best for the 
+                   same data sets as the previous one ("ias"), but it is 
+                   more thorough and slower 
+    Usage: "mult:options;" changes settings only; "mult=options;" runs 
+    as well.  Entering "mult:;" current settings are reported.  Setting 
+    the type of addition sequence also determines the sequence to be used 
+    in other commands (e.g. "xmult", "pfijo").  The insertion sequence 
+    is always random for "cas", "sas", and "fas"; it can be changed (see 
+    under "rseed") to be random or non-random for "ras" and "ias" 

@@ -1,0 +1,3 @@
+TCHOOSE
+    N   select tree N (use scopes, + and -) 
+    /   select last memory tree, discard the rest 
