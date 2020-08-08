@@ -33,10 +33,18 @@ The intention is to replicate the protocol of Mannion et al. (2019), which is de
 
 > Several unstable and fragmentary taxa were excluded from the analyses (_Astrophocaudia_, _Australodocus_, _Brontomerus_, _Fukuititan_, _Fusuisaurus_, _Liubangosaurus_, _Malarguesaurus_, _Mongolosaurus_). Using equal weighting of characters, this pruned data matrix was analysed using the ‘Stabilize Consensus’ option in the ‘New Technology Search’ in TNT v. 1.5. Searches employed sectorial searches, drift and tree fusing, with the consensus stabilized five times, prior to using the resultant trees as the starting topologies for a ‘Traditional Search’, using Tree Bisection-Reconstruction. We then re-ran the analysis, using the same pruned matrix and protocol, but also applying extended implied weighting in TNT.
 
-Translating this textual description of the protocol into a TNT command file as difficult. I asked for help in [an SV-POW! post](https://svpow.com/2020/08/07/help-running-phylogenetic-analyses-in-tnt/) and received [a fantastically detailed response from Ben Moon](https://svpow.com/2020/08/07/help-running-phylogenetic-analyses-in-tnt/#comment-218222) and some further helpful comments from Steve Vidovic in [a Twitter thread](https://twitter.com/SteveVidovic/status/1291772175553310723). I would have struggled to get this to work without their help, which I gratefully acknowledge.
+Translating this textual description of the protocol into a TNT command file was difficult. I asked for help in [an SV-POW! post](https://svpow.com/2020/08/07/help-running-phylogenetic-analyses-in-tnt/) and received [a fantastically detailed response from Ben Moon](https://svpow.com/2020/08/07/help-running-phylogenetic-analyses-in-tnt/#comment-218222) and some further helpful comments from Steve Vidovic in [a Twitter thread](https://twitter.com/SteveVidovic/status/1291772175553310723). I would have struggled to get this to work without their help, which I gratefully acknowledge.
+
+[The sequence of commands recommended by Ben Moon](https://svpow.com/2020/08/07/help-running-phylogenetic-analyses-in-tnt/#comment-218222) is stored in [`moon.run`](moon.run), and [those recommended by Steve Vidovic](https://twitter.com/SteveVidovic/status/1291772618580926464) in [`vidovic.run`](vidovic.run). These files are _not_ intended to be run directly, but were the starting points of efforts to understand and integrate their largely compatible but differing command sequences.
 
 The result of this work is the file [`archbishop.run`](archbishop.run), which can be run in TNT using the shell command `./tnt/tnt.command archbishop.run,`. (Do _not_ omit the trailing comma. Seriously: TNT needs it.) The `archbishop.run` script pulls in the TNT data file `archbishop.tnt` (see above).
 
+XXX At the time of writing, this file uses `consense 3` rather than `consense 5`, because it is much faster (half an hour rather than many hours). This lets me experiment more quickly, but it will need to be changed back before I run the analysis for real.
+
 Running this analysis leaves behind the following files:
-* XXX what?
+* `archbishop.out` -- a log of the run.
+* `archbishop_ew.tre` -- trees found by equal-weighting search
+* `archbishop_all_ew_strict.tre` -- strict consensus of equal-weighting trees
+* `archbishop_iw.tre` -- trees found by extended-implied-weighting search
+* `archbishop_iw_strict.tre` -- strict consensus of extended-implied-weighting trees
 
