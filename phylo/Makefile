@@ -1,6 +1,8 @@
-**make-default**: equalweights.log
+**make-default**: equalweights
 
-all: equalweights.log impliedweights.log
+all: equalweights impliedweights
+
+equalweights: equalweights.log
 
 equalweights.log: archbishop.tnt equalweights.run
 	test -d previous || mkdir previous
@@ -8,6 +10,8 @@ equalweights.log: archbishop.tnt equalweights.run
 	test -f equalweights.tre && mv equalweights.tre previous/
 	test -f equalweights-strict.tre && mv equalweights-strict.tre previous/
 	./tnt/tnt.command $?,
+
+impliedweights: impliedweights.log
 
 impliedweights.log: archbishop.tnt impliedweights.run
 	test -d previous || mkdir previous
