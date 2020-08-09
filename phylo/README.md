@@ -6,6 +6,7 @@
 * [Analyses](#analyses)
 * [Running the analyses](#running-the-analyses)
 * [Other files and directories](#other-files-and-directories)
+* [To Do](#to-do)
 
 
 ## Overview
@@ -32,7 +33,6 @@ The data for the present analysis in in the TNT data file [`archbishop.tnt`](arc
 XXX At the time of writing, this is just a copy of the matrix used in the _Jiangshanosaurus_ matrix, but I will expand it once I am happy that I am replication the Mannion et al. (2019) analysis correctly.
 
 The characters are described in [`CharacterList.doc`](CharacterList.doc), kindly supplied by Phil Mannion.
-
 
 
 ## Analyses
@@ -71,3 +71,16 @@ And running `impliedweights.run` leaves behind the analogous files:
 
 * The [`help`](help) directory contains help texts extracted from the TNT binary. The online documentation is difficult to get into, so these individual command descriptions are sometimes more useful (though still very terse).
 * XXX Add and describe `Makefile`.
+
+
+## To Do
+
+* Run to completion with consensus stabilized five times.
+* Complete a run of the extended implied weighting analysis even with only three consensus stabilization -- so far I have never known it to complete without running out of tree-space.
+* Figure out how the number of trees allocated affects run-time.
+* Determine whether ratcheting makes more sense than stabilizing consensus.
+* Code the Archbishop for the 548 characters.
+* Consider whether more characters need to be added.
+* Determine which taxa should be delete _a posteriori_ to improve tree resolution, especially within Brachiosauridae.
+
+
