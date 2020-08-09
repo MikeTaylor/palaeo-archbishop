@@ -8,12 +8,11 @@ taxcode -;
 taxname =;
 hold 10000;
 
-xmult=consense 3 noratchet verbose;
-mult=tbr;
+xmult=consense 2 noratchet verbose;
+bbreak=tbr xbit safe;
 export = equalweights.tre;
 
-nelsen;
 nelsen*; tchoose {strict}; export = equalweights-strict.tre;
+tplot;
 
 log/;
-quit
