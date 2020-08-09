@@ -70,7 +70,7 @@ And running `impliedweights.run` leaves behind the analogous files:
 ## Other files and directories
 
 * The [`help`](help) directory contains help texts extracted from the TNT binary. The online documentation is difficult to get into, so these individual command descriptions are sometimes more useful (though still very terse).
-* XXX Add and describe `Makefile`.
+* The [`Makefile`](Makefile) controls compilation. You can run `make equalweights` or `make impliedweights`. Each rule moves the old log, tree and consensus-tree files for the relevant analysis into the `previous` directory (creating it if necessary) before the run, making it easy to compare the results of the current and previous run.
 
 
 ## To Do
