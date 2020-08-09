@@ -1,0 +1,9 @@
+TPLOT
+    N    show tree(s) N. 
+    *N   show tree(s) N in parenthetical notation. 
+    /    show only last tree in memory 
+    +    draw trees more symmetrically (they're taller!) 
+    -    draw trees with default format 
+    If + or - are followed by + or - this turns on (+) 
+    or off (-) whether second heaviest clade is drawn 
+    first in polytomies. 
