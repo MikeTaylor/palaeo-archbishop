@@ -1,0 +1,28 @@
+PCRPRUNE
+    Improve consensus by Iterative PCR (Pol & Escapa, 2009). 
+         N/L\U      improve consensus of tree(s) N, excluding taxa 
+                    in list L, but never removing taxa in U. 
+    List of trees may be preceded by:  
+          =C    maximum number of taxa to cut at a time (default=all) 
+          :K    assign a cost of K (0-100) to taxon remotion (higher 
+                K's require more nodes gained for a taxon removal to 
+                be accepted as "improvement"; default=0.5) 
+          >N    only show prunings which improve N nodes or more 
+                (for strict consensus only, not for majority) 
+          [N]   improve only node N of consensus (for strict  
+                consensus only, not for majority) 
+          &     for pruning strict consensus only, when finding that 
+                a triplet is present in all trees, try to combine  
+                with previously checked triplets to infer resolution 
+                of triplets not yet checked.  Faster for larger numbers  
+                of trees, differing in fewer taxa 
+    and if followed by ">N", all the prunes are added to taxon-group 
+    number N (note that this option requires an explicit tree list, for 
+    otherwise it would be interpreted as the option to only show prunings 
+    which improve N nodes; see above). 
+    The consensus types can be indicated in parentheses, also before 
+    tree-list: 
+      (majority F)  heuristically try to improve majority rule tree,  
+                    considering that triplets occurring in frequency F  
+                    or higher are "compatible" (50<=F<=100, default=50) 
+       (nelsen)     improve strict consensus tree (=default) 
