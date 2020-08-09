@@ -12,12 +12,11 @@ piwe=;
 proc archbishop.tnt;
 xpiwe=;
 
-xmult=consense 3 noratchet verbose;
-mult=tbr;
+xmult=consense 2 noratchet verbose;
+bbreak=tbr xbit safe;
 export = impliedweights.tre;
 
-nelsen;
 nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
+tplot;
 
 log/;
-quit
