@@ -1,0 +1,19 @@
+echo =;
+log equalweights.log;
+mxram 2048;
+proc archbishop.tnt;
+taxcode -12 14 17 28 29 40 42 44;
+taxcode +;
+taxcode -;
+taxname =;
+hold 10000;
+
+xmult=consense 3 noratchet verbose;
+mult=tbr;
+export = equalweights.tre;
+
+nelsen;
+nelsen*; tchoose {strict}; export = equalweights-strict.tre;
+
+log/;
+quit

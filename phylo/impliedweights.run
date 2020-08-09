@@ -1,0 +1,23 @@
+echo =;
+log impliedweights.log;
+mxram 2048;
+proc archbishop.tnt;
+taxcode -12 14 17 28 29 40 42 44;
+taxcode +;
+taxcode -;
+taxname =;
+hold 200000;
+
+piwe=;
+proc archbishop.tnt;
+xpiwe=;
+
+xmult=consense 3 noratchet verbose;
+mult=tbr;
+export = impliedweights.tre;
+
+nelsen;
+nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
+
+log/;
+quit
