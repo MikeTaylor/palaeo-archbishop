@@ -12,7 +12,7 @@
 
 ## Overview
 
-This area contains two phylogenetic analyses (with equal weights and with extended implied weights) to place the Archbishop within the phylogenies of [Mannion et al. (2019) (The _Jiangshanosaurus_ paper)](https://royalsocietypublishing.org/doi/10.1098/rsos.191057). These are direct descendants of those of Mannion et al. (2013) (the _Lusotitan_ paper).
+This area contains two phylogenetic analyses (with equal weights and with extended implied weights, both based on the same matrix) to place the Archbishop within the phylogenies of [Mannion et al. (2019) (The _Jiangshanosaurus_ paper)](https://royalsocietypublishing.org/doi/10.1098/rsos.191057). These analyses are direct descendants of those of Mannion et al. (2013) (the _Lusotitan_ paper).
 
 The goal is firstly to reproduce the results of from the _Jiangshanosaurus_ paper; then to add the Archbishop as an extra taxon and score it, and see where it comes out; and then to add any necessary extra characters that emerge from the description, and score all the taxa for them.
 
@@ -29,9 +29,7 @@ The timeline of relevant papers, together which which characters in the matrix w
 * Mannion et al. (2019a) (Tendaguru sauropods) - C424-542
 * Mannion et al. (2019b) (_Jiangshanosaurus_) - C543-548
 
-The data for the present analysis in in the TNT data file [`archbishop.tnt`](archbishop.tnt). This is modified from the _Jiangshanosaurus_ matrix, which is part of [the online supplementary material for that paper](https://rs.figshare.com/collections/Supplementary_material_from_New_information_on_the_Cretaceous_sauropod_dinosaurs_of_Zhejiang_Province_China_impact_on_Laurasian_titanosauriform_phylogeny_and_biogeography_/4614920). (There are two files in the supplementary information, but they are byte-for-byte identical.)
-
-XXX At the time of writing, this is just a copy of the matrix used in the _Jiangshanosaurus_ matrix, but I will expand it once I am happy that I am replication the Mannion et al. (2019) analysis correctly.
+The master data for the present analysis in the Nexus data file [`archbishop.nex`](archbishop.nex), which is edited using [Mesquite](https://www.mesquiteproject.org/). From here, it is exported in TNT format to the file [`archbishop.tnt`](archbishop.tnt), which is what TNT can consume. This Nexus file was modified from the _Jiangshanosaurus_ matrix, which is supposed to be part of [the online supplementary material for that paper](https://rs.figshare.com/collections/Supplementary_material_from_New_information_on_the_Cretaceous_sauropod_dinosaurs_of_Zhejiang_Province_China_impact_on_Laurasian_titanosauriform_phylogeny_and_biogeography_/4614920). (There are two files in the supplementary information, but they are byte-for-byte identical copies of the TNT export -- but Phil Mannion sent me the Nexus file.)
 
 The characters are described in [`CharacterList.doc`](CharacterList.doc), kindly supplied by Phil Mannion.
 
