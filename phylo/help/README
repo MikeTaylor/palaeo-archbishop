@@ -1,0 +1,24 @@
+COMMANDS: 
+    absincl     agroup   alltrees  ancstates        apo     bbreak       beep 
+       best    bground    blength     blocks      break   bsupport      ccode 
+       cdir     change   chkmoves      chomo      ckeep        cls   clbuffer 
+     cnames   collapse    comcomp   condense  constrain      costs    cscores 
+     cstree      dcomp     dmerge      drift       edit       echo     export 
+        fit   fillsank      force   freqdifs       help       hold     hybrid 
+      ienum    incltax       info   lintrees        log       keep      kleex 
+     length        lik      lmark      lmbox  lmrealign     lquote       lset 
+   majority   matchtax        map     minmax   mixtrees      mkmap       mono 
+        mrp       mult      mxram     mxproc      naked     nelsen    nstates 
+   outgroup  procedure      pause   pcrprune      pfijo       piwe    pruncom 
+  prunmajor prunnelsen    pruntax     prupdn       ptnt  qcollapse    qnelsen 
+      quote       quit  randtrees    ratchet     rcompl       rdir    rebuild 
+     recons     report     reroot   resample     resols     rfreqs     riddup 
+      rseed        run       runc       save     screen     scores    sectsch 
+  shortread    shpcomp     silent      slfwt  slaveproc    smatrix       sort 
+    sprdiff     subopt      svtxt     system     tables     tagset    taxcode 
+  taxlabels   taxonomy    taxname    tchoose      tcomp     tequal      tfuse 
+     tgroup     thanks    timeout     tnodes      tplot      tread      tsave 
+    tshrink      tsize      ttags     tvault    txtsize      tzert       view 
+   vversion       warn      watch      xcomp     xgroup     xinact      xmult 
+      xperm      xpiwe      xread      xwipe     unique   unshared   usminmax 
+        zzz 
