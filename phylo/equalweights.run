@@ -6,9 +6,9 @@ taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
-hold 10000;
+hold 1000;
 
-xmult=consense 3 noratchet verbose;
+xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
 export = equalweights.tre;
 export - equalweights.export;
