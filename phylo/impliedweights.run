@@ -13,6 +13,7 @@ hold 200000;
 xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
 export = impliedweights.tre;
+export - impliedweights.export;
 
 nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
 tplot;

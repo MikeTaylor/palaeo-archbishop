@@ -11,6 +11,7 @@ hold 10000;
 xmult=consense 3 noratchet verbose;
 bbreak=tbr xbit safe;
 export = equalweights.tre;
+export - equalweights.export;
 
 pcrprune;
 
