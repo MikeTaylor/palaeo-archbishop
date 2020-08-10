@@ -1,16 +1,14 @@
 echo =;
 log impliedweights.log;
 mxram 2048;
+piwe=;
 proc archbishop.tnt;
+xpiwe=;
 taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
 hold 200000;
-
-piwe=;
-proc archbishop.tnt;
-xpiwe=;
 
 xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
