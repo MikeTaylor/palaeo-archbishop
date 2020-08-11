@@ -259,6 +259,10 @@ XXX To follow
 
 ![Composite view of Long-bone fragment L](figures/export/long-bone-l-composite.jpeg)
 
+> Composite view of Long-bone fragment L, probably a portion from the distal end of a right humerus. Top row: proximal view, anterior to top; Middle row, left to right: anterior, medial, posterior and lateral views; Bottom row: distal view, with posterior to top
+
+This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
+
 XXX To follow
 
 
@@ -319,6 +323,7 @@ XXX Just in the form of notes at this stage.
 * Janensch, Werner. 1914. Übersicht über der Wirbeltierfauna der Tendaguru-Schichten nebst einer kurzen Charakterisierung der neu aufgefuhrten Arten von Sauropoden. _Archiv für Biontologie_ **3**:81-110.
 * Janensch, Werner. 1920. Über _Elaphrosaurus bambergi_ und die Megalosaurier aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Sitzungsberichte der Gesellschaft naturforschender Freunde zu Berlin_ **1920**:225-235.
 * Janensch, Werner. 1922. Das Handskelett von _Gigantosaurus robustus_ und _Brachiosaurus brancai_ aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Centralblatt für Mineralogie, Geologie und Paläontologie_ **15**:464-480.
+* Janensch, Werner. 1961. Die Gliedmaszen und Gliedmaszengurtel der Sauropoden der Tendaguru-Schichten. _Palaeontographica_ (Suppl. 7) 3:177-235.
 * Lambe, Lawrence M. 1904. On the squamoso-parietal crest of the horned dinosaurs _Centrosaurus apertus_ and _Monoclonius canadensis_ from the Cretaceous of Alberta. _Transactions of the Royal Society of Canada_, series 2, **10**:1-9.
 * Lull, Richard S. 1911. The Reptilia of the Arundel Formation. pages 171-211 in:_Maryland Geological Survey Lower Cretaceous Volume_.
 * Maier, Gerhard. 2003. _African Dinosaurs Unearthed: The Tendaguru Expeditions_. Indiana University Press, Bloomington and Indianapolis. 380 pages.
