@@ -14,3 +14,4 @@ I'll be writing this paper in [GitHub Flavoured Markdown](https://github.github.
 
 All the work herein is licensed under [the Creative Commons Attribution 4.0 International licence (CC By 4.0)](https://creativecommons.org/licenses/by/4.0/). That means you are free to read, copy and modify it for any purpose, including commercial, subject only to the condition that you credit me as author and do not misrepresent my work.
 
+See also: [CT scan data for Cervical U of the Archbishop](https://github.com/MikeTaylor/palaeo-archbishop-ct/)
