@@ -227,11 +227,15 @@ XXX To follow
 
 XXX To follow
 
+XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, prespinal and postspinal laminae: form mediolaterally wide surfaces, with little anterior relief, ‘infilling’ the prespinal and postspinal fossae (0); form distinct mediolaterally narrow ridges or laminae along the midline of the prespinal and postspinal fossae (1) (Mannion et al., 2013).
+
 #### Dorsal vertebral neural spine C
 
 ![Composite view of Dorsal vertebral neural spine C](figures/export/dorsal-spine-c-composite.jpeg)
 
 XXX To follow
+
+XXX When I have recovered measurements of this both this and A+B, I will be able to score character C158: Dorsal neural spines, height: anterior dorsal neural spines subequal to or dorsoventrally shorter than posterior dorsal neural spines (0); anterior dorsal neural spines dorsoventrally taller than posterior dorsal neural spines (1) (Wilson, 2002; Taylor, 2009; Mannion et al., 2013).
 
 #### Dorsal vertebral centra Q and R
 
