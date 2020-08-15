@@ -19,6 +19,7 @@ UK.
 * [Historical background](#historical-background)
     * [The German East Africa Expeditions](#the-german-east-africa-expeditions)
     * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
+* [Contemporary accounts](#brachiosaurid-sauropods)
 * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
@@ -105,6 +106,29 @@ What few references there have been to NHMUK R5937 in the literature have often 
 
 
 
+## Contemporary accounts
+
+XXX Migeod papers: material found, quarry map, interpretations
+
+XXX Parrington papers
+
+Lots of good stuff at
+https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
+
+XXX Comments about Migeod (Huene etc.)
+
+Migeod's numbering of the vertebrae of this specimen was rather eccentric. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
+
+The identity of the "shoulder vertebra" can be established, though with some uncertainty, by the dimensions of XXXX its length and those of the vertebrae either side. Migeod (1931a:91) says "The first cervical (C1) is 33 inches long, compared with about two feet in _Diplodocus_". Hatcher (1901:38) gives the lengths of vertebral centra of the _Diplodocus carnegii_ holotype CM 84 as follows:
+C14 (642 mm = 25.3 inches),
+C15 (595 mm = 23.4 inches),
+D1 (510 mm = 20.1 inches) and
+D2 (416 mm = 16.4 inches).
+On this basis alone, we can conclude that by the "shoulder vertebra", of "about two feet" in length, Migeod most likely meant what we would designate C15 (or, less probably, C14).
+
+XXX Diplodocus C15 595x542, D1 510x614, D2 416x691
+
+
 ## Brachiosaurid sauropods
 
 XXX To follow
@@ -114,6 +138,8 @@ XXX To follow
 ## Description
 
 ### Catalogue of material
+
+Many of the elements that were prepared long age have either Migeod's quarry number M23 painted directly on them, or the specimen number R 5937 written on a small, round yellow label firmly fixed to the bone, so their inclusion in the hypodigm is easy to establish.
 
 Since the serial positions of vertebrae are not possible to determine with confidence, the various elements have been assigned letters. The letters were assigned piecemeal some time ago, and are no particular order. They convey no implication of serial position. Available material of the Archbishop includes:
 
@@ -138,7 +164,7 @@ O | ?coracoid | Flat, subcircular piece of bone.
 M | ?pubis | Portion of a bone with a complex shape.
 L | long-bone fragment | Portion from the shaft of a limb bone, both ends missing.
 
-In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition. However, these do not look promising in their ability to deliver further informative material. They are too small to contain complete vertebrae or even substantial partial vertebral material, and since there is no reason to expect that they contain cranial material, it is likely that the contents are mostly limb- and girld-bone fragments and indeterminate scraps. However, the chance remains that some diagnost material is contained, and the jackets should be prepped as circumstances allow.
+In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition. However, these do not look promising in their ability to deliver further informative material. They are too small to contain complete vertebrae or even substantial partial vertebral material, and since there is no reason to expect that they contain cranial material, it is likely that the contents are mostly limb- and girld-bone fragments and indeterminate scraps. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
 
 
 ### Cervical vertebrae
@@ -151,6 +177,8 @@ XXX To follow
 ![Composite view of Cervical W](figures/export/cervical-w-composite.jpeg)
 
 > **Figure W.** NHMUK PV R5937, "The Archbishop", cervical vertebra W. On the assumption that the middle part of this illustration is right lateral, the parts are as follows. Top row: dorsal view (anterior to left); middle row (left to right): posterior, right lateral and anterior views; bottom row: ventral view (anterior to right).
+
+XXX Jacket said "C3".
 
 XXX To follow
 
@@ -168,6 +196,8 @@ XXX To follow
 
 > **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
+XXX Cervical U is approximately 81cm long.
+
 XXX To follow
 
 #### Cervical P
@@ -176,6 +206,10 @@ XXX To follow
 
 > **Figure P.** NHMUK PV R5937, "The Archbishop", cervical vertebra P. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
+"No 5" is painted on the left dorsolateral aspect of the posterior end of this vertebra in white paint.  This may represent Migeod's observation of the position it was found in, indicating that it is the fifth most proximal cervical (i.e. C9 if the neck has thirteen vertebrae like _Giraffatitan_), but may only be a field number.
+
+XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals.
+
 XXX To follow
 
 #### Cervical S
@@ -183,6 +217,8 @@ XXX To follow
 ![Composite view of Cervical S](figures/export/cervical-s-composite.jpeg)
 
 > **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
+
+XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to condyle).  Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top.  18cm across cotyle (vertical). 18cm across cotyle (horizontal) also.
 
 ![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
 
@@ -200,6 +236,8 @@ XXX To follow
 
 > **Figure T.** NHMUK PV R5937, "The Archbishop", cervical vertebra T. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
+XXX Cervical T is about 80cm long, but too awkwardly located to measure more fully. It is in poor condition.
+
 ![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
 
 > **Figure T2.** NHMUK PV R5937, "The Archbishop", cervical vertebra T in anterior view, red-cyan anaglyph.
@@ -213,6 +251,8 @@ XXX To follow
 ![Box of cervical rib fragments](figures/export/cervical-rib-box.jpeg)
 
 > **Figure X.** NHMUK PV R5937, "The Archbishop", cervical ribs and fragments. In the middle of the bottom part of the illustration is left cervical rib X1 (see below), here seen in dorsomedial view with anterior to the bottom right; at the top right, just below the horizontal rib shaft, is right cervical rib X2 (see below), here seen in dorsomedial view with anterior to the left; at the bottom left, to the left of X1, is right cervical rib X3 (see below), here seen in dorsomedial view with anterior to the left. Elsewhere in the box are fragments of rib shaft, some of which may belong to X1, X2 or X3.
+
+XXX These are described as ossified tendons and were long. Rescore the character for CR length.
 
 XXX To follow
 
@@ -275,7 +315,16 @@ XXX When I have recovered measurements of this both this and A+B, I will be able
 
 > **Figure QR.** NHMUK PV R5937, "The Archbishop", dorsal vertebral centra Q (anterior) and R (posterior). Top row: left lateral; middle row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, anterior.
 
-XXX To follow
+Measurements (all in cm) | Q | R
+:----------------------- | : | :
+Length (front of condyle to cotyle) | 32 | 35 est.
+Length (back of condyle to cotyle) | 26 | 29
+Width of cotyle | -- | 23
+Height of cotyle | -- | 25 est.: top lip of cotyle is missing
+Total preserved height (top of arch to bottom of cotyle) | -- | 35
+
+
+XXX To follow. These are quite heavily damaged and restored.
 
 ### "Lump Z"
 
@@ -302,6 +351,8 @@ XXX To follow
 ![Composite view of Long-bone fragment L](figures/export/long-bone-l-composite.jpeg)
 
 > **Figure L.** NHMUK PV R5937, "The Archbishop", long-bone fragment L, probably a portion from the distal end of a right humerus. Top row: proximal view (anterior to top); Middle row, left to right: anterior, medial, posterior and lateral views; Bottom row: distal view (posterior to top)
+
+Measurements: 46 cm along the longer side, 35cm along the shorter side, 30cm wide and 12cm thick at the larger end (the 12cm being at the narrow midpoint), 24x16cm at narrow end (the 24cm being exaggerated by the diagonal breakage. I estimate 22cm orthogonally.) There is no sign of a marrow cavity.
 
 This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
 
@@ -364,6 +415,7 @@ XXX Just in the form of notes at this stage.
 * Fraas, Eberhard. 1908. Ostafrikanische Dinosaurier. _Palaeontographica_ **55**:105-144.
 * Galton, Peter M. 1977. The ornithopod dinosaur _Dryosaurus_ and a Laurasia-Gondwanaland connection in the Upper Jurassic. _Nature_ **268**:230-232.
 * Glut, Donald F. 1997. _Dinosaurs: the Encyclopedia_. McFarland & Company, Inc., Jefferson, North Carolina. 1076 pages.
+* Hatcher, Jonathan B. 1901. _Diplodocus_ (Marsh): its osteology, taxonomy and probable habits, with a restoration of the skeleton. _Memoirs of the Carnegie Museum_ **1**:1-63 and plates I-XIII.
 * Hennig, Edwin. 1915. _Kentrosaurus aethiopicus_ der Stegosauride des Tendaguru. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1915**:219-247.
 * Hennig, Edwin. 1916. Zweite Mitteilung über den Stegosauriden vom Tendaguru. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1916**:175-182.
 * Janensch, Werner. 1914. Übersicht über der Wirbeltierfauna der Tendaguru-Schichten nebst einer kurzen Charakterisierung der neu aufgefuhrten Arten von Sauropoden. _Archiv für Biontologie_ **3**:81-110.
