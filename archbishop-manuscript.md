@@ -150,11 +150,15 @@ XXX To follow
 
 ![Composite view of Cervical W](figures/export/cervical-w-composite.jpeg)
 
+> **Figure W.** NHMUK PV R5937, "The Archbishop", cervical vertebra W. On the assumption that the middle part of this illustration is right lateral, the parts are as follows. Top row: dorsal view (anterior to left); middle row (left to right): posterior, right lateral and anterior views; bottom row: ventral view (anterior to right).
+
 XXX To follow
 
 #### Cervical V
 
 ![Composite view of Cervical V](figures/export/cervical-v-composite.jpeg)
+
+> **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
 XXX To follow
 
@@ -162,11 +166,15 @@ XXX To follow
 
 ![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
 
+> **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
+
 XXX To follow
 
 #### Cervical P
 
 ![Composite view of Cervical P](figures/export/cervical-p-composite.jpeg)
+
+> **Figure P.** NHMUK PV R5937, "The Archbishop", cervical vertebra P. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
 XXX To follow
 
@@ -174,9 +182,15 @@ XXX To follow
 
 ![Composite view of Cervical S](figures/export/cervical-s-composite.jpeg)
 
+> **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
+
 ![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
 
+> **Figure S2.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in right posterolateral view, red-cyan anaglyph.
+
 ![Red-cyan anaglyph of Cervical S in posterior view](figures/export/archbishop-cervical-s--hyposphene-3d.jpeg)
+
+> **Figure S3.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in posterior view, close-up of postzygapophyses, ?hyposphene and neural canal, red-cyan anaglyph.
 
 XXX To follow
 
@@ -184,7 +198,11 @@ XXX To follow
 
 ![Composite view of Cervical T](figures/export/cervical-t-composite.jpeg)
 
+> **Figure T.** NHMUK PV R5937, "The Archbishop", cervical vertebra T. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
+
 ![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
+
+> **Figure T2.** NHMUK PV R5937, "The Archbishop", cervical vertebra T in anterior view, red-cyan anaglyph.
 
 XXX To follow
 
@@ -192,7 +210,9 @@ XXX To follow
 
 ### Cervical ribs
 
-![Box os cervical rib fragments](figures/export/cervical-rib-box.jpeg)
+![Box of cervical rib fragments](figures/export/cervical-rib-box.jpeg)
+
+> **Figure X.** NHMUK PV R5937, "The Archbishop", cervical ribs and fragments. In the middle of the bottom part of the illustration is left cervical rib X1 (see below), here seen in dorsomedial view with anterior to the bottom right; at the top right, just below the horizontal rib shaft, is right cervical rib X2 (see below), here seen in dorsomedial view with anterior to the left; at the bottom left, to the left of X1, is right cervical rib X3 (see below), here seen in dorsomedial view with anterior to the left. Elsewhere in the box are fragments of rib shaft, some of which may belong to X1, X2 or X3.
 
 XXX To follow
 
@@ -200,17 +220,23 @@ XXX To follow
 
 ![Composite view of Cervical rib X1](figures/export/cervical-rib-x1-composite.jpeg)
 
+> **Figure X1.** NHMUK PV R5937, "The Archbishop", left cervical rib X1. Top row: anterior view (dorsal to left, medial to bottom); middle row (left to right, all with anterior to top): lateral, dorsal, medial, ventral; bottom row: posterior (dorsal to left, medial to top).
+
 XXX To follow
 
 #### Cervical rib X2
 
 ![Composite view of Cervical rib X2](figures/export/cervical-rib-x2-composite.jpeg)
 
+> **Figure X2.** NHMUK PV R5937, "The Archbishop", right cervical rib X2. Top row: anterior view (dorsal to right, medial to bottom); middle row (left to right, all with anterior to top): ventral, medial, dorsal, lateral; bottom row: posterior (dorsal to right, medial to top).
+
 XXX To follow
 
 #### Cervical rib X3
 
 ![Composite view of Cervical rib X3](figures/export/cervical-rib-x3-composite.jpeg)
+
+> **Figure X3.** NHMUK PV R5937, "The Archbishop", right cervical rib X3. Top row: anterior view (dorsal to right, medial to bottom); middle row (left to right, all with anterior to top): ventral, medial, dorsal, lateral; bottom row: posterior (dorsal to right, medial to top).
 
 XXX To follow
 
@@ -223,7 +249,11 @@ XXX To follow
 
 ![Composite view of Dorsal vertebrae A and B](figures/export/dorsals-ab-composite.jpeg)
 
+> **Figure AB.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A (anterior) and B (posterior). Top row: dorsal view (anterior to right); bottom row (left to right): left lateral, posterior, right lateral, anterior.
+
 ![Red-cyan anaglyph of Dorsal vertebrae A and B](figures/export/archbishop-dorsals-ab--right-posterolateral-3d.jpeg)
+
+> **Figure AB2.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A and B, right posterolateral view, red-cyan anaglyph.
 
 XXX To follow
 
@@ -233,6 +263,8 @@ XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, p
 
 ![Composite view of Dorsal vertebral neural spine C](figures/export/dorsal-spine-c-composite.jpeg)
 
+> **Figure C.** NHMUK PV R5937, "The Archbishop", dorsal neural spine C. Top row: dorsal view (anterior to top); middle row (left to right): anterior, left lateral, posterior, right lateral; bottom row: ventral (anterior to bottom).
+
 XXX To follow
 
 XXX When I have recovered measurements of this both this and A+B, I will be able to score character C158: Dorsal neural spines, height: anterior dorsal neural spines subequal to or dorsoventrally shorter than posterior dorsal neural spines (0); anterior dorsal neural spines dorsoventrally taller than posterior dorsal neural spines (1) (Wilson, 2002; Taylor, 2009; Mannion et al., 2013).
@@ -241,13 +273,19 @@ XXX When I have recovered measurements of this both this and A+B, I will be able
 
 ![Composite view of Dorsal vertebral centra Q and R](figures/export/dorsals-qr-composite.jpeg)
 
+> **Figure QR.** NHMUK PV R5937, "The Archbishop", dorsal vertebral centra Q (anterior) and R (posterior). Top row: left lateral; middle row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, anterior.
+
 XXX To follow
 
 ### "Lump Z"
 
 ![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
 
+> **Figure Z.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing unprepared bones, possibly dorsal neural spines in posterior view. Orientation assigned on the assumption of these spines being the correct interpretation. Top row: dorsal view (anterior to top); middle row (left to right): left lateral, posterior, right lateral; bottom row: ventral (anterior to bottom).
+
 ![Red-cyan anaglyph of Lump Z](figures/export/archbishop-lump-z-dorsal-3d.jpeg)
+
+> **Figure Z2.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing unprepared bones, possibly dorsal neural spines in posterior view, red-cyan anaglyph. Posterior to right.
 
 XXX To follow
 
@@ -263,7 +301,7 @@ XXX To follow
 
 ![Composite view of Long-bone fragment L](figures/export/long-bone-l-composite.jpeg)
 
-> Composite view of Long-bone fragment L, probably a portion from the distal end of a right humerus. Top row: proximal view, anterior to top; Middle row, left to right: anterior, medial, posterior and lateral views; Bottom row: distal view, with posterior to top
+> **Figure L.** NHMUK PV R5937, "The Archbishop", long-bone fragment L, probably a portion from the distal end of a right humerus. Top row: proximal view (anterior to top); Middle row, left to right: anterior, medial, posterior and lateral views; Bottom row: distal view (posterior to top)
 
 This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
 
@@ -273,6 +311,8 @@ XXX To follow
 ### Pubis M
 
 ![Composite view of Pubis M](figures/export/pubis-m-composite.jpeg)
+
+> **Figure M.** NHMUK PV R5937, "The Archbishop", ?pubis M. Top row: dorsal (anterior to left); Middle row, left to right: left lateral, posterior.
 
 XXX To follow
 
@@ -313,6 +353,8 @@ XXX Just in the form of notes at this stage.
 * David M. Unwin and Wolf-Dieter Heinrich (then both HMN) and Daniela Schwarz (MB) for access to _Giraffatitan brancai_.
 * William F. Simpson (FMNH) for access to _Brachiosarus altithorax_.
 * Ken Carpenter for photographs of _Cedarosaurus_ dorsals.
+* Phil Mannion for the Lusotitan matrix and guidance with coding.
+* Ben Moon and Steve Vidovic for help with scripting TNT.
 
 
 
