@@ -196,7 +196,7 @@ XXX To follow
 
 > **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
-XXX Cervical U is approximately 81cm long.
+XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
 
 XXX To follow
 
@@ -208,7 +208,7 @@ XXX To follow
 
 "No 5" is painted on the left dorsolateral aspect of the posterior end of this vertebra in white paint.  This may represent Migeod's observation of the position it was found in, indicating that it is the fifth most proximal cervical (i.e. C9 if the neck has thirteen vertebrae like _Giraffatitan_), but may only be a field number.
 
-XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals.
+XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals. The cotyle height is estimated at 22 cm. OLD/new-visit also measures it as 90cm.
 
 XXX To follow
 
@@ -218,7 +218,7 @@ XXX To follow
 
 > **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
-XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to condyle).  Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top.  18cm across cotyle (vertical). 18cm across cotyle (horizontal) also.
+XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to condyle).  Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top.  18cm across cotyle (vertical). 18cm across cotyle (horizontal) also. But OLD/new-visit measures it as 72cm.
 
 ![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
 
@@ -236,7 +236,7 @@ XXX To follow
 
 > **Figure T.** NHMUK PV R5937, "The Archbishop", cervical vertebra T. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
-XXX Cervical T is about 80cm long, but too awkwardly located to measure more fully. It is in poor condition.
+XXX Cervical T is about 80cm long, but too awkwardly located to measure more fully. It is in poor condition. But OLD/new-visit measures it as 85cm.
 
 ![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
 
@@ -315,14 +315,15 @@ XXX When I have recovered measurements of this both this and A+B, I will be able
 
 > **Figure QR.** NHMUK PV R5937, "The Archbishop", dorsal vertebral centra Q (anterior) and R (posterior). Top row: left lateral; middle row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, anterior.
 
-Measurements (all in cm) | Q | R
-:----------------------- | : | :
+Measurements (all in cm) | Q   | R
+:----------------------- | :-- | :--
 Length (front of condyle to cotyle) | 32 | 35 est.
 Length (back of condyle to cotyle) | 26 | 29
 Width of cotyle | -- | 23
 Height of cotyle | -- | 25 est.: top lip of cotyle is missing
 Total preserved height (top of arch to bottom of cotyle) | -- | 35
 
+XXX The portion of the centrum ventral to the lateral foramina is very rounded laterally and thick, whereas that of _B. brancai_ is more V-shaped and thin (see the cross-section in Janensch ?1950). This morphology is also evident, though less obvious, in Dorsals A and B.
 
 XXX To follow. These are quite heavily damaged and restored.
 
