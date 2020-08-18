@@ -1,19 +1,19 @@
 The old Archibishop project are in ~/git/mike/dino/archbishop contains many files in various states of obsoleteness. Here I note which ones I have absorbed into the present project.
 
-	2009-11-09-visit/to-check
+DONE	2009-11-09-visit/to-check
 	Naish_Archbishop_drawing_2001.jpg	Check whether interpretation matches mine
-	Notes
-	README
+DONE	Notes
+DONE	README
 	apomorphies
-	berlin1/
-	boba/
+	berlin1/			Descriptive notes about individual dorsals
+	boba/comparison			Comparison with Archbishop
 	brachiosaur-characters
 	brachiosauridae
 DONE	catalogue.txt
-	checklist
-	cladistics/
+DONE	checklist
+DONE	cladistics/
 DONE	ct-scan/
-	don-glut
+DONE	don-glut
 	dorsals
 	dorsals2
 DONE	dwarf-brachiosaur
@@ -46,7 +46,7 @@ DONE	plea				Trying to get permission to work on the Archibishop
 	plos/text.odt			Check for uncopied manucript material
 	plos/vertebra-lengths.xls	Contains lengths for mC1, shoulder, D1
 DONE	proposal.doc			LOL
-	ralph-molnar			Explaination of "plectrum" = scapulocoracoid
+DONE	ralph-molnar			Explaination of "plectrum" = scapulocoracoid
 DONE	rauhut-on-brachiosaurus		Needless worry about overlapping work
 DONE	reconstructions/		Skeletal recons of brachiosaurids
 DONE	references			Refs for various relevant papers
