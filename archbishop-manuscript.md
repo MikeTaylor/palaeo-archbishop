@@ -112,7 +112,9 @@ XXX Migeod papers: material found, quarry map, interpretations
 
 XXX Parrington papers
 
-Lots of good stuff at
+XXX Migeod speaks of the dorsal vertebrae having "wings". FMNH P25107's presacral P7 shows an "apron" similar to that of SII.D?7 -- a wide, contiguous set of horizontal laminae joining prezygs to diapophyses and postzygs.  This morphology is unusual, and may be what Migeod refers to as "wings".
+
+XXX Lots of good stuff at
 https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
 
 XXX Comments about Migeod (Huene etc.)
@@ -299,6 +301,10 @@ XXX To follow
 
 XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, prespinal and postspinal laminae: form mediolaterally wide surfaces, with little anterior relief, ‘infilling’ the prespinal and postspinal fossae (0); form distinct mediolaterally narrow ridges or laminae along the midline of the prespinal and postspinal fossae (1) (Mannion et al., 2013).
 
+XXX Compare the Archbishop with the Potter Creek vertebra described in Jensen 1987, p. 606.
+
+XXX The Archbishop dorsals used to be on display: include photo of the display label about the "huge amphibious reptile".
+
 #### Dorsal vertebral neural spine C
 
 ![Composite view of Dorsal vertebral neural spine C](figures/export/dorsal-spine-c-composite.jpeg)
@@ -371,6 +377,8 @@ XXX To follow
 
 
 ## Comparisons
+
+XXX SI and SII cervicals are not that similar: make composite illustrations from Janensch 1950a.
 
 XXX To follow
 
