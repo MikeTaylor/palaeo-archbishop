@@ -19,7 +19,7 @@ UK.
 * [Historical background](#historical-background)
     * [The German East Africa Expeditions](#the-german-east-africa-expeditions)
     * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
-* [Contemporary accounts](#brachiosaurid-sauropods)
+* [Contemporary accounts](#contemporary-accounts)
 * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
@@ -43,6 +43,7 @@ UK.
     * [Long-bone fragment L](#long-bone-fragment-l)
     * [Pubis M](#pubis-m)
 * [Comparisons](#comparisons)
+    * [Are Janensch's two specimens the same taxon?](#are-janenschs-two-specimens-the-same-taxon)
 * [Phylogenetic analysis](#phylogenetic-analysis)
 * [Systematic Palaeontology](#systematic-palaeontology)
 * [Discussion](#discussion)
@@ -378,10 +379,15 @@ XXX To follow
 
 ## Comparisons
 
-XXX SI and SII cervicals are not that similar: make composite illustrations from Janensch 1950a.
-
 XXX To follow
 
+### Are Janensch's two specimens the same taxon?
+
+![Cervical vertebrae referred to _Giraffatitan brancai_](figures/export/si-and-sii-cervical-comparison.jpeg)
+
+> Cervical vertebrae referred by Janensch (1950) to _Giraffatitan brancai_ ("_Brachiosaurus_" _brancai_ of his usage). Left block: lectoype MB.R.2180 ("SI"); right block: paralectotype MB.R.2181 ("SII"). Within each block: left column: posterior view, middle column: lateral, right column: anterior. Rows, from top to bottom: C2, C3, C4, C5, C6, C7, C8. All illustrations taken from Janensch (1950:figures 14-46). Cervicals 6, 7 and 8 of MB.R.2181 ("SII") were illustrated in left lateral view, and are here reversed for consistency with the right lateral views of the other vertebrae. Cervicals 3-7 represent the only overlapping material between the two specimens.
+
+XXX SI and SII cervicals are not actually that similar
 
 
 ## Phylogenetic analysis
