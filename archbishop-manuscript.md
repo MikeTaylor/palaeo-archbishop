@@ -371,7 +371,9 @@ XXX To follow
 
 ![Composite view of Pubis M](figures/export/pubis-m-composite.jpeg)
 
-> **Figure M.** NHMUK PV R5937, "The Archbishop", ?pubis M. Top row: dorsal (anterior to left); Middle row, left to right: left lateral, posterior.
+> **Figure M.** NHMUK PV R5937, "The Archbishop", possible left pubis M. Top row: dorsal (anterior to left); Middle row, left to right: left lateral, posterior.
+
+XXX Compare with Janensch (1961: beilage G: figure 2a, and see DSCN2965.JPG
 
 XXX To follow
 
