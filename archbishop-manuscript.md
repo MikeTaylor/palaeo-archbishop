@@ -302,6 +302,8 @@ XXX To follow
 
 XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, prespinal and postspinal laminae: form mediolaterally wide surfaces, with little anterior relief, ‘infilling’ the prespinal and postspinal fossae (0); form distinct mediolaterally narrow ridges or laminae along the midline of the prespinal and postspinal fossae (1) (Mannion et al., 2013).
 
+XXX What about 'C486. Posterior dorsal and/or sacral neural spines, dorsoventral height to centrum length ratio: 2.0 or greater (0); less than 2.0 (1) (Upchurch, 1998; Wilson, 2002; polarity reversed here).'? Depends on definition of spine. If height above base of postzyg then short.
+
 XXX Compare the Archbishop with the Potter Creek vertebra described in Jensen 1987, p. 606.
 
 XXX The Archbishop dorsals used to be on display: include photo of the display label about the "huge amphibious reptile".
