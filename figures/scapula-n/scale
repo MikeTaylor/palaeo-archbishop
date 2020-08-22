@@ -1,0 +1,28 @@
+I want to make a composite of the three pieces of scapula, keeping the
+pieces in scale. I am working from:
+
+DSCN2958.JPG -- all three pieces, to scale of course
+DSCN2960.JPG -- middle portion
+DSCN2961.JPG -- distal portion (obscured by scalebar)
+DSCN2962.JPG -- distal portion
+
+Since I stupidly did not get a good photo of the proximal postion, the goal is to make a composite of:
+* middle portion from DSCN2960.JPG
+* distal portion from DSCN2962.JPG
+* proximal portion from the top left part of DSCN2958.JPG
+
+To scale the bones from the different images, I need measurements:
+* middle portion greatest diameter:
+	DSCN2958.JPG -- 1561 pixels
+	DSCN2960.JPG -- 2136 pixels
+	=> scaled up by 2136/1561 = 1.368
+* distal portion greatest diameter:
+	DSCN2958.JPG -- 885 pixels
+	DSCN2962.JPG -- 1857 pixels
+	=> scaled up by 1857/885 = 2.098
+
+So to bring all the pieces together at the resolution of the middle portion I need:
+* DSCN2960.JPG at its natural resolution
+* top left part of DSCN2958.JPG scaled by 1.368
+* DSCN2962.JPG scaled by 1.368/2.098 = 0.652
+
