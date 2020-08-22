@@ -172,6 +172,8 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 ### Cervical vertebrae
 
+XXX generally less laminated: see e.g. C406.
+
 XXX To follow
 
 
