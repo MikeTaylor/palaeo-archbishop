@@ -39,7 +39,7 @@ UK.
         * [Dorsal vertebral neural spine C](#dorsal-vertebral-neural-spine-c)
         * [Dorsal vertebral centra Q and R](#dorsal-vertebral-centra-q-and-r)
     * ["Lump Z"](#lump-z)
-    * ["Scapula"](#scapula)
+    * [Scapula N](#scapula-n)
     * [Long-bone fragment L](#long-bone-fragment-l)
     * [Pubis M](#pubis-m)
     * [Unprepared jackets](#unprepared-jackets)
@@ -163,7 +163,7 @@ A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentiall
 C | dorsal neural spine | Isolated neural arch and spine from a dorsal vertebra.
 Q/R | dorsal centra | Conjoined consecutive pair of dorsal vertebral centra.
 Z | semi-prepared jacket | Difficult-to-interpret set of bones, almost certainly vertebral processes.
-N | ?scapula | Two pieces of uninformative flat bone.
+N | scapula | Three pieces of mostly uninformative flat bone.
 O | ?coracoid | Flat, subcircular piece of bone.
 M | ?pubis | Portion of a bone with a complex shape.
 L | long-bone fragment | Portion from the shaft of a limb bone, both ends missing.
@@ -352,9 +352,13 @@ XXX To follow. These are quite heavily damaged and restored.
 XXX To follow
 
 
-### "Scapula"
+### Scapula N
 
-[No illustrations yet.]
+![Composite view of Scapula S](figures/export/scapula-n-composite.jpeg)
+
+> **Figure N.** NHMUK PV R5937, "The Archbishop", Three parts of a scapula: from left to right, parts N1, N2 and N3, described respectively on their field jackets as proximal, [(XXX illegible)](OLD/photos/2005-09-05/jackets/dscn1662.jpg) and distal. Note that the arrangement and orientation of the parts here is purely speculative.
+
+XXX The only identifiable features are the acromion process and fossa on the dorsal margin of part N2. If this part of the bone is correctly identified, then the absence of a discernable acromion ridge suggests that the medial side of the scapular has been prepared, in which case this would be a right scapula.
 
 XXX To follow
 
@@ -387,24 +391,24 @@ XXX To follow
 
 ![Unprepared jackets](figures/export/all-unprepped-jackets--dscn1643-dscn1647.jpg)
 
-> **Figure J.** NHMUK PV R5937, "The Archbishop", jackets containing as-yet unprepared material. See text for catalogue.
+> **Figure J.** NHMUK PV R5937, "The Archbishop", jackets containing as-yet unprepared material as of 5 September 2005. See text for catalogue.
 
 * Shelf 1
-  * **A.** "M 23 / Scapula 8 / Distal [something] / 3.7.30" (7 may be 2)
-  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30"
-  * **C.** "M 23 / Scapula / Proximal end / 3.7.30"
+  * **A.** "M 23 / Scapula 8 / Distal end / 3.7.30" XXX Subsequently prepped as the most photographed piece of scapula.
+  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30". XXX Subsequently prepped as the ilum-like piece of scapula. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
+  * **C.** "M 23 / Scapula / Proximal end / 3.7.30". XXX Subsequently prepped as the most overlooked piece of scapula.
 * Shelf 2
   * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
-  * **E.** "M 23 / Ilium part 2 / 6/30"
-  * **F.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
+  * **E.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
+  * **F.** "M 23 / Ilium part 2 / 6/30"
   * **G.** "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
   * **H.** "M 23 / Dorsal Vert No. 3 / Neural spine / upper / (i.e. left side) / 23.7.30"
 * Shelf 3
   * **I.** Three labels:
     * "Cerv 3 / Block B / Distal + lower end"
     * "Cervical / vert. No. 3 / Block B / 26/7/30"
-    * "Cerv. V: 3 / Junction with / Block E by / "brodie""
-  * **J.**  M 23 / Cervical Vert 3 / Block E / 26.7.30
+    * "Cerv. V: 3 / Junction with / Block E by / 'brodie'"
+  * **J.** "M 23 / Cervical Vert 3 / Block E / 26.7.30". Subsequently prepared as Cervical W
 * Shelf 4
   * **K.** "Sacral / part / B"
   * **L.** (no label)
@@ -415,7 +419,7 @@ XXX To follow
   * **P.** "M 23 / next / (sacral) / Vert 10 / Ventral edge / 6/30"
   * **Q.** "M 23 / Dorsal Vert 6 / 3.7.30"
 * Shelf 6
-  * **R.** "M 23 Cervical [written on plaster; label is torn]"
+  * **R.** "M 23 Cervical" (written on plaster; label is torn). XXX MAYBE Subsequently prepared as [Cervical V](#cervical-v).
   * **S.** (two labels, both illegible] "D5" scratched into plaster)
 
 XXX To follow
