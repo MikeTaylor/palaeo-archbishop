@@ -42,6 +42,7 @@ UK.
     * ["Scapula"](#scapula)
     * [Long-bone fragment L](#long-bone-fragment-l)
     * [Pubis M](#pubis-m)
+    * [Unprepared jackets](#unprepared-jackets)
 * [Comparisons](#comparisons)
     * [Are Janensch's two specimens the same taxon?](#are-janenschs-two-specimens-the-same-taxon)
 * [Phylogenetic analysis](#phylogenetic-analysis)
@@ -381,6 +382,43 @@ XXX Compare with Janensch (1961: beilage G: figure 2a, and see DSCN2965.JPG
 
 XXX To follow
 
+
+### Unprepared jackets
+
+![Unprepared jackets](figures/export/all-unprepped-jackets--dscn1643-dscn1647.jpg)
+
+> **Figure J.** NHMUK PV R5937, "The Archbishop", jackets containing as-yet unprepared material. See text for catalogue.
+
+* Shelf 1
+  * **A.** "M 23 / Scapula 8 / Distal [something] / 3.7.30" (7 may be 2)
+  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30"
+  * **C.** "M 23 / Scapula / Proximal end / 3.7.30"
+* Shelf 2
+  * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
+  * **E.** "M 23 / Ilium part 2 / 6/30"
+  * **F.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
+  * **G.** "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
+  * **H.** "M 23 / Dorsal Vert No. 3 / Neural spine / upper / (i.e. left side) / 23.7.30"
+* Shelf 3
+  * **I.** Three labels:
+    * "Cerv 3 / Block B / Distal + lower end"
+    * "Cervical / vert. No. 3 / Block B / 26/7/30"
+    * "Cerv. V: 3 / Junction with / Block E by / "brodie""
+  * **J.**  M 23 / Cervical Vert 3 / Block E / 26.7.30
+* Shelf 4
+  * **K.** "Sacral / part / B"
+  * **L.** (no label)
+  * **M.** "M 23 / Cervical No. 9 / + frag of / No. 10 / 6/30"
+  * **N.** (no label)
+* Shelf 5
+  * **O.** "M 23 / Scapula 10 / Distal end / 9.7.30"
+  * **P.** "M 23 / next / (sacral) / Vert 10 / Ventral edge / 6/30"
+  * **Q.** "M 23 / Dorsal Vert 6 / 3.7.30"
+* Shelf 6
+  * **R.** "M 23 Cervical [written on plaster; label is torn]"
+  * **S.** (two labels, both illegible] "D5" scratched into plaster)
+
+XXX To follow
 
 
 ## Comparisons
