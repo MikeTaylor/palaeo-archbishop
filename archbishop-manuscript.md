@@ -9,6 +9,7 @@ UK.
 
 
 
+
 ## Contents
 
 <!-- md2toc -l 2 -s 1 archbishop-manuscript.md -->
@@ -53,15 +54,18 @@ UK.
 
 
 
+
 ## Abstract
 
 XXX To follow
 
 
 
+
 ## Introduction
 
 The German East Africa expeditions of the Humboldt Museum für Naturkunde in the period before the First World War were among the most ambitious ever undertaken (Maier 2003), and yielded many superb dinosaur skeletons including the type specimens of new sauropod, theropod and ornithischian dinosaurs. After the war, the subsequent expeditions of the British Museum (Natural History) were much humbler affairs, and their results were correspondingly unimpressive. The best specimen -- a large and fairly complete sauropod skeleton -- was excavated and returned to London, but was then largely ignored for the next 75 years. In this paper, I describe this overlooked specimen, assess its affinities, and discuss its implications for sauropod systematics and palaeoecology.
+
 
 
 ### Institutional abbreviations
@@ -72,12 +76,18 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 * MB -- Museum für Naturkunde Berlin, Berlin Germany. Formerly HMN, Humboldt Museum für Naturkunde.
 * NHMUK -- National History Museum, London, UK. Formerly BMNH, British Museum (Natural History.
 
+
+
 ### Anatomical nomenclature
 
 XXX To follow
 
 
+
+
 ## Historical background
+
+
 
 ### The German East Africa Expeditions
 
@@ -94,6 +104,7 @@ As recounted in detail by Taylor (2009), Janensch's referral of the species “_
 The name “_Gigantosaurus_” has the most complex history of all. Fraas chose this name in full knowledge that it had already been used for the poorly represented English genus _Gigantosaurus_ Seeley, 1869, but wrongly believing that the name was available as Seeley had not described or figured the material that his own genus was founded on. He named the type species _G_. _africanus_ and referred a second species, _G_. _robustus_. Recognising Fraas's error in using a preoccupied name, Sternfeld (1911) renamed the German genus _Tornieria_, the two species becoming _T_. _africana_ and _T_. _robusta_. Janensch (1922), however, continued to use the older name “_Gigantosaurus_”, but observed in a footnote that differences such as possession of bifid neural spines in “_G_”. _africanus_ and single spines in “_G_”. _robustus_ required generic separation. Believing the type species “_G_”. _africanus_ to belong to the North American genus _Barosaurus_ Marsh, 1890, Janensch referred to the two species as _Barosaurus africanus_ and _Gigantosaurus robustus_. The latter name would have been invalid even if the genus _Gigantosaurus_ had not been preoccipied, since its type species had been removed making _Gigantosarus_ a junior subjective synonym of _Barosaurus_; however, Janensch did not refer the remaining species _robustus_ to a new genus as he should have done. This was eventually done by Wild (1991), who placed the species in the new genus _Janenschia_ as _J_. _robusta_, and assigned it to Titanosauria. Bonaparte et al (2000), however, noted that the axial material assigned to _Janenschia_ was not convincingly associated with the appendicular type material, and removed this material to another new genus, _Tendaguria_. They considered _Janenschia_ to be a camarasaurid and _Tendaguria_ to belong to its own monogeneric family due to the very unusual morphology of the dorsal vertebra on which is was based. Janensch's referral of the _Tornieria africana_ material to _Barosaurus_ was mostly followed, but McIntosh (2005) questioned this, considering it more similar to _Diplodocus_ and not convincingly congeneric with either. Remes (2006) restudied this material and concluded that it represents a distinct genus for which he resurrecting the available name _Tornieria_, which now contains only the single species _T_. _africana_. Finally, Remes (2007) noted that two cervical vertebrae that had been referred to this species were distinct, and referred them to the new genus _Australodocus_. In conclusion, the two species of “_Gigantosaurus_” are now considered to belong to four distinct monospecific genera: _Tornieria_, _Janenschia_, _Tendaguria_ and _Australodocus_.
 
 
+
 ### The British Museum East Africa Expedition
 
 German operations in East Africa were interrupted by the Great War (1914-1918), during which the territory of German East Africa changed hands and became the British protectorate of Tanganyika. Aware of the impressive results of the German expeditions, the British Museum (Natural History) began in 1920 to plan expeditions of their own, hoping to obtain display-quality specimens comparable to those that were starting to emerge from Berlin. After a series of delays, the expeditions finally commenced in 1924, under the leadership of William Cutler assisted by Louis Leakey. Cutler died in the field in 1925, having obtained only fragmentary material, and was replaced by Frederick W. H. Migeod in late 1925 and through 1926. However, Migeod's work was impeded by his lack of palaeontological experience, as he was an explorer rather than a scientist. For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929, and Migeod returned, to be joined in 1930 by a new assistant, Francis R. “Rex” Parrington. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
@@ -105,6 +116,7 @@ XXX ### “Funds are lacking” at end of Discovery article.
 Despite its completeness and the good preservation of some of the material, Migeod's specimen has been consistently neglected in the intervening decades: much of what was collected has been lost, some of what remains has yet to be prepared, and the prepared material has never been properly studied. When in the early 1960, John S. McIntosh expressed an interest in studying the material, he was discouraged a letter sent by W. E. Swinton which read (in part): “I feel rather sad at your quest for I knew Migeod very well and had much sympathy with him but alas, I knew the material he collected even better [...] The few good bones he collected would not constitute a single limb and but a few feet of backbone. Indeed, much of East Africa was enclosed in plaster with the mistaken impression that bone was contained within. You will not, therefore, see any monographs on the specimen and you can dismiss his particular dinosaur from your mind” (unpublished letter). Swinton's dismissal is puzzling, contradicting Migeod's own account of the material and, as will become clear, greatly underestimating its value.
 
 What few references there have been to NHMUK R5937 in the literature have often used incorrect specimen numbers and mischaracterised the material – for example, Paul (1988) and Glut (1997) refer to specimen “BMNH M 23”, using the quarry number as a specimen number. 
+
 
 
 
@@ -133,13 +145,18 @@ On this basis alone, we can conclude that by the "shoulder vertebra", of "about 
 XXX Diplodocus C15 595x542, D1 510x614, D2 416x691
 
 
+
+
 ## Brachiosaurid sauropods
 
 XXX To follow
 
 
 
+
 ## Description
+
+
 
 ### Catalogue of material
 
@@ -170,6 +187,7 @@ M | ?pubis | Portion of a bone with a complex shape.
 In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition (see below).
 
 
+
 ### Cervical vertebrae
 
 XXX generally less laminated: see e.g. C406.
@@ -184,6 +202,7 @@ XXX To follow
 > **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
 XXX To follow
+
 
 #### Cervical S
 
@@ -203,6 +222,7 @@ XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to con
 
 XXX To follow
 
+
 #### Cervical T
 
 ![Composite view of Cervical T](figures/export/cervical-t-composite.jpeg)
@@ -217,6 +237,7 @@ XXX Cervical T is about 80cm long, but too awkwardly located to measure more ful
 
 XXX To follow
 
+
 #### Cervical U
 
 ![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
@@ -226,6 +247,7 @@ XXX To follow
 XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
 
 XXX To follow
+
 
 #### Cervical P
 
@@ -238,6 +260,7 @@ XXX To follow
 XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals. The cotyle height is estimated at 22 cm. OLD/new-visit also measures it as 90cm.
 
 XXX To follow
+
 
 #### Cervical W
 
@@ -261,6 +284,7 @@ XXX These are described as ossified tendons and were long. Rescore the character
 
 XXX To follow
 
+
 #### Cervical rib X1
 
 ![Composite view of Cervical rib X1](figures/export/cervical-rib-x1-composite.jpeg)
@@ -269,6 +293,7 @@ XXX To follow
 
 XXX To follow
 
+
 #### Cervical rib X2
 
 ![Composite view of Cervical rib X2](figures/export/cervical-rib-x2-composite.jpeg)
@@ -276,6 +301,7 @@ XXX To follow
 > **Figure X2.** NHMUK PV R5937, "The Archbishop", right cervical rib X2. Top row: anterior view (dorsal to right, medial to bottom); middle row (left to right, all with anterior to top): ventral, medial, dorsal, lateral; bottom row: posterior (dorsal to right, medial to top).
 
 XXX To follow
+
 
 #### Cervical rib X3
 
@@ -286,9 +312,11 @@ XXX To follow
 XXX To follow
 
 
+
 ### Dorsal vertebrae
 
 XXX To follow
+
 
 #### Dorsal vertebral neural spine C
 
@@ -299,6 +327,7 @@ XXX To follow
 XXX To follow
 
 XXX When I have recovered measurements of this both this and A+B, I will be able to score character C158: Dorsal neural spines, height: anterior dorsal neural spines subequal to or dorsoventrally shorter than posterior dorsal neural spines (0); anterior dorsal neural spines dorsoventrally taller than posterior dorsal neural spines (1) (Wilson, 2002; Taylor, 2009; Mannion et al., 2013).
+
 
 #### Dorsal vertebral centra Q and R
 
@@ -317,6 +346,7 @@ Total preserved height (top of arch to bottom of cotyle) | -- | 35
 XXX The portion of the centrum ventral to the lateral foramina is very rounded laterally and thick, whereas that of _B. brancai_ is more V-shaped and thin (see the cross-section in Janensch ?1950). This morphology is also evident, though less obvious, in Dorsals A and B.
 
 XXX To follow. These are quite heavily damaged and restored.
+
 
 #### Dorsal vertebrae A and B
 
@@ -339,6 +369,7 @@ XXX Compare the Archbishop with the Potter Creek vertebra described in Jensen 19
 XXX The Archbishop dorsals used to be on display: include photo of the display label about the "huge amphibious reptile".
 
 
+
 ### "Lump Z"
 
 ![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
@@ -352,6 +383,7 @@ XXX The Archbishop dorsals used to be on display: include photo of the display l
 XXX To follow
 
 
+
 ### Scapula N
 
 ![Composite view of Scapula S](figures/export/scapula-n-composite.jpeg)
@@ -361,6 +393,7 @@ XXX To follow
 XXX The only identifiable features are the acromion process and fossa on the dorsal margin of part N2. If this part of the bone is correctly identified, then the absence of a discernable acromion ridge suggests that the medial side of the scapular has been prepared, in which case this would be a right scapula.
 
 XXX To follow
+
 
 
 ### humerus fragment L
@@ -376,6 +409,7 @@ This fragment is all that remains of a long bones, and is not particularly infor
 XXX To follow
 
 
+
 ### Pubis M
 
 ![Composite view of Pubis M](figures/export/pubis-m-composite.jpeg)
@@ -389,6 +423,7 @@ XXX Compare with Janensch (1961: beilage G: figure 2a, and see DSCN2965.JPG
 > **Figure M2.** NHMUK PV R5937, "The Archbishop", possible left pubis M. Red-cyan anaglyph in left dorsolateral view, dorsal to the right.
 
 XXX To follow
+
 
 
 ### Unprepared jackets
@@ -444,9 +479,12 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 
 
+
 ## Comparisons
 
 XXX To follow
+
+
 
 ### Are Janensch's two specimens the same taxon?
 
@@ -457,9 +495,12 @@ XXX To follow
 XXX SI and SII cervicals are not actually that similar
 
 
+
+
 ## Phylogenetic analysis
 
 XXX To follow
+
 
 
 
@@ -469,9 +510,11 @@ XXX To follow
 
 
 
+
 ## Discussion
 
 XXX To follow
+
 
 
 
@@ -482,12 +525,14 @@ XXX Just in the form of notes at this stage.
 * Mathew J. Wedel (Western University of Health Sciences) and Darren Naish for advice and encouragement.
 * David M. Martill (University of Portsmouth) for supervision in the earliest part of this project.
 * Gerhard Maier for field-notes etc.
-* Sandra D. Chapman and Paul M. Barrett (both NHMUK) for access to Archbishop
+* Sandra D. Chapman, Lorna Steel and Paul M. Barrett (all NHMUK) for access to the specimen.
 * David M. Unwin and Wolf-Dieter Heinrich (then both HMN) and Daniela Schwarz (MB) for access to _Giraffatitan brancai_.
 * William F. Simpson (FMNH) for access to _Brachiosarus altithorax_.
 * Ken Carpenter for photographs of _Cedarosaurus_ dorsals.
 * Phil Mannion for the Lusotitan matrix and guidance with coding.
 * Ben Moon and Steve Vidovic for help with scripting TNT.
+* John Hutchinson and Victoria Watts for CT-scanning Cervical U.
+
 
 
 
