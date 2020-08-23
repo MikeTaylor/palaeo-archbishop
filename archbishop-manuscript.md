@@ -149,19 +149,19 @@ Since the serial positions of vertebrae are not possible to determine with confi
 
 Name | Element | Description
 :--- | :------ | :----------
-W | ?cervical vertebra | Unprepossessing lump of bone, difficult to interpret
 V | cervical vertebra | Small, anterior cervical vertebra, still half-jacketed. Poorly presered and very fragile. 
-U | cervical vertebra | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
-P | cervical vertebra | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
 S | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
 T | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
+U | cervical vertebra | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
+P | cervical vertebra | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
+W | ?cervical vertebra | Unprepossessing lump of bone from posterior cervical, difficult to interpret
 X | cervical rib framents | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
 X1 | cervical rib | Proximal portion of left cervical rib, reasonably well preserved.
 X2 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
 X3 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
-A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
 C | dorsal neural spine | Isolated neural arch and spine from a dorsal vertebra.
 Q/R | dorsal centra | Conjoined consecutive pair of dorsal vertebral centra.
+A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
 Z | semi-prepared jacket | Difficult-to-interpret set of bones, almost certainly vertebral processes.
 N | scapula | Three pieces of mostly uninformative flat bone.
 L | long-bone fragment | Portion from the shaft of a limb bone, both ends missing.
