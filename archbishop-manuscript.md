@@ -24,23 +24,23 @@ UK.
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
     * [Cervical vertebrae](#cervical-vertebrae)
-        * [Cervical W](#cervical-w)
         * [Cervical V](#cervical-v)
-        * [Cervical U](#cervical-u)
-        * [Cervical P](#cervical-p)
         * [Cervical S](#cervical-s)
         * [Cervical T](#cervical-t)
+        * [Cervical U](#cervical-u)
+        * [Cervical P](#cervical-p)
+        * [Cervical W](#cervical-w)
     * [Cervical ribs](#cervical-ribs)
         * [Cervical rib X1](#cervical-rib-x1)
         * [Cervical rib X2](#cervical-rib-x2)
         * [Cervical rib X3](#cervical-rib-x3)
     * [Dorsal vertebrae](#dorsal-vertebrae)
-        * [Dorsal vertebrae A and B](#dorsal-vertebrae-a-and-b)
         * [Dorsal vertebral neural spine C](#dorsal-vertebral-neural-spine-c)
         * [Dorsal vertebral centra Q and R](#dorsal-vertebral-centra-q-and-r)
+        * [Dorsal vertebrae A and B](#dorsal-vertebrae-a-and-b)
     * ["Lump Z"](#lump-z)
     * [Scapula N](#scapula-n)
-    * [Long-bone fragment L](#long-bone-fragment-l)
+    * [humerus fragment L](#humerus-fragment-l)
     * [Pubis M](#pubis-m)
     * [Unprepared jackets](#unprepared-jackets)
 * [Comparisons](#comparisons)
@@ -164,7 +164,7 @@ Q/R | dorsal centra | Conjoined consecutive pair of dorsal vertebral centra.
 A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
 Z | semi-prepared jacket | Difficult-to-interpret set of bones, almost certainly vertebral processes.
 N | scapula | Three pieces of mostly uninformative flat bone.
-L | long-bone fragment | Portion from the shaft of a limb bone, both ends missing.
+L | humerus fragment | Portion from the shaft of a limb bone, both ends missing.
 M | ?pubis | Portion of a bone with a complex shape.
 
 In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition (see below).
@@ -177,43 +177,11 @@ XXX generally less laminated: see e.g. C406.
 XXX To follow
 
 
-#### Cervical W
-
-![Composite view of Cervical W](figures/export/cervical-w-composite.jpeg)
-
-> **Figure W.** NHMUK PV R5937, "The Archbishop", cervical vertebra W. On the assumption that the middle part of this illustration is right lateral, the parts are as follows. Top row: dorsal view (anterior to left); middle row (left to right): posterior, right lateral and anterior views; bottom row: ventral view (anterior to right).
-
-XXX Jacket said "C3".
-
-XXX To follow
-
 #### Cervical V
 
 ![Composite view of Cervical V](figures/export/cervical-v-composite.jpeg)
 
 > **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
-
-XXX To follow
-
-#### Cervical U
-
-![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
-
-> **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
-
-XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
-
-XXX To follow
-
-#### Cervical P
-
-![Composite view of Cervical P](figures/export/cervical-p-composite.jpeg)
-
-> **Figure P.** NHMUK PV R5937, "The Archbishop", cervical vertebra P. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
-
-"No 5" is painted on the left dorsolateral aspect of the posterior end of this vertebra in white paint.  This may represent Migeod's observation of the position it was found in, indicating that it is the fifth most proximal cervical (i.e. C9 if the neck has thirteen vertebrae like _Giraffatitan_), but may only be a field number.
-
-XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals. The cotyle height is estimated at 22 cm. OLD/new-visit also measures it as 90cm.
 
 XXX To follow
 
@@ -246,6 +214,38 @@ XXX Cervical T is about 80cm long, but too awkwardly located to measure more ful
 ![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
 
 > **Figure T2.** NHMUK PV R5937, "The Archbishop", cervical vertebra T in anterior view, red-cyan anaglyph.
+
+XXX To follow
+
+#### Cervical U
+
+![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
+
+> **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
+
+XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
+
+XXX To follow
+
+#### Cervical P
+
+![Composite view of Cervical P](figures/export/cervical-p-composite.jpeg)
+
+> **Figure P.** NHMUK PV R5937, "The Archbishop", cervical vertebra P. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
+
+"No 5" is painted on the left dorsolateral aspect of the posterior end of this vertebra in white paint.  This may represent Migeod's observation of the position it was found in, indicating that it is the fifth most proximal cervical (i.e. C9 if the neck has thirteen vertebrae like _Giraffatitan_), but may only be a field number.
+
+XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals. The cotyle height is estimated at 22 cm. OLD/new-visit also measures it as 90cm.
+
+XXX To follow
+
+#### Cervical W
+
+![Composite view of Cervical W](figures/export/cervical-w-composite.jpeg)
+
+> **Figure W.** NHMUK PV R5937, "The Archbishop", cervical vertebra W. On the assumption that the middle part of this illustration is right lateral, the parts are as follows. Top row: dorsal view (anterior to left); middle row (left to right): posterior, right lateral and anterior views; bottom row: ventral view (anterior to right).
+
+XXX Jacket said "C3".
 
 XXX To follow
 
@@ -290,26 +290,6 @@ XXX To follow
 
 XXX To follow
 
-#### Dorsal vertebrae A and B
-
-![Composite view of Dorsal vertebrae A and B](figures/export/dorsals-ab-composite.jpeg)
-
-> **Figure AB.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A (anterior) and B (posterior). Top row: dorsal view (anterior to right); bottom row (left to right): left lateral, posterior, right lateral, anterior.
-
-![Red-cyan anaglyph of Dorsal vertebrae A and B](figures/export/archbishop-dorsals-ab--right-posterolateral-3d.jpeg)
-
-> **Figure AB2.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A and B, right posterolateral view, red-cyan anaglyph.
-
-XXX To follow
-
-XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, prespinal and postspinal laminae: form mediolaterally wide surfaces, with little anterior relief, ‘infilling’ the prespinal and postspinal fossae (0); form distinct mediolaterally narrow ridges or laminae along the midline of the prespinal and postspinal fossae (1) (Mannion et al., 2013).
-
-XXX What about 'C486. Posterior dorsal and/or sacral neural spines, dorsoventral height to centrum length ratio: 2.0 or greater (0); less than 2.0 (1) (Upchurch, 1998; Wilson, 2002; polarity reversed here).'? Depends on definition of spine. If height above base of postzyg then short.
-
-XXX Compare the Archbishop with the Potter Creek vertebra described in Jensen 1987, p. 606.
-
-XXX The Archbishop dorsals used to be on display: include photo of the display label about the "huge amphibious reptile".
-
 #### Dorsal vertebral neural spine C
 
 ![Composite view of Dorsal vertebral neural spine C](figures/export/dorsal-spine-c-composite.jpeg)
@@ -338,6 +318,27 @@ XXX The portion of the centrum ventral to the lateral foramina is very rounded l
 
 XXX To follow. These are quite heavily damaged and restored.
 
+#### Dorsal vertebrae A and B
+
+![Composite view of Dorsal vertebrae A and B](figures/export/dorsals-ab-composite.jpeg)
+
+> **Figure AB.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A (anterior) and B (posterior). Top row: dorsal view (anterior to right); bottom row (left to right): left lateral, posterior, right lateral, anterior.
+
+![Red-cyan anaglyph of Dorsal vertebrae A and B](figures/export/archbishop-dorsals-ab--right-posterolateral-3d.jpeg)
+
+> **Figure AB2.** NHMUK PV R5937, "The Archbishop", dorsal vertebra A and B, right posterolateral view, red-cyan anaglyph.
+
+XXX To follow
+
+XXX Try to figure out scoring for C167: Middle-posterior dorsal neural spines, prespinal and postspinal laminae: form mediolaterally wide surfaces, with little anterior relief, ‘infilling’ the prespinal and postspinal fossae (0); form distinct mediolaterally narrow ridges or laminae along the midline of the prespinal and postspinal fossae (1) (Mannion et al., 2013).
+
+XXX What about 'C486. Posterior dorsal and/or sacral neural spines, dorsoventral height to centrum length ratio: 2.0 or greater (0); less than 2.0 (1) (Upchurch, 1998; Wilson, 2002; polarity reversed here).'? Depends on definition of spine. If height above base of postzyg then short.
+
+XXX Compare the Archbishop with the Potter Creek vertebra described in Jensen 1987, p. 606.
+
+XXX The Archbishop dorsals used to be on display: include photo of the display label about the "huge amphibious reptile".
+
+
 ### "Lump Z"
 
 ![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
@@ -362,15 +363,15 @@ XXX The only identifiable features are the acromion process and fossa on the dor
 XXX To follow
 
 
-### Long-bone fragment L
+### humerus fragment L
 
-![Composite view of Long-bone fragment L](figures/export/long-bone-l-composite.jpeg)
+![Composite view of humerus fragment L](figures/export/long-bone-l-composite.jpeg)
 
 > **Figure L.** NHMUK PV R5937, "The Archbishop", long-bone fragment L, probably a portion from the distal end of a right humerus. Top row: proximal view (anterior to top); Middle row, left to right: anterior, medial, posterior and lateral views; Bottom row: distal view (posterior to top)
 
 Measurements: 46 cm along the longer side, 35cm along the shorter side, 30cm wide and 12cm thick at the larger end (the 12cm being at the narrow midpoint), 24x16cm at narrow end (the 24cm being exaggerated by the diagonal breakage. I estimate 22cm orthogonally.) There is no sign of a marrow cavity.
 
-This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
+This fragment is all that remains of a long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
 
 XXX To follow
 
