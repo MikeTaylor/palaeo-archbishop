@@ -396,7 +396,7 @@ XXX To follow
 
 ![Composite view of Scapula S](figures/export/scapula-n-composite.jpeg)
 
-> **Figure N.** NHMUK PV R5937, "The Archbishop", Three parts of a scapula: from left to right, parts N1, N2 and N3, described respectively on their field jackets as proximal, [(XXX illegible)](OLD/photos/2005-09-05/jackets/dscn1662.jpg) and distal. Note that the arrangement and orientation of the parts here is purely speculative.
+> **Figure N.** NHMUK PV R5937, "The Archbishop", Three parts of a scapula: from left to right, parts N1, N2 and N3, described respectively on their field jackets as proximal, [("scapula and coracoid")](OLD/photos/2005-09-05/jackets/dscn1662.jpg) and distal. Note that the arrangement and orientation of the parts here is purely speculative.
 
 XXX The only identifiable features are the acromion process and fossa on the dorsal margin of part N2. If this part of the bone is correctly identified, then the absence of a discernable acromion ridge suggests that the medial side of the scapular has been prepared, in which case this would be a right scapula.
 
@@ -442,7 +442,7 @@ XXX To follow
 
 * Shelf 1
   * **A.** "M 23 / Scapula 8 / Distal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N3].
-  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N2. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
+  * **B.** "M 23 / Scapula / and Coracoid (fused) / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N2. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
   * **C.** "M 23 / Scapula / Proximal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N1.
 * Shelf 2
   * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
