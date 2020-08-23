@@ -109,7 +109,7 @@ The name “_Gigantosaurus_” has the most complex history of all. Fraas chose 
 
 German operations in East Africa were interrupted by the Great War (1914-1918), during which the territory of German East Africa changed hands and became the British protectorate of Tanganyika. Aware of the impressive results of the German expeditions, the British Museum (Natural History) began in 1920 to plan expeditions of their own, hoping to obtain display-quality specimens comparable to those that were starting to emerge from Berlin. After a series of delays, the expeditions finally commenced in 1924, under the leadership of William Cutler assisted by Louis Leakey. Cutler died in the field in 1925, having obtained only fragmentary material, and was replaced by Frederick W. H. Migeod in late 1925 and through 1926. However, Migeod's work was impeded by his lack of palaeontological experience, as he was an explorer rather than a scientist. For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929, and Migeod returned, to be joined in 1930 by a new assistant, Francis R. “Rex” Parrington. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
 
-The 1930 field season, however, excavated quarry M 23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK PV R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c Parrington 1931) added little information.
+The 1930 field season, however, excavated quarry M 23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK PV R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c, Parrington 1931) added little information.
 
 XXX ### “Funds are lacking” at end of Discovery article.
 
@@ -124,13 +124,13 @@ What few references there have been to NHMUK PV R5937 in the literature have oft
 
 XXX Migeod papers: material found, quarry map, interpretations
 
-Migeod's (1931) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches.
+Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches.
 
-Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931:88), and corroding impregnation of iron had done considerable damage.
+Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931a:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931a:88), and corroding impregnation of iron had done considerable damage.
 
-Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
+Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
 
-"The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
+"The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
 
 Migeod's numbering of the vertebrae of this specimen was unusual. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
 
@@ -198,7 +198,7 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 XXX generally less laminated: see e.g. C406.
 
-XXX "The neck was deep rather than broad" (Migeod 1931:90) as seen in condyle shapes.
+XXX "The neck was deep rather than broad" (Migeod 1931a:90) as seen in condyle shapes.
 
 XXX To follow
 
@@ -514,9 +514,9 @@ XXX To follow
 
 ## Systematic Palaeontology
 
-**Locality:** M 23 quarry, "2½ miles west of north of Tendaguru Hill" (Migeod 1931:87), which is itself 50 miles north-west from Lindi, Tanzania.
+**Locality:** M 23 quarry, "2½ miles west of north of Tendaguru Hill" (Migeod 1931a:87), which is itself 50 miles north-west from Lindi, Tanzania.
 
-**Horizon:** "between two marine beds, the upper known as the _Trigonia smeei_ zone, the lower about a hundred feet below it as the _Nerinea_ zone. In altitude M 23 was considerably nearer the upper marine bed than the lower" (Migeod 1931:87).
+**Horizon:** "between two marine beds, the upper known as the _Trigonia smeei_ zone, the lower about a hundred feet below it as the _Nerinea_ zone. In altitude M 23 was considerably nearer the upper marine bed than the lower" (Migeod 1931a:87).
 
 XXX To follow
 
@@ -569,7 +569,7 @@ Journal of Science_, Series 3 **39**:81-86.
 * Marsh, Othniel C. 1894. The typical Ornithopoda of the American Jurassic. _American Journal of Science_, Series 3 **48**:85-90.
 * McIntosh, John S. 2005. The genus _Barosaurus_ Marsh (Sauropoda, Diplodocidae); pp. 38-77 in Virginia Tidwell, and Ken Carpenter (eds.), _Thunder Lizards: the Sauropodomorph Dinosaurs_. Indiana University Press, Bloomington, Indiana.
 * Migeod, Frederick W. H. 1931a. British Museum East Africa Expedition: account of the work done in 1930. _Natural History Magazine_ **3**:87-103.
-* Migeod, Frederick W. H. 1931b. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February:13-14.
+* Migeod, Frederick W. H. 1931b. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February 1931:13-14.
 * Migeod, Frederick W. H. 1931c. Digging for dinosaurs. _Discovery_ **12**:142-145.
 * Nopcsa, Franz. 1916. _Doryphorosaurus_ nov. nom. für _Kentrosaurus_ Hennig. _Centralblatt für Mineralogie, Geologie und Paläontologie_ *81916**:511-512.
 * Olshevsky, George. 1991. A revision of the parainfraclass Archosauria Cope, 1869, excluding the advanced Crocodylia. _Mesozoic Meanderings_ **2**:1-196.
