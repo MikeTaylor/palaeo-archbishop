@@ -155,20 +155,19 @@ U | cervical vertebra | Large, well preserved cervical vertebra, half-jacketed w
 P | cervical vertebra | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
 S | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
 T | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
+X | cervical rib framents | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
 X1 | cervical rib | Proximal portion of left cervical rib, reasonably well preserved.
 X2 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
 X3 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
-X | cervical rib framents | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
 A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
 C | dorsal neural spine | Isolated neural arch and spine from a dorsal vertebra.
 Q/R | dorsal centra | Conjoined consecutive pair of dorsal vertebral centra.
 Z | semi-prepared jacket | Difficult-to-interpret set of bones, almost certainly vertebral processes.
 N | scapula | Three pieces of mostly uninformative flat bone.
-O | ?coracoid | Flat, subcircular piece of bone.
-M | ?pubis | Portion of a bone with a complex shape.
 L | long-bone fragment | Portion from the shaft of a limb bone, both ends missing.
+M | ?pubis | Portion of a bone with a complex shape.
 
-In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition. However, these do not look promising in their ability to deliver further informative material. They are too small to contain complete vertebrae or even substantial partial vertebral material, and since there is no reason to expect that they contain cranial material, it is likely that the contents are mostly limb- and girld-bone fragments and indeterminate scraps. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
+In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition (see below).
 
 
 ### Cervical vertebrae
@@ -343,11 +342,11 @@ XXX To follow. These are quite heavily damaged and restored.
 
 ![Composite view of Lump Z](figures/export/lump-z-composite.jpeg)
 
-> **Figure Z.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing unprepared bones, possibly dorsal neural spines in posterior view. Orientation assigned on the assumption of these spines being the correct interpretation. Top row: dorsal view (anterior to top); middle row (left to right): left lateral, posterior, right lateral; bottom row: ventral (anterior to bottom).
+> **Figure Z.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing incompletely prepared bones, possibly dorsal neural spines in posterior view. Orientation assigned on the assumption of these spines being the correct interpretation. Top row: dorsal view (anterior to top); middle row (left to right): left lateral, posterior, right lateral; bottom row: ventral (anterior to bottom).
 
 ![Red-cyan anaglyph of Lump Z](figures/export/archbishop-lump-z-dorsal-3d.jpeg)
 
-> **Figure Z2.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing unprepared bones, possibly dorsal neural spines in posterior view, red-cyan anaglyph. Posterior to right.
+> **Figure Z2.** NHMUK PV R5937, "The Archbishop", "Lump Z" containing incompletely prepared bones, possibly dorsal neural spines in posterior view, red-cyan anaglyph. Posterior to right.
 
 XXX To follow
 
@@ -384,6 +383,10 @@ XXX To follow
 
 XXX Compare with Janensch (1961: beilage G: figure 2a, and see DSCN2965.JPG
 
+![Red-cyan anaglyph of Pubis M in left dorsolateral view view](figures/export/archbishop-pubis-s-3d.jpeg)
+
+> **Figure M2.** NHMUK PV R5937, "The Archbishop", possible left pubis M. Red-cyan anaglyph in left dorsolateral view, dorsal to the right.
+
 XXX To follow
 
 
@@ -394,9 +397,9 @@ XXX To follow
 > **Figure J.** NHMUK PV R5937, "The Archbishop", jackets containing as-yet unprepared material as of 5 September 2005. See text for catalogue.
 
 * Shelf 1
-  * **A.** "M 23 / Scapula 8 / Distal end / 3.7.30" XXX Subsequently prepped as the most photographed piece of scapula.
-  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30". XXX Subsequently prepped as the ilum-like piece of scapula. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
-  * **C.** "M 23 / Scapula / Proximal end / 3.7.30". XXX Subsequently prepped as the most overlooked piece of scapula.
+  * **A.** "M 23 / Scapula 8 / Distal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N3].
+  * **B.** "M 23 / Scapula / [something] Coracoid ([something]) / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N2. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
+  * **C.** "M 23 / Scapula / Proximal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N1.
 * Shelf 2
   * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
   * **E.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
@@ -408,9 +411,9 @@ XXX To follow
     * "Cerv 3 / Block B / Distal + lower end"
     * "Cervical / vert. No. 3 / Block B / 26/7/30"
     * "Cerv. V: 3 / Junction with / Block E by / 'brodie'"
-  * **J.** "M 23 / Cervical Vert 3 / Block E / 26.7.30". Subsequently prepared as Cervical W
+  * **J.** "M 23 / Cervical Vert 3 / Block E / 26.7.30". Subsequently prepared as [Cervical W](#cervical-w).
 * Shelf 4
-  * **K.** "Sacral / part / B"
+  * **K.** "Sacral / part / B". Apparently [misidentified](OLD/photos/2005-09-05/jackets/dscn1681.jpg) or mislabelled, and subsequently prepared as [Pubis M](#pubis-m).
   * **L.** (no label)
   * **M.** "M 23 / Cervical No. 9 / + frag of / No. 10 / 6/30"
   * **N.** (no label)
@@ -419,10 +422,25 @@ XXX To follow
   * **P.** "M 23 / next / (sacral) / Vert 10 / Ventral edge / 6/30"
   * **Q.** "M 23 / Dorsal Vert 6 / 3.7.30"
 * Shelf 6
-  * **R.** "M 23 Cervical" (written on plaster; label is torn). XXX MAYBE Subsequently prepared as [Cervical V](#cervical-v).
+  * **R.** "M 23 Cervical" (written on plaster; label is torn). Subsequently prepared as [Cervical V](#cervical-v).
   * **S.** (two labels, both illegible] "D5" scratched into plaster)
 
-XXX To follow
+XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the labelling of the other jackets.
+
+In summary, the remaining jackets should contain
+"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4),
+several portions of "cervical vertebra 3" (i.e. probably C11),
+parts of dorsal vertebra 3 including the "right wing",
+parts of dorsal vertebrae 5 and 6,
+an indeterminate dorsal vertebral process,
+part of a sacral or late dorsal vertebra,
+the distal end of a second scapula,
+a partial ilium,
+and
+two unidentified elements.
+
+These jackets are too small to contain complete vertebrae or even very substantial partial vertebral material, and certainly no complete appendicular elements. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
+
 
 
 ## Comparisons
