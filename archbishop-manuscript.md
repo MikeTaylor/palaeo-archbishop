@@ -109,13 +109,13 @@ The name “_Gigantosaurus_” has the most complex history of all. Fraas chose 
 
 German operations in East Africa were interrupted by the Great War (1914-1918), during which the territory of German East Africa changed hands and became the British protectorate of Tanganyika. Aware of the impressive results of the German expeditions, the British Museum (Natural History) began in 1920 to plan expeditions of their own, hoping to obtain display-quality specimens comparable to those that were starting to emerge from Berlin. After a series of delays, the expeditions finally commenced in 1924, under the leadership of William Cutler assisted by Louis Leakey. Cutler died in the field in 1925, having obtained only fragmentary material, and was replaced by Frederick W. H. Migeod in late 1925 and through 1926. However, Migeod's work was impeded by his lack of palaeontological experience, as he was an explorer rather than a scientist. For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929, and Migeod returned, to be joined in 1930 by a new assistant, Francis R. “Rex” Parrington. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
 
-The 1930 field season, however, excavated quarry M23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c Parrington 1931) added little information.
+The 1930 field season, however, excavated quarry M 23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK PV R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c Parrington 1931) added little information.
 
 XXX ### “Funds are lacking” at end of Discovery article.
 
 Despite its completeness and the good preservation of some of the material, Migeod's specimen has been consistently neglected in the intervening decades: much of what was collected has been lost, some of what remains has yet to be prepared, and the prepared material has never been properly studied. When in the early 1960, John S. McIntosh expressed an interest in studying the material, he was discouraged a letter sent by W. E. Swinton which read (in part): “I feel rather sad at your quest for I knew Migeod very well and had much sympathy with him but alas, I knew the material he collected even better [...] The few good bones he collected would not constitute a single limb and but a few feet of backbone. Indeed, much of East Africa was enclosed in plaster with the mistaken impression that bone was contained within. You will not, therefore, see any monographs on the specimen and you can dismiss his particular dinosaur from your mind” (unpublished letter). Swinton's dismissal is puzzling, contradicting Migeod's own account of the material and, as will become clear, greatly underestimating its value.
 
-What few references there have been to NHMUK R5937 in the literature have often used incorrect specimen numbers and mischaracterised the material – for example, Paul (1988) and Glut (1997) refer to specimen “BMNH M 23”, using the quarry number as a specimen number. 
+What few references there have been to NHMUK PV R5937 in the literature have often used incorrect specimen numbers and mischaracterised the material – for example, Paul (1988) and Glut (1997) refer to specimen “BMNH M 23”, using the quarry number as a specimen number. 
 
 
 
@@ -123,6 +123,23 @@ What few references there have been to NHMUK R5937 in the literature have often 
 ## Contemporary accounts
 
 XXX Migeod papers: material found, quarry map, interpretations
+
+Migeod's (1931) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches.
+
+Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931:88), and corroding impregnation of iron had done considerable damage.
+
+Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
+
+"The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
+
+Migeod's numbering of the vertebrae of this specimen was unusual. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
+
+When referring to cervical vertebra numbers as assigned by Migeod, I use the form mC<i>n</i> to mean "the vertebra designated C<i>n</i> by Migeod"; and when referring to dorsal vertebra numbers as assigned by Migeod, I use the form mD<i>n</i> to mean "the vertebra designated D<i>n</i> by Migeod".
+
+The identity of the "shoulder vertebra" can be established, though with some uncertainty, by its dimensions and those of the vertebrae either side. Migeod (1931a:91-92) says mC1 is 33 inches long, the shoulder vertebra 23 inches, and D1 11 inches long; and that mC3 is the longest vertebra at 41 inches (104 cm). This makes the shoulder vertebra 56% the length of of the longest cervical. In the _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII), the longest vertebrae are C10 and C11, at 87 cm (excluding the condyle). 56% of this is 49 cm, which is a good match for the length of D1 at 46 cm -- at least, a much better match than for C13 (67 cm) or D2 (36 cm). On this basis, the "shoulder vertebra" of Migeod's usage is most likely D1, and the ratios of vertebral length of the two vertebrae either side of (143% for C13, 48% for mD1) are comparable with the corresponding ratios in MB.R.2181 (146% for C13, 78% for D2). The reduction in length from D1 to D2 in the Archbishop is more abrupt than in MB.R.2181, but these numbers must be treated with caution: while Janensch carefully gave these lengths as those of the vertebra centra not including the condyles, Migeod referred only to "length", not specifying whether it included the overhanging prezygapophyses, the condyles, or neither.
+
+Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD5 is D6. XXX check whether to refer to a different dorsal for this.
+
 
 XXX Parrington papers
 
@@ -132,17 +149,6 @@ XXX Lots of good stuff at
 https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
 
 XXX Comments about Migeod (Huene etc.)
-
-Migeod's numbering of the vertebrae of this specimen was rather eccentric. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
-
-The identity of the "shoulder vertebra" can be established, though with some uncertainty, by the dimensions of XXXX its length and those of the vertebrae either side. Migeod (1931a:91) says "The first cervical (C1) is 33 inches long, compared with about two feet in _Diplodocus_". Hatcher (1901:38) gives the lengths of vertebral centra of the _Diplodocus carnegii_ holotype CM 84 as follows:
-C14 (642 mm = 25.3 inches),
-C15 (595 mm = 23.4 inches),
-D1 (510 mm = 20.1 inches) and
-D2 (416 mm = 16.4 inches).
-On this basis alone, we can conclude that by the "shoulder vertebra", of "about two feet" in length, Migeod most likely meant what we would designate C15 (or, less probably, C14).
-
-XXX Diplodocus C15 595x542, D1 510x614, D2 416x691
 
 
 
@@ -160,7 +166,7 @@ XXX To follow
 
 ### Catalogue of material
 
-Many of the elements that were prepared long age have either Migeod's quarry number M23 painted directly on them, or the specimen number R 5937 written on a small, round yellow label firmly fixed to the bone, so their inclusion in the hypodigm is easy to establish.
+Many of the elements that were prepared long age have either Migeod's quarry number M 23 painted directly on them, or the specimen number R 5937 written on a small, round yellow label firmly fixed to the bone, so their inclusion in the hypodigm is easy to establish.
 
 Since the serial positions of vertebrae are not possible to determine with confidence, the various elements have been assigned letters. The letters were assigned piecemeal some time ago, and are no particular order. They convey no implication of serial position. Available material of the Archbishop includes:
 
@@ -191,6 +197,8 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 ### Cervical vertebrae
 
 XXX generally less laminated: see e.g. C406.
+
+XXX "The neck was deep rather than broad" (Migeod 1931:90) as seen in condyle shapes.
 
 XXX To follow
 
@@ -505,6 +513,10 @@ XXX To follow
 
 
 ## Systematic Palaeontology
+
+**Locality:** M 23 quarry, "2½ miles west of north of Tendaguru Hill" (Migeod 1931:87), which is itself 50 miles north-west from Lindi, Tanzania.
+
+**Horizon:** "between two marine beds, the upper known as the _Trigonia smeei_ zone, the lower about a hundred feet below it as the _Nerinea_ zone. In altitude M 23 was considerably nearer the upper marine bed than the lower" (Migeod 1931:87).
 
 XXX To follow
 
