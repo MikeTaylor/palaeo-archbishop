@@ -6,7 +6,7 @@ taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
-hold 1000;
+hold 200000;
 
 xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
