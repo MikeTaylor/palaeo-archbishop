@@ -19,3 +19,4 @@ nelsen*; tchoose {strict}; export = equalweights-strict.tre;
 tplot;
 
 log/;
+quit;

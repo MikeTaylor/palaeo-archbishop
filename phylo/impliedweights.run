@@ -21,3 +21,4 @@ nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
 tplot;
 
 log/;
+quit;
