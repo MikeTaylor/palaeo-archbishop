@@ -490,7 +490,7 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 ## Comparisons
 
-XXX To follow
+XXX Compare to Australodocus as well as Giraffatitan
 
 
 
