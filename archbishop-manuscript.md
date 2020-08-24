@@ -509,6 +509,9 @@ XXX SI and SII cervicals are not actually that similar
 
 XXX To follow
 
+In consultation with Phil Mannion, I rescored the followin charcters in the matrix:
+
+* C118. Postaxial cervical centra, anterior half of ventral surfaces are: flat or mildly convex mediolaterally (0); concave mediolaterally (1) (Upchurch, 1998; Mannion et al., 2013). Rescored from 0 to 1 for _Giraffatitan_ (Taxon 32).
 
 
 
