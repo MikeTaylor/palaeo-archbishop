@@ -1,0 +1,82 @@
+From: Mike Taylor <sauropoda@gmail.com>
+To: Philip Mannion <philipdmannion@gmail.com>
+Date: 24 Aug 2020, 23:49
+Subject: I folded
+
+I accepted the inevitable. Although I still think that scripting is best and most reliable, reproducible way to run a phylogenetic analysis, the combination of TNT's awful command syntax and its atrocious documentation has defeated me, and I am switching to the GUI version.
+
+A while back, you offered to give me a walkthrough of how you go about running the analysis and inspecting the results. If that offer is still open, I'd love to take you up on it. The best format, if you're easily able to do it, would be a screencast video in which you operate the program while narrating what you're doing and why. I realise this is a lot to ask, so I'm offering you a combination of gratitude and apology.
+
+-- Mike.
+
+
+
+From: Philip Mannion <philipdmannion@gmail.com>
+To: Mike Taylor <sauropoda@gmail.com>
+Date: 25 Aug 2020, 11:04
+Subject: Re: I folded
+
+Hi Mike - hopefully the following will be enough to help you run the analyses. Also, looking at what Ben Moon and others posted, it seemed clear that the script was largely echoing what I'd done.
+
+I can't remember if I changed this, but under Settings<Memory, I have MaxTrees set to 100. I also increased General Ram to 1000 MBytes.
+
+The following pertains to the equal weights analysis (I'll clarify the difference for the extended implied weights at the end).
+
+Once I've loaded the tree, I go to Data<Character Settings and tick the 'additive' box. I then click on the CHARS tab and select which characters I want to make additive (i.e. ordered). The TNT and Mesquite files I sent you already had the characters in there. If you haven't got this, you'll need to add them in manually (remembering that TNT starts with C0, not C1). Either way, press 'OK', then 'Apply', then 'OK'. Helpfully, it won't actually tell you anything has been done btw! If you had to enter which characters manually, you can now go to Data<Save Data and OK. The next time you load this TNT file up those characters will be saved, although you'll need to go through the process of making them additive.
+
+I then go to Data<Taxa<Select Taxa and choose the taxa I want to exclude a priori (these were listed in each paper) and click OK twice. This time TNT will tell you how many taxa are active vs inactive.
+
+In the command line I then enter:
+
+hold 1000;
+
+Which increases the number of trees in the memory - this should be enough for the next step.
+
+Under Analyze<New Technology Search, I tick 'Drift' and select 'Stabilize consensus', changing the number to 5 times. I then click 'Search' and 'Yes' to the prompt. 
+
+This analysis can vary greatly in time and you can see it's progress, wherein it will tell you how many steps the shortest tree it's found has, the number of resolved nodes, and how many times it's 'stabilized' the consensus. It will sometimes seem like it's crashed (but it usually hasn't).
+
+When this has finished, you can usually progress to the next step. It's very rare that it doesn't stabilize 5 times and to some extent this is a randomly chosen number, so I wouldn't worry too much unless it hasn't stabliized at all (in which case you probably want to increase the number of trees in the memory [note that I've almost never had to do this]).
+
+Once you've done that, you then want to increase the number of trees in the memory. This part is a bit more trial and error because now you're trying to recover every MPT. I usually start with increasing the number to 10000 and then go from there. There's no harm in just instantly going for a large number though (e.g. 100,000). 
+
+Then go to Analyze<Traditional Search and choose 'trees from RAM' and then Search. This will use the trees you've found in the previous round of analyses as the starting point. It will interrupt the search and tell you that there's not enough trees if that's the case, but when it stops naturally this will provide you with the number of MPTS, steps, etc.
+
+Then under Trees<Consensus, you can produce the strict consensus (the default option). Trees<Comparisons<Pruned Trees will enable you see which taxa are the most unstable and will show relationships after these taxa are pruned a posteriori. Trees<Comparisons<Agreement subtree will produce a reduced tree that shows you all relationships that are consistent across all MPTs (i.e. it will prune out unstable taxa). This can take an age to run if you have a lot of MPTs though (and I think it does crash, but I might just not be patient enough!).
+
+Optimize<Synapomorphies<Map Synapomorphies should be clear, but you'll probably want to choose 'Select trees' and just look at a selection, because there could be thousands. Bremer supports can be found under Trees, with various options, but I tick the 'TBR from existing trees' option and then type in the number 10 when it prompts me (this intentionally a high number and you probably won't find any Bremer supports above 4 across the tree).
+
+If you do want to run stats such as CI, etc., you can do this with the STATS.RUN script (I think you get this when you download TNT, but it's possible I downloaded it from somewhere). ITt won't work if you have more than 1000 trees stored in the memory, but if you re-enter hold 1000; you can get these (it doesn't matter that you're throwing out lots of MPTs to do this btw - you still get the same stats).
+
+For extended implied weights, most of what I said before follows. However, you need to do the following additional things:
+
+Implied weighting has to be switched on before loading the dataset (Extended Implied Weighting is set later). There are two ways to do it:
+
+a.       Use the command line at the bottom of the program, simply type in piwe=;
+
+b.       Go to Settings -> Implied Weighting -> Basic settings
+
+In the pop-up window, choose “using implied weights” (second from top)
+
+Then load the dataset.
+
+Extended Implied Weighting can be switched on now, again two ways to do it:
+
+a.       Use the command line at the bottom of the program, type in xpiwe=;
+
+b.       Go to Settings -> Implied Weighting -> Extended Weighting
+
+In the pop-up window, check the box next to ‘downweight chars with missing entries faster’, and leave the other options at the default.
+
+Under Settings<Implied Weighting<Basic settings, you can choose the k-value.
+
+You can then follow the same protocol as the equal weights analysis from hereon. Note that you won't get a whole number for your number of steps btw.
+
+I generally find it better to start anew rather than run multiple different analyses in the same session btw.
+
+I think that's pretty much everything, but let me know if something doesn't work, etc. 
+
+Phil
+
+
+
