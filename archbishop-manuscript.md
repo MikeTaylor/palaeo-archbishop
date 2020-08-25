@@ -572,8 +572,8 @@ Journal of Science_, Series 3 **39**:81-86.
 * Marsh, Othniel C. 1894. The typical Ornithopoda of the American Jurassic. _American Journal of Science_, Series 3 **48**:85-90.
 * McIntosh, John S. 2005. The genus _Barosaurus_ Marsh (Sauropoda, Diplodocidae); pp. 38-77 in Virginia Tidwell, and Ken Carpenter (eds.), _Thunder Lizards: the Sauropodomorph Dinosaurs_. Indiana University Press, Bloomington, Indiana.
 * Migeod, Frederick W. H. 1931a. British Museum East Africa Expedition: account of the work done in 1930. _Natural History Magazine_ **3**:87-103.
-* Migeod, Frederick W. H. 1931b. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February 1931:13-14.
-* Migeod, Frederick W. H. 1931c. Digging for dinosaurs. _Discovery_ **12**:142-145.
+* Migeod, Frederick W. H. 1931b. Digging for dinosaurs. _Discovery_ **12**:142-145.
+* Migeod, Frederick W. H. 1931c. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February 1931:13-14.
 * Nopcsa, Franz. 1916. _Doryphorosaurus_ nov. nom. für _Kentrosaurus_ Hennig. _Centralblatt für Mineralogie, Geologie und Paläontologie_ *81916**:511-512.
 * Olshevsky, George. 1991. A revision of the parainfraclass Archosauria Cope, 1869, excluding the advanced Crocodylia. _Mesozoic Meanderings_ **2**:1-196.
 * Parrington, Francis R. 1931. The giant dinosaur of Tendaguru: an East Africa discovery. _Illustrated London News_ October 31, 1931:699-699.
@@ -588,4 +588,3 @@ Journal of Science_, Series 3 **39**:81-86.
 * Wild, Rupert. 1991. _Janenschia_ n. g. _robusta_ (E. Fraas 1908) pro _Tornieria robusta_ (E. Fraas 1908) (Reptilia, Saurischia, Sauropodomorpha). _Stuttgarter Beiträge zur Naturkunde_, Serie B (Geologie und Paläontologie) **173**:1–4.
 * Witzmann, Florian, Patrick Asbach, Kristian Remes, Oliver Hampe, André Hilger and Andreas Paulke. 2008. Vertebral pathology in an ornithopod dinosaur: a hemivertebra in _Dysalotosaurus lettowvorbecki_ from the Jurassic of Tanzania. _The Anatomical Record_ **291**:1149-1155.
 
-XXX Notes to self: somewhere I have copes of Migeod 1931b and Migeod 1931c, but I can't find them at the moment.
