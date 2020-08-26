@@ -231,25 +231,25 @@ Since the serial positions of vertebrae are not possible to determine with confi
 
 **Table 2**
 
-Name | Element | Description
-:--- | :------ | :----------
-V | cervical vertebra | Small, anterior cervical vertebra, still half-jacketed. Poorly presered and very fragile. 
-S | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
-T | cervical centrum | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
-U | cervical vertebra | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
-P | cervical vertebra | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
-W | ?cervical vertebra | Unprepossessing lump of bone from posterior cervical, difficult to interpret
-X | cervical&nbsp;rib&nbsp;framents&nbsp;&nbsp; | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
-X1 | cervical rib | Proximal portion of left cervical rib, reasonably well preserved.
-X2 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
-X3 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
-C | dorsal neural spine | Isolated neural arch and spine from a dorsal vertebra.
-Q/R | dorsal centra | Conjoined consecutive pair of dorsal vertebral centra.
-A/B | dorsal vertebrae | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
-Z | semi-prepared jacket | Difficult-to-interpret set of bones, almost certainly vertebral processes.
-N | scapula | Three pieces of mostly uninformative flat bone.
-L | humerus fragment | Portion from the shaft of a limb bone, both ends missing.
-M | ?pubis | Portion of a bone with a complex shape.
+Name | Element               | Description
+:--- | :-------------------- | :----------
+V    | cervical vertebra     | Small, anterior cervical vertebra, still half-jacketed. Poorly presered and very fragile. 
+S    | cervical centrum      | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
+T    | cervical centrum      | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
+U    | cervical vertebra     | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
+P    | cervical vertebra     | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
+W    | ?cervical vertebra    | Unprepossessing lump of bone from posterior cervical, difficult to interpret
+X    | cervical rib framents | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
+X1   | cervical rib          | Proximal portion of left cervical rib, reasonably well preserved.
+X2   | cervical rib          | Proximal portion of right cervical rib, poorly preserved.
+X3   | cervical rib          | Proximal portion of right cervical rib, poorly preserved.
+C    | dorsal neural spine   | Isolated neural arch and spine from a dorsal vertebra.
+Q/R  | dorsal centra         | Conjoined consecutive pair of dorsal vertebral centra.
+A/B  | dorsal vertebrae      | Conjoined consecutive pair of well-preserved essentially complete dorsal vertebrae.
+Z    | semi-prepared jacket  | Difficult-to-interpret set of bones, almost certainly vertebral processes.
+N    | scapula               | Three pieces of mostly uninformative flat bone.
+L    | humerus fragment      | Portion from the shaft of a limb bone, both ends missing.
+M    | ?pubis                | Portion of a bone with a complex shape.
 
 In addition, there are a dozen or so as-yet unopened jackets from the Migeod expedition (see below).
 
@@ -404,12 +404,12 @@ XXX When I have recovered measurements of this both this and A+B, I will be able
 
 > **Figure QR.** NHMUK PV R5937, "The Archbishop", dorsal vertebral centra Q (anterior) and R (posterior). Top row: left lateral; middle row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, anterior.
 
-Measurements (all in cm) | Q   | R
-:----------------------- | :-- | :--
-Length (front of condyle to cotyle) | 32 | 35 est.
-Length (back of condyle to cotyle) | 26 | 29
-Width of cotyle | -- | 23
-Height of cotyle | -- | 25 est.: top lip of cotyle is missing
+Measurements (all in cm)                                 | Q  | R
+:------------------------------------------------------- | :- | :-
+Length (front of condyle to cotyle)                      | 32 | 35 est.
+Length (back of condyle to cotyle)                       | 26 | 29
+Width of cotyle                                          | -- | 23
+Height of cotyle                                         | -- | 25 est.: top lip of cotyle is missing
 Total preserved height (top of arch to bottom of cotyle) | -- | 35
 
 XXX The portion of the centrum ventral to the lateral foramina is very rounded laterally and thick, whereas that of _B. brancai_ is more V-shaped and thin (see the cross-section in Janensch ?1950). This morphology is also evident, though less obvious, in Dorsals A and B.
