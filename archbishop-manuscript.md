@@ -21,6 +21,7 @@ UK.
     * [The German East Africa Expeditions](#the-german-east-africa-expeditions)
     * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
 * [Contemporary accounts](#contemporary-accounts)
+    * [Material assigned to the specimen](#material-assigned-to-the-specimen)
 * [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
@@ -41,7 +42,7 @@ UK.
         * [Dorsal vertebrae A and B](#dorsal-vertebrae-a-and-b)
     * ["Lump Z"](#lump-z)
     * [Scapula N](#scapula-n)
-    * [humerus fragment L](#humerus-fragment-l)
+    * [Humerus fragment L](#humerus-fragment-l)
     * [Pubis M](#pubis-m)
     * [Unprepared jackets](#unprepared-jackets)
 * [Comparisons](#comparisons)
@@ -152,6 +153,64 @@ XXX Comments about Migeod (Huene etc.)
 
 
 
+### Material assigned to the specimen
+
+Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, and where specified the sizes he gave for them.
+
+**Table 1**
+
+* XXX Cervical S: 72 cm = 28.3"
+* XXX Cervical U: 80 cm = 31.5"
+* XXX Cervical T: 85 cm = 33.5"
+* XXX Cervical P: 90 cm = 35.4"
+
+
+
+Element                    | Measurements (inches) | Present?                 | Prepared? | Note
+:------------------------- | :-------------------- | :----------------------- | :-------- | :---
+large tooth                |                       |                          |           |
+two small teeth            |                       |                          |           |
+mC9 (C5)                   |                       | Cervical V?; Jacket M    | Yes       |
+mC8 (C6)                   |                       | Cervical S?              | Yes       |
+mC7 (C7)                   |                       | Cervical U?              | Yes       |
+mC6 (C8)                   |                       | Cervical T?              | Yes       |
+mC5 (C9)                   |                       | Cervical P?              | Yes       |
+mC4 (C10)                  | 39" long, 23" tall    |                          |           |
+mC3 (C11)                  | 41" long              | Cervical W; Jackets I, J | Part      |
+mC2 (C12)                  |                       |                          |           |
+mC1 (C13)                  | 33" long, 44" tall    |                          |           |
+"Shoulder vertebra" (D1)   | 24" long, 39" tall    |                          |           |
+mD1 (D2)                   | 14"                   |                          |           |
+mD2 (D3)                   | 11"                   | Jackets G, H             |           | _Discovery_ says `9-11"`
+mD3 (D4)                   | 10.5" long, 39" tall  | Dorsal Q?                | Yes       |
+mD4 (D5)                   |                       | R and C?; Jacket S       | Yes       |
+mD5 (D6)                   | 11" long, 39" tall    | Lump Z?                  |           | Could be from anywhere
+mD6 (D7)                   |                       | Jacket Q                 | Partially |
+mD7 (D8)                   |                       | Dorsal A?                | Yes       | XXX check position
+mD8 (D9)                   |                       | Dorsal B?                | Yes       | XXX check position
+mD9 (D10)                  | 34" tall              | Jacket D                 |           |
+mD10 (D11)                 | 9"                    |                          |           |
+mD11 (D12)                 | (yes)                 |                          |           |
+mD12 (D13)                 | (maybe)               |                          |           |
+Cervical ribs              |                       | X1, X2, X3               | Yes       |
+"Neck tendons"             | Up to 97.5" long      | X                        | Yes       | Fragments only
+Dorsal ribs                | Up to 92.5" long      |                          |           |
+Sacral vertabrae (damaged) |                       | Jacket P?                |           |
+Caudals 1-9                |                       |                          |           |
+Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket O     | Yes       | Partial
+Left humerus               | 57.5" long, 20" wide  |                          |           |
+Right humerus              | 57.5" long, 20" wide  | Humerus L                | Yes       | Fragment
+Radius                     |                       |                          |           | XXX Where is this documented?
+Right ilium                | 38.5" long, 31" tall  | Jacket F                 |           |
+Ichium (broken)            |                       |                          |           |
+Pubis (ends only)          |                       | Pubis M                  | Yes       |
+1st femur (damaged)        | 4'                    |                          |           | Field Report #3 says 42"
+2nd femur (partial)        |                       |                          |           |
+Calcaneum                  |                       |                          |           |
+Unidentified bone          | 26.5x25"              |                          |           |
+
+
+   
 
 ## Brachiosaurid sauropods
 
@@ -168,7 +227,9 @@ XXX To follow
 
 Many of the elements that were prepared long age have either Migeod's quarry number M 23 painted directly on them, or the specimen number R 5937 written on a small, round yellow label firmly fixed to the bone, so their inclusion in the hypodigm is easy to establish.
 
-Since the serial positions of vertebrae are not possible to determine with confidence, the various elements have been assigned letters. The letters were assigned piecemeal some time ago, and are no particular order. They convey no implication of serial position. Available material of the Archbishop includes:
+Since the serial positions of vertebrae are not possible to determine with confidence, the various elements have been assigned letters. The letters were assigned piecemeal some time ago, and are no particular order. They convey no implication of serial position. Available material of the Archbishop is summarised in Table 2.
+
+**Table 2**
 
 Name | Element | Description
 :--- | :------ | :----------
@@ -178,7 +239,7 @@ T | cervical centrum | Large cervical vertebral centrum, almost all of the neura
 U | cervical vertebra | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
 P | cervical vertebra | Large cervical vertebra, well preserved in places, but obscured by poorly executed restoration.
 W | ?cervical vertebra | Unprepossessing lump of bone from posterior cervical, difficult to interpret
-X | cervical rib framents | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
+X | cervical&nbsp;rib&nbsp;framents&nbsp;&nbsp; | Portions of cervical rib shafts, impossible to associate convincingly with X1-X3.
 X1 | cervical rib | Proximal portion of left cervical rib, reasonably well preserved.
 X2 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
 X3 | cervical rib | Proximal portion of right cervical rib, poorly preserved.
@@ -404,7 +465,7 @@ XXX To follow
 
 
 
-### humerus fragment L
+### Humerus fragment L
 
 ![Composite view of humerus fragment L](figures/export/long-bone-l-composite.jpeg)
 
