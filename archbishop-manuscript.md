@@ -459,7 +459,7 @@ XXX To follow
 
 > **Figure N.** NHMUK PV R5937, "The Archbishop", Three parts of a scapula: from left to right, parts N1, N2 and N3, described respectively on their field jackets as proximal, [("scapula and coracoid")](OLD/photos/2005-09-05/jackets/dscn1662.jpg) and distal. Note that the arrangement and orientation of the parts here is purely speculative.
 
-XXX The only identifiable features are the acromion process and fossa on the dorsal margin of part N2. If this part of the bone is correctly identified, then the absence of a discernable acromion ridge suggests that the medial side of the scapular has been prepared, in which case this would be a right scapula.
+XXX The only identifiable features are the acromion process and fossa on the dorsal margin of part N2. If this part of the bone is correctly identified, then the absence of a discernable acromion ridge suggests that the medial side of the scapula has been prepared, in which case this would be a right scapula.
 
 XXX To follow
 
@@ -533,16 +533,16 @@ XXX To follow
 XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the labelling of the other jackets.
 
 In summary, the remaining jackets should contain
-"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4),
-several portions of "cervical vertebra 3" (i.e. probably C11),
-parts of dorsal vertebra 3 including the "right wing",
-parts of dorsal vertebrae 5 and 6,
-an indeterminate dorsal vertebral process,
-part of a sacral or late dorsal vertebra,
-the distal end of a second scapula,
-a partial ilium,
+"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in jacket M),
+portions of "cervical vertebra 3" (i.e. probably C11, in jackets E and I),
+parts of dorsal vertebra 3 including the "right wing" (in jackets G and H),
+parts of dorsal vertebrae 5 (in jacket S) and 6 (in jacket Q),
+an indeterminate dorsal vertebral process (in jacket D)
+part of a sacral or late dorsal vertebra (in jacket P),
+the distal end of a scapula (presumably the same one as element N, in jacket O),
+a partial ilium (in jacket F),
 and
-two unidentified elements.
+two unidentified elements (in jackets L and M).
 
 These jackets are too small to contain complete vertebrae or even very substantial partial vertebral material, and certainly no complete appendicular elements. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
 
