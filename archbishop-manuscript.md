@@ -642,6 +642,12 @@ XXX Just in the form of notes at this stage.
 Journal of Science_, Series 3 **39**:81-86.
 * Marsh, Othniel C. 1894. The typical Ornithopoda of the American Jurassic. _American Journal of Science_, Series 3 **48**:85-90.
 * McIntosh, John S. 2005. The genus _Barosaurus_ Marsh (Sauropoda, Diplodocidae); pp. 38-77 in Virginia Tidwell, and Ken Carpenter (eds.), _Thunder Lizards: the Sauropodomorph Dinosaurs_. Indiana University Press, Bloomington, Indiana.
+* Migeod, Frederick W. H. 1930a. Progress report #2 on the work in East Africa, 14 May 1930.
+* Migeod, Frederick W. H. 1930b. Progress report #3 on the work in East Africa, 3 June 1930.
+* Migeod, Frederick W. H. 1930c. Progress report #4 on the work in East Africa, 29 June 1930.
+* Migeod, Frederick W. H. 1930d. Progress report #5 on the work in East Africa, 31 July 1930.
+* Migeod, Frederick W. H. 1930e. Progress report #6 on the work in East Africa, 1 September 1930.
+* Migeod, Frederick W. H. 1930f. Progress report #10 on the work in East Africa, 14 December 1930.
 * Migeod, Frederick W. H. 1931a. British Museum East Africa Expedition: account of the work done in 1930. _Natural History Magazine_ **3**:87-103.
 * Migeod, Frederick W. H. 1931b. Digging for dinosaurs. _Discovery_ **12**:142-145.
 * Migeod, Frederick W. H. 1931c. Digging for dinosaurs -- an East African giant -- sixty million years. _The Times_, London, 21 February 1931:13-14.
