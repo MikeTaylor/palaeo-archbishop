@@ -2,9 +2,7 @@
 
 **Mike Taylor <dino@miketaylor.org.uk>**
 
-This respository contains my work on an in-progress paper that will
-formally describe NHMUK 5937, a Tendaguru brachiosaurid sauropod
-dinosaur known as "The Archbishop".
+This respository contains my work on **[an in-progress paper](archbishop-manuscript.md)** that will formally describe NHMUK 5937, a Tendaguru brachiosaurid sauropod dinosaur known as "The Archbishop".
 
 I've been intending to do this work for more than fifteen years now -- see for example [my 2005 SVPCA talk _Sweet Seventy-Five and Never Been Kissed_](http://www.miketaylor.org.uk/dino/pubs/svpca2005/abstract.html) -- but I keep getting distracted from this, my main project, by side-projects that I think will be quick and easy but which become big projects themselves.
 
