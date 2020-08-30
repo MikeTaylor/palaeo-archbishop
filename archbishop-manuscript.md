@@ -126,7 +126,11 @@ What few references there have been to NHMUK PV R5937 in the literature have oft
 
 XXX Migeod papers: material found, quarry map, interpretations
 
-Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches.
+Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches. Nevertheless, his account gives a good idea of the material that existed and was excavated, and allows us to draw conclusions about what must have been lost or destroyed between then and now.
+
+![Site map with prepared material highlighted](figures/export/site-map.jpeg)
+
+> **Figure D.** A map of the site, quarry M 23, where NHMUK PV R5937 was found. Modified from Migeod (1931a:figure 1). The bones that have been prepared and are available for study are highlighted in pink. The humeri, though mentioned in Migeod's account as being "at the extreme end" of the scapula, are not included in his site map. They are added here in pale grey, scaled from that of _Giraffatitan brancai_ MB.R.2181 (formerly HMN SII), as illustrated by Janensch (1961:beilage A:part 1a).
 
 Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931a:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931a:88), and corroding impregnation of iron had done considerable damage.
 
