@@ -227,7 +227,7 @@ Finally, the position of Lump Z is very difficult to determine. It contains inde
 
 ![skeletal inventory](figures/export/figure-e-skeletal-inventory.jpeg)
 
-> **Figure E.** Skeletal inventory of NHMUK PV R5937, "The Archbishop", showing which bones were excavated by Migeod' expedition. Based on a skeletal reconstruction of _Giraffatitan brancai_ kindly provided by Scott Hartman: note that this image does _not_ illustrate the shapes or proportions of the Archbishop material. Bones excavated by Migeod are shown is light grey, those that were not found in dark grey. XXX add white for those that have been prepared.
+> **Figure E.** Skeletal inventory of NHMUK PV R5937, "The Archbishop", showing which bones were excavated by Migeod' expedition. Based on a skeletal reconstruction of _Giraffatitan brancai_ kindly provided by Scott Hartman: note that this image does _not_ illustrate the shapes or proportions of the Archbishop material. Bones prepared and available for study are shown in white; those excavated by Migeod in light grey. The rest of the skeleton, shown in dark grey, was not recovered.
 
 In illustrating the excavated material, some choices had to be made:
 
