@@ -157,43 +157,35 @@ XXX Comments about Migeod (Huene etc.)
 
 ### Material assigned to the specimen
 
-Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, and where specified the sizes he gave for them.
+Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions.
 
 **Table 1**
-
-* XXX Cervical S: 72 cm = 28.3"
-* XXX Cervical U: 80 cm = 31.5"
-* XXX Cervical T: 85 cm = 33.5"
-* XXX Cervical P: 90 cm = 35.4"
-
-
 
 Element                    | Measurements (inches) | Present?                 | Prepared? | Note
 :------------------------- | :-------------------- | :----------------------- | :-------- | :---
 large tooth                |                       |                          |           |
 two small teeth            |                       |                          |           |
-mC9 (C5)                   |                       | Cervical V?; Jacket M    | Yes       |
-mC8 (C6)                   |                       | Cervical S?              | Yes       |
-mC7 (C7)                   |                       | Cervical U?              | Yes       |
-mC6 (C8)                   |                       | Cervical T?              | Yes       |
-mC5 (C9)                   |                       | Cervical P?              | Yes       |
-mC4 (C10)                  | 39" long, 23" tall    |                          |           |
-mC3 (C11)                  | 41" long              | Cervical W; Jackets I, J | Part      |
+mC9 (C5)                   |                       | Jacket M                 | Yes       |
+mC8 (C6)                   |                       | Cervical V?              | Yes       |
+mC7 (C7)                   |                       | Cervical S?              | Yes       |
+mC6 (C8)                   |                       | Cervical U?              | Yes       |
+mC5 (C9)                   |                       | Cervical T?              | Yes       |
+mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              |           |
+mC3 (C11)                  | 41" long              | Cervical W; Jackets E, I | Part      |
 mC2 (C12)                  |                       |                          |           |
 mC1 (C13)                  | 33" long, 44" tall    |                          |           |
 "Shoulder vertebra" (D1)   | 24" long, 39" tall    |                          |           |
 mD1 (D2)                   | 14"                   |                          |           |
-mD2 (D3)                   | 11"                   | Jackets G, H             |           | _Discovery_ says `9-11"`
-mD3 (D4)                   | 10.5" long, 39" tall  | Dorsal Q?                | Yes       |
-mD4 (D5)                   |                       | R and C?; Jacket S       | Yes       |
-mD5 (D6)                   | 11" long, 39" tall    | Lump Z?                  |           | Could be from anywhere
-mD6 (D7)                   |                       | Jacket Q                 | Partially |
+mD2 (D3)                   | 11"                   |                          |           |
+mD3 (D4)                   | 10.5" long, 39" tall  | Jackets G, H             |           | _Discovery_ says `9-11"`
+mD4 (D5)                   |                       | Dorsal Q and spine C?    | Yes       |
+mD5 (D6)                   | 11" long, 39" tall    | Dorsal R?; Jacket S      | Yes       |Could be from anywhere
+mD6 (D7)                   |                       | Jacket Q                 |           |
 mD7 (D8)                   |                       | Dorsal A?                | Yes       | XXX check position
 mD8 (D9)                   |                       | Dorsal B?                | Yes       | XXX check position
-mD9 (D10)                  | 34" tall              | Jacket D                 |           |
-mD10 (D11)                 | 9"                    |                          |           |
-mD11 (D12)                 | (yes)                 |                          |           |
-mD12 (D13)                 | (maybe)               |                          |           |
+mD9 (D10)                  | 34" tall              | Jacket D?                |           |
+mD10 (D11)                 | 9"                    | Lump Z?                  | Partially |
+mD11 (D12)                 | (maybe)               |                          |           |
 Cervical ribs              |                       | X1, X2, X3               | Yes       |
 "Neck tendons"             | Up to 97.5" long      | X                        | Yes       | Fragments only
 Dorsal ribs                | Up to 92.5" long      |                          |           |
@@ -211,8 +203,22 @@ Pubis (ends only)          |                       | Pubis M                  | 
 Calcaneum                  |                       |                          |           |
 Unidentified bone          | 26.5x25"              |                          |           |
 
+Not all serial positions can be definitely established, but most can be inferred with some confidence.
 
-   
+Regarding the cervicals, Migeod (1931a:91) noted that "C4, 5 and 6 were separated by short intervals, but 7, 8 and 9 were adering to one another. All of these were in vert good condition, and were plastered separately without cutting to reduce size", but that other cervical vertebra had to be cut into pieces. The still-unprepared Jacket M contains mC9  (i.e. C5), so the five intact cervicals that have been prepared (cervicals V, S, U, T and P), none of which show signs of having been assembled from multiple jackets, must be the other five complete cervicals: mC4-mC8, i.e. C10-C6. In this middle section of the neck, cervicals length increase posteriorly in all sauropods, so based on the measured centrum lengths of cervicals V, S, U, T and P (XXX short, 72, 80, 85 and 90 cm respectively), they were most likely in this serial order.
+
+This assignment raises a difficulty: Migeod's stated measurements of mC4 (C10) are 39 inches in length and 23 inches in height. Cervical P's centrum measures only 90 cm (35 inches). However, the total lenth of the vertebra, including the overhanging prezygapophyses, is 99 cm (39 inches), and its total height (from the tip of the neural spine down to a line joining the ventral margins at the anterior and posterior ends of the vertebra) is 56.5 cm (22.2 inches), both of which are good matches for Migeod's measurements. Unfortunately, Migeod nowhere stated what he meant by the "length" of a vertebra, but it seems likely, based on the measurements of Cervical P, that he did include the prezygapophyses.
+
+Regarding the dorsals, the well-preserved conjoined pair A and B can be positioned by reference to Migeod (1931a:92): "All the dorsal vertebrae [...] were with one exception adhering very firmly to each other [...] The exception was a break between D6 and D7. [...] After extracting D7, however, together with D8 (which were plastered together so that there might be no disturbance of the interlocking neural arches) [...]". From this, it seems highly likely that A and B and mD7 and mD8 (i.e. D8 and D9). This assignment to a posterior position within the dorsal column is corroborated by the high position of the parapopysis on both vertebrae.
+
+Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the condyle to the cotyle. The shortness of the centra rules out either of them being Migeod's "shoulder vertebra", mD1 or mD2. mD3 is still contained in Jackets G and H, and mD6 in jacket Q; and mD7 and mD8 are dorsals A and B. Therefore the only possible positions for centra Q and R are as mD4-mD5, or posterior to A and B as mD9 and mD10 -- that is, D10 and D11, the two most posterior dorsals. But on most sauropods, that last few dorsals the shortest, and centra Q and R are slightly longer than the centra of dorsals A and B. A very posterior position is therefore unlikely, and the position as mD4 and mD5 (i.e. D5 and D6) seems most likely.
+
+Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
+
+Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae: most likely neural spines, although it is quite possible that they are lateral processes. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to a more posterior dorsal such as mD10 (D11).
+
+
+
 
 ## Brachiosaurid sauropods
 
@@ -545,7 +551,7 @@ XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the la
 In summary, the remaining jackets should contain
 "cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in jacket M),
 portions of "cervical vertebra 3" (i.e. probably C11, in jackets E and I),
-parts of dorsal vertebra 3 including the "right wing" (in jackets G and H),
+parts of "dorsal vertebra 3" including the "right wing" (in jackets G and H),
 parts of dorsal vertebrae 5 (in jacket S) and 6 (in jacket Q),
 an indeterminate dorsal vertebral process (in jacket D)
 part of a sacral or late dorsal vertebra (in jacket P),
