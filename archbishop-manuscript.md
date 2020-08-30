@@ -23,7 +23,7 @@ UK.
 * [Contemporary accounts](#contemporary-accounts)
     * [Material assigned to the specimen](#material-assigned-to-the-specimen)
 * [Description](#description)
-    * [Catalogue of material](#catalogue-of-material)
+    * [Catalogue of prepared material](#catalogue-of-prepared-material)
     * [Cervical vertebrae](#cervical-vertebrae)
         * [Cervical V](#cervical-v)
         * [Cervical S](#cervical-s)
@@ -223,7 +223,7 @@ Finally, the position of Lump Z is very difficult to determine. It contains inde
 
 
 
-### Catalogue of material
+### Catalogue of prepared material
 
 Many of the elements that were prepared long age have either Migeod's quarry number M 23 painted directly on them, or the specimen number R 5937 written on a small, round yellow label firmly fixed to the bone, so their inclusion in the hypodigm is easy to establish.
 
