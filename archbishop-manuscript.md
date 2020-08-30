@@ -74,14 +74,20 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 * BMNH -- See NHMUK.
 * FMNH -- Field Museum of Natural History, Chicago, Illinois, USA.
 * HMN -- See MB.
-* MB -- Museum für Naturkunde Berlin, Berlin Germany. Formerly HMN, Humboldt Museum für Naturkunde.
-* NHMUK -- National History Museum, London, UK. Formerly BMNH, British Museum (Natural History.
+* MB -- Museum für Naturkunde Berlin, Berlin Germany. MB.R. indicates the fossil reptile collection. Formerly HMN, Humboldt Museum für Naturkunde.
+* NHMUK -- National History Museum, London, UK. NHMUK PV indicates the vertebrate palaeontology collection. Formerly BMNH, British Museum (Natural History).
 
 
 
 ### Anatomical nomenclature
 
 XXX To follow
+
+XXX laminae and landmarks
+
+XXX scapula orientation
+
+XXX see below on Migeod's vertebral numbering
 
 
 
@@ -96,13 +102,14 @@ Between the years of 1907 and 1913, the Humboldt Museum für Naturkunde in Berli
 
 The nomenclatural history of the well-represented species has in some cases been complex. Because of its effect on the apparent diversity of dinosaurs in the Tendaguru Formation, this history warrants some explanation.
 
-_Dysalotosaurus_ was synonymised with _Dryosaurus_ Marsh, 1894, by Galton (1977), yielding the combination _Dryosaurus lettowvorbecki_. This has been followed by most authors, although it was recently disputed by Witzmann et al (2008) and awaits further exploration.
+_Dysalotosaurus_ was synonymised with _Dryosaurus_ Marsh, 1894, by Galton (1977), yielding the combination _Dryosaurus lettowvorbecki_. This was followed
+by most authors through the 20th Century, but Scheetz (1999) treated the two genera as separate and Witzmann et al (2008) disputed the synonymy. The genus _Dysalotosaurus_ now seems widely accepted as valid and distinct.
 
 The year after _Kentrosaurus_ was named, its author, noting that the name was similar to and shared its etymology with the ceratopsian dinosaur _Centrosaurus_ Lambe, 1904, proposed the replacement name _Kentrurosaurus_ Hennig, 1916; and Nopcsa (1916) independently proposed the replacement name _Doryphorosaurus_ for the same reason. However, since _Centrosaurus_ is pronounced with a soft "C" and _Kentrosaurus_ with a hard "K", the two are not homonyms, and the original name remains valid, with _Kentrurosaurus_ and _Doryphorosaurus_ being junior objective synonyms.
 
-As recounted in detail by Taylor (2009), Janensch's referral of the species "_Brachiosaurus_" _brancai_ to the North American genus _Brachiosaurus_ Riggs, 1903 was made without having seen material of type species _Brachiosaurus altithorax_ Riggs, 1903, and was based primarily on features which we can now recognise as symplesiomorphies. The referral was questioned by Lull (1911), but generally accepted until Paul (1988) noticed proportional differences between the species while executing a skeletal reconstruction, and accordingly proposed subgeneric separation, with the African species becoming _Brachiosaurus_ (_Giraffatitan_) _brancai_. Olshevsky (1991) proposed that the subgenus _Giraffatitan_ be raised to generic rank, but the name was not used in the literature, "_Brachiosaurus_" _brancai_ being retained, until Taylor (2009) demonstrated, based on 26 features that differ from _Brachiosaurus altithorax_, that _Giraffatitan brancai_ is indeed generically distinct, and this usage is now generally followed.
+As recounted in detail by Taylor (2009), Janensch's referral of the species "_Brachiosaurus_" _brancai_ to the North American genus _Brachiosaurus_ Riggs, 1903 was made without having seen material of type species _Brachiosaurus altithorax_ Riggs, 1903, and was based primarily on features which we can now recognise as symplesiomorphies. The referral was questioned by Lull (1911:42), but generally accepted until Paul (1988) noticed proportional differences between the species while executing a skeletal reconstruction, and accordingly proposed subgeneric separation, with the African species becoming _Brachiosaurus_ (_Giraffatitan_) _brancai_. Olshevsky (1991) proposed that the subgenus _Giraffatitan_ be raised to generic rank, but the name was not used in the literature, "_Brachiosaurus_" _brancai_ being retained, until Taylor (2009) demonstrated, based on 26 features that differ from _Brachiosaurus altithorax_, that _Giraffatitan brancai_ is indeed generically distinct, and this usage is now followed.
 
-The name "_Gigantosaurus_" has the most complex history of all. Fraas chose this name in full knowledge that it had already been used for the poorly represented English genus _Gigantosaurus_ Seeley, 1869, but wrongly believing that the name was available as Seeley had not described or figured the material that his own genus was founded on. He named the type species _G_. _africanus_ and referred a second species, _G_. _robustus_. Recognising Fraas's error in using a preoccupied name, Sternfeld (1911) renamed the German genus _Tornieria_, the two species becoming _T_. _africana_ and _T_. _robusta_. Janensch (1922), however, continued to use the older name "_Gigantosaurus_", but observed in a footnote that differences such as possession of bifid neural spines in "_G_". _africanus_ and single spines in "_G_". _robustus_ required generic separation. Believing the type species "_G_". _africanus_ to belong to the North American genus _Barosaurus_ Marsh, 1890, Janensch referred to the two species as _Barosaurus africanus_ and _Gigantosaurus robustus_. The latter name would have been invalid even if the genus _Gigantosaurus_ had not been preoccipied, since its type species had been removed making _Gigantosarus_ a junior subjective synonym of _Barosaurus_; however, Janensch did not refer the remaining species _robustus_ to a new genus as he should have done. This was eventually done by Wild (1991), who placed the species in the new genus _Janenschia_ as _J_. _robusta_, and assigned it to Titanosauria. Bonaparte et al (2000), however, noted that the axial material assigned to _Janenschia_ was not convincingly associated with the appendicular type material, and removed this material to another new genus, _Tendaguria_. They considered _Janenschia_ to be a camarasaurid and _Tendaguria_ to belong to its own monogeneric family due to the very unusual morphology of the dorsal vertebra on which is was based. Janensch's referral of the _Tornieria africana_ material to _Barosaurus_ was mostly followed, but McIntosh (2005) questioned this, considering it more similar to _Diplodocus_ and not convincingly congeneric with either. Remes (2006) restudied this material and concluded that it represents a distinct genus for which he resurrecting the available name _Tornieria_, which now contains only the single species _T_. _africana_. Finally, Remes (2007) noted that two cervical vertebrae that had been referred to this species were distinct, and referred them to the new genus _Australodocus_. In conclusion, the two species of "_Gigantosaurus_" are now considered to belong to four distinct monospecific genera: _Tornieria_, _Janenschia_, _Tendaguria_ and _Australodocus_.
+The name "_Gigantosaurus_" has the most complex history of all. Fraas chose this name in full knowledge that it had already been used for the poorly represented English genus _Gigantosaurus_ Seeley, 1869, but wrongly believing that the name was available as Seeley had not described or figured the material that his own genus was founded on. He named the type species _G_. _africanus_ and referred a second species, _G_. _robustus_. Recognising Fraas's error in using a preoccupied name, Sternfeld (1911) renamed the German genus _Tornieria_, the two species becoming _T_. _africana_ and _T_. _robusta_. Janensch (1922), however, continued to use the older name "_Gigantosaurus_", but observed in a footnote that differences such as possession of bifid neural spines in "_G_". _africanus_ and single spines in "_G_". _robustus_ required generic separation. Believing the type species "_G_". _africanus_ to belong to the North American genus _Barosaurus_ Marsh, 1890, Janensch referred to the two species as _Barosaurus africanus_ and _Gigantosaurus robustus_. The latter name would have been invalid even if the genus _Gigantosaurus_ had not been preoccipied, since its type species had been removed making _Gigantosarus_ a junior subjective synonym of _Barosaurus_; however, Janensch did not refer the remaining species _robustus_ to a new genus as he should have done. This was eventually done by Wild (1991), who placed the species in the new genus _Janenschia_ as _J_. _robusta_, and assigned it to Titanosauria. Bonaparte et al (2000), however, noted that the axial material assigned to _Janenschia_ was not convincingly associated with the appendicular type material, and removed this material to another new genus, _Tendaguria_. They considered _Janenschia_ to be a camarasaurid and _Tendaguria_ to belong to its own monogeneric family due to the very unusual morphology of the dorsal vertebra on which is was based. Janensch's referral of the _Tornieria africana_ material to _Barosaurus_ was mostly followed, but McIntosh (2005) questioned this, considering it more similar to _Diplodocus_ and not convincingly congeneric with either. Remes (2006) restudied this material and concluded that it represents a distinct genus for which he resurrecting the available name _Tornieria_, which now contains only the single species _T_. _africana_. Remes (2007) subsequently noted that two cervical vertebrae that had been referred to this species were distinct, and referred them to the new genus _Australodocus_, which he considered to be diplodocid, but which recent phylogenetic analyses recover as a titanosauriform (e.g. Whitlock 2011, Mannion et al. 2019). Finally, a caudal sequence previously referred to Janenschia was found to be mamenchisaurid and so placed in a yet another new genus _Wamweracaudia_. In conclusion, the two species of "_Gigantosaurus_" are now considered to belong to five distinct monospecific genera: _Tornieria_, _Janenschia_, _Tendaguria_, _Australodocus_ and _Wamwericaudia_, representing respectively a diplodocid, two turiasaurs, a basal somphospondyl and a mamenchisaurid (Mannion et al. 2019).
 
 
 
@@ -586,7 +593,11 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 ## Comparisons
 
-XXX Compare to Australodocus as well as Giraffatitan
+XXX Compare to _Australodocus_ as well as _Giraffatitan_. Compare cervical U CT-scan cross section with that of _Australodocus_ in Mannion et al. (2019:figure 40).
+
+"an examination of this material (PDM pers. obs. 2013) revealed no elements that could be confidently attributed to _Australodocus_, _Janenschia_, _Tendaguria_ or _Wamweracaudia_" (Mannion et al. 2019:844).
+
+XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:858-860.
 
 
 
@@ -663,6 +674,7 @@ XXX Just in the form of notes at this stage.
 * Lambe, Lawrence M. 1904. On the squamoso-parietal crest of the horned dinosaurs _Centrosaurus apertus_ and _Monoclonius canadensis_ from the Cretaceous of Alberta. _Transactions of the Royal Society of Canada_, series 2, **10**:1-9.
 * Lull, Richard S. 1911. The Reptilia of the Arundel Formation. pages 171-211 in:_Maryland Geological Survey Lower Cretaceous Volume_.
 * Maier, Gerhard. 2003. _African Dinosaurs Unearthed: The Tendaguru Expeditions_. Indiana University Press, Bloomington and Indianapolis. 380 pages.
+* Mannion, Philip D., Paul Upchurch, Daniela Schwarz and Oliver Wings. 2019. Taxonomic affinities of the putative titanosaurs from the Late Jurassic Tendaguru Formation of Tanzania: phylogenetic and biogeographic implications for eusauropod dinosaur evolution. _Zoological Journal of the Linnean Society_ **185**:784–909.
 * Marsh, Othniel C. 1890. Description of new dinosaurian reptiles. _American
 Journal of Science_, Series 3 **39**:81-86.
 * Marsh, Othniel C. 1894. The typical Ornithopoda of the American Jurassic. _American Journal of Science_, Series 3 **48**:85-90.
@@ -684,9 +696,11 @@ Journal of Science_, Series 3 **39**:81-86.
 * Remes, Kristian. 2007. A second Gondwanan diplodocid dinosaur from the Upper Jurassic Tendaguru beds of Tanzania, East Africa. _Palaeontology_ **50**:653-667.
 * Riggs, Elmer S. 1903. _Brachiosaurus altithorax_, the largest known dinosaur. _American Journal of Science_ **15(4)**:299-306.
 * Seeley, Harry G. 1869. _Index to the fossil remains of Aves, Ornithosauria, and Reptilia, from the Secondary System of Strata, arranged in the Woodwardian Museum of the University of Cambridge_. Deighton, Bell, and Co., Cambridge. 143 pages.
+* Scheetz, Rodney D. 1999. Osteology of _Orodromeus makelai_ and the phylogeny of basal ornithopod dinosaurs. Unpublished Ph.D dissertation, Montana State University. https://scholarworks.montana.edu/xmlui/handle/1/8575
 * Sternfeld, Richard. 1911. Zur Nomenklatur der Gattung _Gigantosaurus_ Fraas. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1911**:398.
 * Taylor, Michael P. 2009. A re-evaluation of _Brachiosaurus altithorax_ Riggs 1903 (Dinosauria, Sauropoda) and its generic separation from _Giraffatitan brancai_ (Janensch 1914). _Journal of Vertebrate Paleontology_ **29(3)**:787-806.
 * Virchow, Hans. 1919. Atlas und Epistropheus bei den Schildkröten. _Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin_ **1919**:303-332.
 * Wild, Rupert. 1991. _Janenschia_ n. g. _robusta_ (E. Fraas 1908) pro _Tornieria robusta_ (E. Fraas 1908) (Reptilia, Saurischia, Sauropodomorpha). _Stuttgarter Beiträge zur Naturkunde_, Serie B (Geologie und Paläontologie) **173**:1–4.
+* Whitlock, John A. 2011. A phylogenetic analysis of Diplodocoidea (Saurischia: Sauropoda). Zoological Journal of the Linnean Society 161:872-915.
 * Witzmann, Florian, Patrick Asbach, Kristian Remes, Oliver Hampe, André Hilger and Andreas Paulke. 2008. Vertebral pathology in an ornithopod dinosaur: a hemivertebra in _Dysalotosaurus lettowvorbecki_ from the Jurassic of Tanzania. _The Anatomical Record_ **291**:1149-1155.
 
