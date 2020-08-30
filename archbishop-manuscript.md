@@ -22,6 +22,7 @@ UK.
     * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
 * [Contemporary accounts](#contemporary-accounts)
     * [Material assigned to the specimen](#material-assigned-to-the-specimen)
+    * [Skeletal inventory](#skeletal-inventory)
 * [Description](#description)
     * [Catalogue of prepared material](#catalogue-of-prepared-material)
     * [Cervical vertebrae](#cervical-vertebrae)
@@ -166,8 +167,8 @@ Migeod's accounts directly reference many more bones than are presently availabl
 
 Element                    | Measurements (inches) | Present?                 | Prepared? | Note
 :------------------------- | :-------------------- | :----------------------- | :-------- | :---
-large tooth                |                       |                          |           |
-two small teeth            |                       |                          |           |
+large tooth                |                       |                          |           | Probably from a theropod
+two small teeth            |                       |                          |           | Probably from a theropod
 mC9 (C5)                   |                       | Jacket M                 | Yes       |
 mC8 (C6)                   |                       | Cervical V?              | Yes       |
 mC7 (C7)                   |                       | Cervical S?              | Yes       |
@@ -203,7 +204,7 @@ Ichium (broken)            |                       |                          | 
 Pubis (ends only)          |                       | Pubis M                  | Yes       |
 1st femur (damaged)        | 4'                    |                          |           | Field Report #3 says 42"
 2nd femur (partial)        |                       |                          |           |
-Calcaneum                  |                       |                          |           |
+Calcaneum                  |                       |                          |           | Migeod (1931a:95)
 Unidentified bone          | 26.5x25"              |                          |           |
 
 Not all serial positions can be definitely established, but most can be inferred with some confidence.
@@ -218,7 +219,29 @@ Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the cond
 
 Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
 
-Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae. Although it is quite possible that they are lateral processes, they seem most likely to be two neural spines, presumably from consecutive vertebrae. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to more posterior dorsals such as mD9 and mD10 (D10 an D11).
+Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae. Although it is quite possible that they are lateral processes, they seem most likely to be two neural spines, presumably from consecutive vertebrae. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to more posterior dorsals such as mD9 and mD10 (D10 and D11).
+
+
+
+### Skeletal inventory
+
+![skeletal inventory](figures/export/figure-e-skeletal-inventory.jpeg)
+
+> **Figure E.** Skeletal inventory of NHMUK PV R5937, "The Archbishop", showing which bones were excavated by Migeod' expedition. Based on a skeletal reconstruction of _Giraffatitan brancai_ kindly provided by Scott Hartman: note that this image does _not_ illustrate the shapes or proportions of the Archbishop material. Bones excavated by Migeod are shown is light grey, those that were not found in dark grey. XXX add white for those that have been prepared.
+
+In illustrating the excavated material, some choices had to be made:
+
+* While Migeod (1931a, b, c) only mentions vertebrae as far forward as mC9 (C5), the label attached to Jacket M says "cervical vertebra 9 and a fragment of 10", so I have shown the posterior portion of C4 as present.
+* Apart from the sequence of the nine most proximal caudal vertebrae, Migeod (1931a:94) mentions that "a small vertebra 2 to 3 inches long was found near the humeri, and later stll anotheron 13/16ths of an inch long in the tail region". He considered these likely a part of the specimen, so I show one mid-caudal and one distal caudal as well as proximal sequence.
+* "Of the lower limbs only the doubtful head of a radius was found" (p94). I have depicted the head of right radius as present, since the only preserved part of a forelimb is probably from the right humerus.
+* Of the humeri, Migeod (1931a:95) says "whilst one was sound, half of the other powdered away", but does not specify which humerus was sound. Since the preserved humeral portion seems to be from the right humerus, I have depicted the lower half of the right humerus as absent.
+* "One femur was found, measuring about 4 feet. Being in bad condition its exact length could not be ascertained [...] Of the other femur only parts were recovered" (p95). Based on this description, I have arbitrarily shown the left femur as present (but with the distal end damaged) and the right as absent. 
+* Migeod (1931a:95) writes "it is possible that some uncertain fragments may be part of a sternum", but given this level of uncertainty I have not shown a sternal plate as present.
+* Migeod (1931a:95) says "nor was any part of the feet found, except a calcaneum". This seems doubtful, as the calcaneum is rarely ossified in sauropods, and not often collected. However, I have shown the left calcaneum as present.
+* Migeod (1931a:95) describes finding "an ischium of large size, but broken into segmnts of an inch or two each way", noting that "the joining up of these pieces occupied a considerable time". He does not specify whether it was the left or right ischium. The skeletal inventory shows the left ischium as having been present, since that is the only one visible in lateral view.
+* Only the proximal part of the pubis is present among the prepared elements, but Migeod (1931a:95) says that "the ends" were found, implying that the distal portion was present, too.
+* Migeod (1931a:96) says that the left ilium was found, but also notes the presence of a flat bone 26½ inches by 25 in the region which we was unable to identify. It seems reasonable to think was part of the ilium. In any case, I have depicted the left ilium as present, since the right ilium is obscured in left lateral view.
+* Migeod (1931a:96) notes that, while many or all of the right-sided dorsal ribs were recovered, only some of those on the left were found. I have illustrated a representative sample of left dorsal ribs as being present.
 
 
 
@@ -620,7 +643,7 @@ XXX Just in the form of notes at this stage.
 * Phil Mannion for the Lusotitan matrix and guidance with coding.
 * Ben Moon and Steve Vidovic for help with scripting TNT.
 * John Hutchinson and Victoria Watts for CT-scanning Cervical U.
-
+* Scott Hartman for providing the skeletal reconstrction of _Giraffatitan brancai_ that was used for Figure E, the skeletal inventory.
 
 
 
