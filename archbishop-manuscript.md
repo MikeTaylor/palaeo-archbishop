@@ -46,7 +46,6 @@ UK.
     * [Pubis M](#pubis-m)
     * [Unprepared jackets](#unprepared-jackets)
 * [Comparisons](#comparisons)
-    * [Are Janensch's two specimens the same taxon?](#are-janenschs-two-specimens-the-same-taxon)
 * [Phylogenetic analysis](#phylogenetic-analysis)
 * [Systematic Palaeontology](#systematic-palaeontology)
 * [Discussion](#discussion)
@@ -598,16 +597,6 @@ XXX Compare to _Australodocus_ as well as _Giraffatitan_. Compare cervical U CT-
 "an examination of this material (PDM pers. obs. 2013) revealed no elements that could be confidently attributed to _Australodocus_, _Janenschia_, _Tendaguria_ or _Wamweracaudia_" (Mannion et al. 2019:844).
 
 XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:858-860.
-
-
-
-### Are Janensch's two specimens the same taxon?
-
-![Cervical vertebrae referred to _Giraffatitan brancai_](figures/export/si-and-sii-cervical-comparison.jpeg)
-
-> Cervical vertebrae referred by Janensch (1950) to _Giraffatitan brancai_ ("_Brachiosaurus_" _brancai_ of his usage). Left block: lectoype MB.R.2180 ("SI"); right block: paralectotype MB.R.2181 ("SII"). Within each block: left column: posterior view, middle column: lateral, right column: anterior. Rows, from top to bottom: C2, C3, C4, C5, C6, C7, C8. All illustrations taken from Janensch (1950:figures 14-46). Cervicals 6, 7 and 8 of MB.R.2181 ("SII") were illustrated in left lateral view, and are here reversed for consistency with the right lateral views of the other vertebrae. Cervicals 3-7 represent the only overlapping material between the two specimens.
-
-XXX SI and SII cervicals are not actually that similar
 
 
 
