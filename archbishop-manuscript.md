@@ -178,11 +178,11 @@ mD1 (D2)                   | 14"                   |                          | 
 mD2 (D3)                   | 11"                   |                          |           |
 mD3 (D4)                   | 10.5" long, 39" tall  | Jackets G, H             |           | _Discovery_ says `9-11"`
 mD4 (D5)                   |                       | Dorsal Q and spine C?    | Yes       |
-mD5 (D6)                   | 11" long, 39" tall    | Dorsal R?; Jacket S      | Yes       |Could be from anywhere
+mD5 (D6)                   | 11" long, 39" tall    | Dorsal R?; Jacket S      | Yes       |
 mD6 (D7)                   |                       | Jacket Q                 |           |
-mD7 (D8)                   |                       | Dorsal A?                | Yes       | XXX check position
-mD8 (D9)                   |                       | Dorsal B?                | Yes       | XXX check position
-mD9 (D10)                  | 34" tall              | Jacket D?                |           |
+mD7 (D8)                   |                       | Dorsal A?                | Yes       |
+mD8 (D9)                   |                       | Dorsal B?                | Yes       |
+mD9 (D10)                  | 34" tall              | Jacket D? Lump Z?        | Partially |
 mD10 (D11)                 | 9"                    | Lump Z?                  | Partially |
 mD11 (D12)                 | (maybe)               |                          |           |
 Cervical ribs              |                       | X1, X2, X3               | Yes       |
@@ -214,7 +214,7 @@ Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the cond
 
 Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
 
-Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae: most likely neural spines, although it is quite possible that they are lateral processes. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to a more posterior dorsal such as mD10 (D11).
+Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae. Although it is quite possible that they are lateral processes, they seem most likely to be two neural spines, presumably from consecutive vertebrae. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to more posterior dorsals such as mD9 and mD10 (D10 an D11).
 
 
 
