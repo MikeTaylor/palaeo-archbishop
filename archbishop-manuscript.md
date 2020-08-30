@@ -1,4 +1,4 @@
-# "The Archbishop", a brachiosaurid sauropod from the Tendaguru Formation (Latest Jurassic) of Tanzania, Africa.
+# "The Archbishop", a new sauropod from the Tendaguru Formation (Latest Jurassic) of Tanzania, Africa.
 
 Mike Taylor.
 Department of Earth Sciences,
@@ -22,7 +22,6 @@ UK.
     * [The British Museum East Africa Expedition](#the-british-museum-east-africa-expedition)
 * [Contemporary accounts](#contemporary-accounts)
     * [Material assigned to the specimen](#material-assigned-to-the-specimen)
-* [Brachiosaurid sauropods](#brachiosaurid-sauropods)
 * [Description](#description)
     * [Catalogue of material](#catalogue-of-material)
     * [Cervical vertebrae](#cervical-vertebrae)
@@ -216,13 +215,6 @@ Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the cond
 Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
 
 Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae: most likely neural spines, although it is quite possible that they are lateral processes. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to a more posterior dorsal such as mD10 (D11).
-
-
-
-
-## Brachiosaurid sauropods
-
-XXX To follow
 
 
 
