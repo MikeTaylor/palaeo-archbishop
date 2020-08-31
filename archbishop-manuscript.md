@@ -175,12 +175,12 @@ Element                    | Measurements (inches) | Present?                 | 
 :------------------------- | :-------------------- | :----------------------- | :-------- | :---
 large tooth                |                       |                          |           | Probably from a theropod
 two small teeth            |                       |                          |           | Probably from a theropod
-mC9 (C5)                   |                       | Jacket M                 | Yes       |
+mC9 (C5)                   |                       | Jacket M                 |           |
 mC8 (C6)                   |                       | Cervical V?              | Yes       |
 mC7 (C7)                   |                       | Cervical S?              | Yes       |
 mC6 (C8)                   |                       | Cervical U?              | Yes       |
 mC5 (C9)                   |                       | Cervical T?              | Yes       |
-mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              |           |
+mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              | Yes       |
 mC3 (C11)                  | 41" long              | Cervical W; Jackets E, I | Part      |
 mC2 (C12)                  |                       |                          |           |
 mC1 (C13)                  | 33" long, 44" tall    |                          |           |
@@ -576,9 +576,9 @@ XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the la
 In summary, the remaining jackets should contain
 "cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in jacket M),
 portions of "cervical vertebra 3" (i.e. probably C11, in jackets E and I),
-parts of "dorsal vertebra 3" including the "right wing" (in jackets G and H),
-parts of dorsal vertebrae 5 (in jacket S) and 6 (in jacket Q),
-an indeterminate dorsal vertebral process (in jacket D)
+parts of "dorsal vertebra 3" (i.e. D4) including the "right wing" (in jackets G and H),
+parts of "dorsal vertebrae 5" (i.e. D6, in jacket S) and "6" (i.e. D7, in jacket Q),
+an indeterminate dorsal vertebral process (in jacket D),
 part of a sacral or late dorsal vertebra (in jacket P),
 the distal end of a scapula (presumably the same one as element N, in jacket O),
 a partial ilium (in jacket F),
