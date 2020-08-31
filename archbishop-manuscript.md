@@ -645,6 +645,8 @@ XXX Just in the form of notes at this stage.
 * Ben Moon and Steve Vidovic for help with scripting TNT.
 * John Hutchinson and Victoria Watts for CT-scanning Cervical U.
 * Scott Hartman for providing the skeletal reconstrction of _Giraffatitan brancai_ that was used for Figure E, the skeletal inventory.
+* Fiona J. Taylor for help in deciphering Migeod's handwriting and transcribing shipping manifests.
+
 
 
 
