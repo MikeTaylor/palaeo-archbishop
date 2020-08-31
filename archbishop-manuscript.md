@@ -184,6 +184,8 @@ mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              | 
 mC3 (C11)                  | 41" long              | Cervical W; Jackets E, I | Part      |
 mC2 (C12)                  |                       |                          |           |
 mC1 (C13)                  | 33" long, 44" tall    |                          |           |
+Cervical ribs              |                       | X1, X2, X3               | Yes       |
+"Neck tendons"             | Up to 97.5" long      | X                        | Yes       | Fragments only
 "Shoulder vertebra" (D1)   | 24" long, 39" tall    |                          |           |
 mD1 (D2)                   | 14"                   |                          |           |
 mD2 (D3)                   | 11"                   |                          |           |
@@ -196,8 +198,6 @@ mD8 (D9)                   |                       | Dorsal B?                | 
 mD9 (D10)                  | 34" tall              | Jacket D? Lump Z?        | Partially |
 mD10 (D11)                 | 9"                    | Lump Z?                  | Partially |
 mD11 (D12)                 | (maybe)               |                          |           |
-Cervical ribs              |                       | X1, X2, X3               | Yes       |
-"Neck tendons"             | Up to 97.5" long      | X                        | Yes       | Fragments only
 Dorsal ribs                | Up to 92.5" long      |                          |           |
 Sacral vertabrae (damaged) |                       | Jacket P?                |           |
 Caudals 1-9                |                       |                          |           |
