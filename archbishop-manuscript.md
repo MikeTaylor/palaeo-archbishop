@@ -233,7 +233,7 @@ Finally, the position of Lump Z is very difficult to determine. It contains inde
 
 ![skeletal inventory](figures/export/figure-e-skeletal-inventory.jpeg)
 
-> **Figure E.** Skeletal inventory of NHMUK PV R5937, "The Archbishop", showing which bones were excavated by Migeod' expedition. Based on a skeletal reconstruction of _Giraffatitan brancai_ kindly provided by Scott Hartman: note that this image does _not_ illustrate the shapes or proportions of the Archbishop material. Bones prepared and available for study are shown in white; those excavated by Migeod in light grey. The rest of the skeleton, shown in dark grey, was not recovered.
+> **Figure E.** Skeletal inventory of NHMUK PV R5937, "The Archbishop", showing which bones were excavated by Migeod' expedition. Based on a skeletal reconstruction of _Giraffatitan brancai_ kindly provided by Scott Hartman: note that this image does _not_ illustrate the shapes or proportions of the Archbishop material. Bones prepared and available for study are shown in white; those still in jackets awaiting preparation in light grey; those excavated by Migeod but apparently lost or destroyed in dark grey.
 
 In illustrating the excavated material, some choices had to be made:
 
@@ -248,6 +248,7 @@ In illustrating the excavated material, some choices had to be made:
 * Only the proximal part of the pubis is present among the prepared elements, but Migeod (1931a:95) says that "the ends" were found, implying that the distal portion was present, too.
 * Migeod (1931a:96) says that the left ilium was found, but also notes the presence of a flat bone 26½ inches by 25 in the region which we was unable to identify. It seems reasonable to think was part of the ilium. In any case, I have depicted the left ilium as present, since the right ilium is obscured in left lateral view.
 * Migeod (1931a:96) notes that, while many or all of the right-sided dorsal ribs were recovered, only some of those on the left were found. I have illustrated a representative sample of left dorsal ribs as being present.
+* Finally, for all of the material that remains in jackets awaiting preparation, I had to guess blindly what portion of the bones might be present.
 
 
 
