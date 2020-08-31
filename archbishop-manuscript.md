@@ -221,7 +221,7 @@ This assignment raises a difficulty: Migeod's stated measurements of mC4 (C10) a
 
 Regarding the dorsals, the well-preserved conjoined pair A and B can be positioned by reference to Migeod (1931a:92): "All the dorsal vertebrae [...] were with one exception adhering very firmly to each other [...] The exception was a break between D6 and D7. [...] After extracting D7, however, together with D8 (which were plastered together so that there might be no disturbance of the interlocking neural arches) [...]". From this, it seems highly likely that A and B and mD7 and mD8 (i.e. D8 and D9). This assignment to a posterior position within the dorsal column is corroborated by the high position of the parapopysis on both vertebrae.
 
-Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the condyle to the cotyle. The shortness of the centra rules out either of them being Migeod's "shoulder vertebra", mD1 or mD2. mD3 is still contained in Jackets G and H, and mD6 in jacket Q; and mD7 and mD8 are dorsals A and B. Therefore the only possible positions for centra Q and R are as mD4-mD5, or posterior to A and B as mD9 and mD10 -- that is, D10 and D11, the two most posterior dorsals. But on most sauropods, that last few dorsals the shortest, and centra Q and R are slightly longer than the centra of dorsals A and B. A very posterior position is therefore unlikely, and the position as mD4 and mD5 (i.e. D5 and D6) seems most likely.
+Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the condyle to the cotyle. The shortness of the centra rules out either of them being Migeod's "shoulder vertebra", mD1 or mD2. mD3 is still contained in Jackets G and H, and mD6 in Jacket Q; and mD7 and mD8 are dorsals A and B. Therefore the only possible positions for centra Q and R are as mD4-mD5, or posterior to A and B as mD9 and mD10 -- that is, D10 and D11, the two most posterior dorsals. But on most sauropods, that last few dorsals the shortest, and centra Q and R are slightly longer than the centra of dorsals A and B. A very posterior position is therefore unlikely, and the position as mD4 and mD5 (i.e. D5 and D6) seems most likely.
 
 Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
 
@@ -574,16 +574,16 @@ XXX To follow
 XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the labelling of the other jackets.
 
 In summary, the remaining jackets should contain
-"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in jacket M),
-portions of "cervical vertebra 3" (i.e. probably C11, in jackets E and I),
-parts of "dorsal vertebra 3" (i.e. D4) including the "right wing" (in jackets G and H),
-parts of "dorsal vertebrae 5" (i.e. D6, in jacket S) and "6" (i.e. D7, in jacket Q),
-an indeterminate dorsal vertebral process (in jacket D),
-part of a sacral or late dorsal vertebra (in jacket P),
-the distal end of a scapula (presumably the same one as element N, in jacket O),
-a partial ilium (in jacket F),
+"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in Jacket M),
+portions of "cervical vertebra 3" (i.e. probably C11, in Jackets E and I),
+parts of "dorsal vertebra 3" (i.e. D4) including the "right wing" (in Jackets G and H),
+parts of "dorsal vertebrae 5" (i.e. D6, in Jacket S) and "6" (i.e. D7, in Jacket Q),
+an indeterminate dorsal vertebral process (in Jacket D),
+part of a sacral or late dorsal vertebra (in Jacket P),
+the distal end of a scapula (presumably the same one as element N, in Jacket O),
+a partial ilium (in Jacket F),
 and
-two unidentified elements (in jackets L and M).
+two unidentified elements (in Jackets L and M).
 
 These jackets are too small to contain complete vertebrae or even very substantial partial vertebral material, and certainly no complete appendicular elements. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
 
