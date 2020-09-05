@@ -1,6 +1,6 @@
 # "The Archbishop", a new sauropod from the Tendaguru Formation (Latest Jurassic) of Tanzania, Africa.
 
-Mike Taylor.
+Michael P Taylor.
 Department of Earth Sciences,
 University of Bristol,
 Bristol BS8 1RJ,
@@ -80,13 +80,11 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 
 ### Anatomical nomenclature
 
-XXX To follow
+Nomenclature for vertebral laminae follows that of Wilson (1999).
 
-XXX laminae and landmarks
+Anatomical direction are used of the scapula as though the blade were oriented horizontally, although its orientation in life was more complex.
 
-XXX scapula orientation
-
-XXX see below on Migeod's vertebral numbering
+See below on Migeod's idiosyncratic numbering of the  vertebrae, and on how his numbering scheme corresponds with conventional numbering.
 
 
 
@@ -151,7 +149,7 @@ When referring to cervical vertebra numbers as assigned by Migeod, I use the for
 
 The identity of the "shoulder vertebra" can be established, though with some uncertainty, by its dimensions and those of the vertebrae either side. Migeod (1931a:91-92) says mC1 is 33 inches long, the shoulder vertebra 23 inches, and D1 11 inches long; and that mC3 is the longest vertebra at 41 inches (104 cm). This makes the shoulder vertebra 56% the length of of the longest cervical. In the _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII), the longest vertebrae are C10 and C11, at 87 cm (excluding the condyle). 56% of this is 49 cm, which is a good match for the length of D1 at 46 cm -- at least, a much better match than for C13 (67 cm) or D2 (36 cm). On this basis, the "shoulder vertebra" of Migeod's usage is most likely D1, and the ratios of vertebral length of the two vertebrae either side of (143% for C13, 48% for mD1) are comparable with the corresponding ratios in MB.R.2181 (146% for C13, 78% for D2). The reduction in length from D1 to D2 in the Archbishop is more abrupt than in MB.R.2181, but these numbers must be treated with caution: while Janensch carefully gave these lengths as those of the vertebra centra not including the condyles, Migeod referred only to "length", not specifying whether it included the overhanging prezygapophyses, the condyles, or neither.
 
-Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD5 is D6. XXX check whether to refer to a different dorsal for this.
+Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
 
 XXX Parrington papers
