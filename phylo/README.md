@@ -8,6 +8,7 @@
     * [Note on importing trees](#note-on-importing-trees)
 * [Other files and directories](#other-files-and-directories)
 * [To Do](#to-do)
+* [See also](#see-also)
 
 
 ## Overview
@@ -103,5 +104,11 @@ You can now take advantage of a previous long, slow search and play with `pcrpru
 * Code the Archbishop for the 548 characters.
 * Consider whether more characters need to be added.
 * Determine which taxa should be delete _a posteriori_ to improve tree resolution, especially within Brachiosauridae.
+
+
+## See also
+
+* [_TNT (Tree analysis using New Technology)_ course overview](https://isu-molphyl.github.io/EEOB563/computer_labs/lab2/TNT.html)
+* [Consolidated help text](http://phylo.wikidot.com/tntwiki#help_by_command)
 
 
