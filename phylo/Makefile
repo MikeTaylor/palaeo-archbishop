@@ -8,6 +8,7 @@ equalweights.log: archbishop.tnt equalweights.run
 	test -d previous || mkdir previous
 	-cp equalweights.run previous/
 	-test -f equalweights.log && mv equalweights.log previous/
+	-test -f equalweights-apomorphies.log && mv equalweights-apomorphies.log previous/
 	-test -f equalweights.tre && mv equalweights.tre previous/
 	-test -f equalweights.export && mv equalweights.export previous/
 	-test -f equalweights-strict.tre && mv equalweights-strict.tre previous/
