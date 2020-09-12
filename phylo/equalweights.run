@@ -18,5 +18,13 @@ pcrprune;
 nelsen*; tchoose {strict}; export = equalweights-strict.tre;
 tplot;
 
+naked-;
+tplot;
+
+log equalweights-apomorphies.log
+tplot;
+apo -;
+apo;
+
 log/;
 quit;
