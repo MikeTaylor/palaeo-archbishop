@@ -128,7 +128,7 @@ Tracing nodes back from Archbishop:
 
 XXX NOTE all character numbers have been increased by 1 from the output of TNT, i.e. they are 1-based rather than 0-based.
 
-    Archbishop : 
+    A. Archbishop : 
       Char. 22: 1 --> 0 (cotyles taller than wide)
       Char. 43: 0 --> 1 (humerus shaft eccentricity less than 1.5)
       Char. 145: 1 --> 0 (Dorsal centra, pneumatic foramina margins flush with the lateral surface)
@@ -137,7 +137,7 @@ XXX NOTE all character numbers have been increased by 1 from the output of TNT, 
       Char. 331: 0 --> 1 (Cervical ribs, dorsal surface of proximal portion of shaft unexcavated)
       Char. 339: 1 --> 0 (Mid-posterior dorsal arches, parapophysis behind anterior margin of centrum excluding condyle)
       Char. 457: 0 --> 1 (Postaxial cervical centra, anteroposteriorly elongate fossa on posteroventral corner of lateral surface)
-   Node 162 : 
+   B. Node 162 : 
       Char. 15: 1 --> 2 (C15. Cervical centra, highest average Elongation Index value (aEI; centrum anteroposterior length [excluding articular ball] divided by the mean average value of the posterior articular surface mediolateral width and dorsoventral height) of: less than 3.0 (0); between 3.0 and <4.0 (1); ≥4.0 (2) (Upchurch, 1995, 1998; Upchurch et al., 2004; Chure et al., 2010) [ordered].)
       Char. 48: 1 --> 0 (C48. Radius, distal end mediolateral to anteroposterior width ratio: 1.5 or greater (0); less than 1.5 (1) (Wilson & Sereno, 1998; Mannion et al., 2013).)
       Char. 51: 0 --> 1 (C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].)
@@ -159,7 +159,7 @@ XXX NOTE all character numbers have been increased by 1 from the output of TNT, 
       Char. 329: 1 --> 0 (C329. Posterior cervical neural spines, horizontal, rugose ridge immediately below spine summit on lateral surface: absent, spinodiapophyseal fossa fades out gradually dorsally (0); present, serves as distinct dorsal edge of the spinodiapophyseal fossa (1) (Tschopp & Mateus, 2013).)
       Char. 330: 0 --> 1 (C330. Posteriormost cervical and anteriormost dorsal neural spines, shape in anterior/posterior view: taper dorsally, or mediolateral width remains constant along length (0); expand dorsally, with a strongly convex dorsal margin (‘paddle-shaped’) (1) (González Riga, 2005; D''Emic, 2012; Poropat et al., 2016).)
       Char. 336: 0 --> 1 (C336. Anterior-middle dorsal neural arches, vertical midline ridge (‘median infrapostzygapophyseal lamina’) extending from roof of neural canal to ventral midpoint of postzygapophyses/intrapostzygapophyseal lamina (TPOL): absent (0); present (1) (González Riga, 2003; Curry Rogers, 2005, 2009; Gallina, 2011; Gallina & Apesteguía, 2011).)
-   Node 163 : 
+   C. Node 163 : 
       Char. 14: 1 --> 2 (C14. Cervical vertebrae, number: 13 or fewer (0); 14-15 (1); more than 15 (2) (Upchurch, 1995, 1998; Wilson & Sereno, 1998; Mannion et al., 2013) [ordered].)
       Char. 47: 0 --> 1 (C47. Radius, distal end mediolateral width to midshaft mediolateral width ratio: less than 2.0 (0); 2.0 or greater (1) (Wilson, 2002; Rose, 2007; Mannion et al., 2013; note that in taxa with a twisted radius, the dimension of the long axis of the distal end is used).)
       Char. 49: 0 --> 1 (C49. Radius, distal condyle orientation: perpendicular or bevelled less than 20° to long axis of shaft (0); bevelled at least 20° to long axis of shaft (1) (Curry Rogers & Forster, 2001; Wilson, 2002; Mannion et al., 2013; note that in most taxa only the lateral half of the distal end is bevelled, but this is used as the measurement in those instances).)
@@ -185,10 +185,10 @@ XXX NOTE all character numbers have been increased by 1 from the output of TNT, 
       Char. 385: 0 --> 1 (C385. Pubis, distal end transversely expanded along lateral surface relative to shaft: present (0); absent (laminar distal blade) (1) (Curry Rogers, 2005; Poropat et al., 2016).)
       Char. 404: 1 --> 0 (C404. Middle-posterior cervical neural arches, vertical midline lamina (part of the interpostzygapophyseal lamina [TPOL]) divides the centropostzygapophyseal fossa (CPOF) into two fossae: absent (0); present (1) (Upchurch & Martin, 2002; Curry Rogers, 2009).)
       Char. 423: 0 --> 1 (C423. Pedal digit III, number of phalanges: 3 or more (0); 2 or fewer (1) (González Riga et al., 2008, 2016; Nair & Salisbury, 2012).)
-   Node 150 : 
+   D. Node 150 : 
       Char. 141: 1 --> 2 (C141. Middle-posterior dorsal vertebrae, internal tissue texture: solid (0); camerate (1); camellate (2) (Wilson & Sereno, 1998; Carballido et al., 2011; Mannion et al., 2013).)
       Char. 148: 0 --> 1 (C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].)
-   Node 148 : 
+   E. Node 148 : 
       Char. 1: 0 --> 1 (C1. Premaxillary anterior margin, shape: without step or with anteroposteriorly short ‘muzzle’, less than 0.25 of skull length (measured up to the anterior point of the ascending process of premaxilla) (0); elongate, boot-shaped snout, equal to or greater than 0.25 of skull length (1) (Wilson, 2002; Mannion et al., 2013).)
       Char. 4: 0 --> 1 (C4. Parietal, distance separating supratemporal fenestrae to long axis of supratemporal fenestra ratio: 1.0 or greater (0); less than 1.0 (1) (Wilson, 2002; Mannion et al., 2013).)
       Char. 40: 3 --> 4 (C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].)
@@ -203,7 +203,7 @@ XXX NOTE all character numbers have been increased by 1 from the output of TNT, 
       Char. 290: 0 --> 1 (C290. Maxilla, position of external opening of the preantorbital fenestra: lies below antorbital fenestra (0); lies anterior to antorbital fenstra, with the posterior margin of the preantorbital fenestra lying entirely anterior to the anterior margin of the antorbital fenestra (1) (Marpmann et al., 2015; Poropat et al., 2016).)
       Char. 319: 0 --> 1 (C319. Dentary, angle between the long-axis of the anterior margin (mandibular symphysis) and the long-axis of the main body of the dentary, in lateral view: greater than 90°, with the dorsal margin of the dentary extending further anteriorly than the ventral margin (0); approximately 90°, with the dorsal and ventral margins extending an equal distance anteriorly (1) (Salgado & Calvo, 1997; Upchurch, 1998; Wilson, 2002; Poropat et al., 2016).)
       Char. 323: 0 --> 1 (C323. Postaxial cervical centra, pneumatization of lateral surface: lateral pneumatic opening occupies approximately anterior two-thirds of centrum or more (0); reduced and restricted to less than the anterior two-thirds of the centrum (1) (Whitlock, 2011; Poropat et al., 2016).)
-   Node 149 : 
+   F. Node 149 : 
       Char. 40: 2 --> 3 (C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].)
       Char. 61: 0 --> 1 (C61. Ischium, ratio of anteroposterior length of proximal plate to ischium proximodistal length: greater than 0.25 (0); 0.25 or less (1) (Mannion et al., 2013).)
       Char. 62: 0 --> 1 (C62. Ischium, ratio of anteroposterior length of iliac peduncle to anteroposterior length of proximal plate: less than 0.7 (large ischial contribution to acetabulum) (0); 0.7 or greater (small ischial contribution to acetabulum) (1) (Wilson, 2002; D’Emic, 2012; Mannion et al., 2013).)
@@ -226,88 +226,3 @@ Reversals:
       Char. 145 (2x) (C145. Dorsal centra, lateral pneumatic foramina: have margins which are flush with the lateral surface of the centrum (0); are set within a lateral fossa on the lateral surface of the centrum (1) (Bonaparte & Coria, 1993; Upchurch et al., 2004).)
       Char. 163 (2x) (C163. Middle-posterior dorsal neural spines, with triangular aliform processes: weakly developed aliform processes (0); strongly developed triangular aliform processes so that the lateral tips of these processes extend further laterally than the postzygapophyses (1) (Upchurch, 1998; Wilson & Sereno, 1998; Wilson, 2002; Upchurch et al., 2004; revised here so that only taxa with aliform processes scored for this character).)
 
-Archbishop scored for characters:
-	15
-	17
-	18
-	19
-	21
-	22
-	23
-	43
-	115
-	118
-	120
-	121
-	122
-	123
-	124
-	125
-	130
-	131
-	132
-	139
-	143
-	144
-	145
-	146
-	147
-	148
-	149
-	151
-	152
-	159
-	161
-	162
-	163
-	164
-	165
-	166
-	167
-	168
-	169
-	228
-	323
-	324
-	325
-	326
-	327
-	331
-	334
-	337
-	338
-	339
-	340
-	341
-	342
-	343
-	344
-	345
-	403
-	406
-	407
-	417
-	418
-	457
-	459
-	460
-	461
-	462
-	464
-	465
-	469
-	470
-	472
-	473
-	474
-	476
-	477
-	478
-	480
-	481
-	482
-	483
-	484
-	485
-	486
-	524
