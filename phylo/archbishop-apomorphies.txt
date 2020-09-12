@@ -120,108 +120,109 @@ Tree 0:
 
 Tracing nodes back from Archbishop:
 1. Node 124 (Archbishop)
-2. Node 162 (unnamed)
+2. Node 162 (unnamed clade of advanced Somphospondylian that are not yet titanosaurs)
 3. Node 163 (Somphospondyli)
 4. Node 150 (Titanosauriformes)
 6. Node 148 (unnamed "Brachiosaurinae")
 5. Node 149 (Brachiosauridae)
 
-XXX REMEMBER ALL CHARACTER NUMBERS ARE ONE TOO SMALL!
+XXX NOTE all character numbers have been increased by 1 from the output of TNT, i.e. they are 1-based rather than 0-based.
 
     Archbishop : 
-      Char. 21: 1 --> 0 (cotyles taller than wide)
-      Char. 42: 0 --> 1 (humerus shaft eccentricity less than 1.5)
-      Char. 144: 1 --> 0 (Dorsal centra, pneumatic foramina margins flush with the lateral surface)
-      Char. 147: 1 --> 0 (Mid-posterior dorsal arches, PCPL absent)
-      Char. 162: 0 --> 1 (Mid-posterior dorsal spines, aliform processes extend further laterally than postzygs)
-      Char. 330: 0 --> 1 (Cervical ribs, dorsal surface of proximal portion of shaft unexcavated)
-      Char. 338: 1 --> 0 (Mid-posterior dorsal arches, parapophysis behind anterior margin of centrum excluding condyle)
-      Char. 456: 0 --> 1 (Postaxial cervical centra, anteroposteriorly elongate fossa on posteroventral corner of lateral surface)
+      Char. 22: 1 --> 0 (cotyles taller than wide)
+      Char. 43: 0 --> 1 (humerus shaft eccentricity less than 1.5)
+      Char. 145: 1 --> 0 (Dorsal centra, pneumatic foramina margins flush with the lateral surface)
+      Char. 148: 1 --> 0 (Mid-posterior dorsal arches, PCPL absent)
+      Char. 163: 0 --> 1 (Mid-posterior dorsal spines, aliform processes extend further laterally than postzygs)
+      Char. 331: 0 --> 1 (Cervical ribs, dorsal surface of proximal portion of shaft unexcavated)
+      Char. 339: 1 --> 0 (Mid-posterior dorsal arches, parapophysis behind anterior margin of centrum excluding condyle)
+      Char. 457: 0 --> 1 (Postaxial cervical centra, anteroposteriorly elongate fossa on posteroventral corner of lateral surface)
    Node 162 : 
-      Char. 14: 1 --> 2 
-      Char. 47: 1 --> 0 
-      Char. 50: 0 --> 1 
-      Char. 65: 0 --> 1 
-      Char. 135: 0 --> 1 
-      Char. 136: 0 --> 1 
-      Char. 139: 0 --> 1 
-      Char. 167: 0 --> 1 
-      Char. 168: 0 --> 1 
-      Char. 172: 1 --> 0 
-      Char. 173: 0 --> 1 
-      Char. 186: 0 --> 1 
-      Char. 214: 0 --> 1 
-      Char. 224: 0 --> 1 
-      Char. 227: 0 --> 1 
-      Char. 235: 0 --> 1 
-      Char. 262: 0 --> 1 
-      Char. 280: 0 --> 1 
-      Char. 328: 1 --> 0 
-      Char. 329: 0 --> 1 
-      Char. 335: 0 --> 1 
+      Char. 15: 1 --> 2 (C15. Cervical centra, highest average Elongation Index value (aEI; centrum anteroposterior length [excluding articular ball] divided by the mean average value of the posterior articular surface mediolateral width and dorsoventral height) of: less than 3.0 (0); between 3.0 and <4.0 (1); ≥4.0 (2) (Upchurch, 1995, 1998; Upchurch et al., 2004; Chure et al., 2010) [ordered].)
+      Char. 48: 1 --> 0 (C48. Radius, distal end mediolateral to anteroposterior width ratio: 1.5 or greater (0); less than 1.5 (1) (Wilson & Sereno, 1998; Mannion et al., 2013).)
+      Char. 51: 0 --> 1 (C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].)
+      Char. 66: 0 --> 1 (C66. Femoral distal condyles, tibial to fibular condylar anteroposterior length ratio: less than 1.2 (0); 1.2 or greater (1) (Upchurch et al., 2004; Mannion et al., 2013).)
+      Char. 136: 0 --> 1 (C136. Posterioriormost cervical and anterior dorsal neural arches, spinodiapophyseal lamina (SPDL): single structure (0); divided into anterior and posterior spinodiapophyseal laminae (1) (Salgado et al., 1997; Salgado & Powell, 2010; D’Emic, 2012).)
+      Char. 137: 0 --> 1 137 'C137. Posteriormost cervical and anterior dorsal unbifurcated neural spines, prespinal lamina: absent (0); present (1) (Salgado et al., 1997; D’Emic, 2012).',
+      Char. 140: 0 --> 1 140 'C140. Cervical ribs, longest shafts extend beneath: fewer than 3 vertebrae (0); 3 vertebrae or more (1) (Wedel et al., 2000; Mannion et al., 2013); revised here so that taxa with short ribs [scored with the plesiomorphic state for C139] are scored as a “?”).',
+      Char. 168: 0 --> 1 168 'C168. Middle-posterior dorsal neural spines, midline prespinal lamina (forming distinct ridge) along proximal (lower) half of neural spine: present (0); absent (1) (Salgado et al., 1997; Curry Rogers, 2005; Mannion et al., 2013; note that taxa coded as ‘0’ for C167 are scored as a ‘?’ here).',
+      Char. 169: 0 --> 1 169 'C169. Middle-posterior dorsal neural spines, postspinal lamina (forming distinct ridge) along proximal (lower) half of neural spine: present (0); absent (1) (Bonaparte, 1986; Upchurch, 1995, 1998; Curry Rogers, 2005; Mannion et al., 2013; note that taxa coded as ‘0’ for C167 are scored as a ‘?’ here).',
+      Char. 173: 1 --> 0 173 'C173. Sacral centra, lateral pneumatic foramina or very deep depressions: absent (0); present (1) (Upchurch, 1998).',
+      Char. 174: 0 --> 1 174 'C174. Sacral neural spines, dorsal portions of at least sacral vertebrae 1-4 fused, forming a dorsal ‘platform’: absent (0); present (1) (Lü et al., 2007; Mannion et al., 2013).',
+      Char. 187: 0 --> 1 187 'C187. Anterior caudal neural arches, hyposphenal ridge: present (0); absent (1) (Upchurch, 1998; Mannion et al., 2013; usually only present in the anteriormost region of the tail).',
+      Char. 215: 0 --> 1 215 'C215. Scapular acromion, subtriangular process at posteroventral corner: absent (0); present (1) (Smith et al., 2001; Bonaparte et al., 2006; Carballido et al., 2011; D’Emic et al., 2011; Mannion et al., 2013).',
+      Char. 225: 0 --> 1 225 'C225. Humeral deltopectoral crest, projection: anteriorly or anterolaterally (0); anteromedially, extending across the anterior face of the humerus (1) (Mannion et al., 2013; Upchurch et al., 2015; Poropat et al., 2016).',
+      Char. 228: 0 --> 1 228 'C228. Humerus, distalmost part of the posterior surface (supracondylar fossa) is: flat or shallowly concave (0); deeply concave between prominent lateral and medial vertical condylar ridges (1) (Upchurch et al., 2004).',
+      Char. 236: 0 --> 1 236 'C236. Ulna, distal end: prominently expanded posteriorly (0); unexpanded (1) (D’Emic, 2012).',
+      Char. 263: 0 --> 1 263 'C263. Fibula, lateral muscle scar is: oval in outline (0); formed from two vertically elongate, parallel ridges (1) (Powell, 1992; Upchurch, 1998).',
+      Char. 281: 0 --> 1 281 'C281. Ulna, posterior process of proximal end: weakly developed, so that the proximal profile of the ulna is ‘V’-shaped (formed by the anteromedial and anterolateral processes) (0); strongly developed, so that the proximal profile of the ulna is ‘T’- or ‘Y’-shaped, and there is a deep fossa between the anteromedial and posterior processes, rivalling the radial fossa in depth (1) (Upchurch et al., 2015).',
+      Char. 329: 1 --> 0 329 'C329. Posterior cervical neural spines, horizontal, rugose ridge immediately below spine summit on lateral surface: absent, spinodiapophyseal fossa fades out gradually dorsally (0); present, serves as distinct dorsal edge of the spinodiapophyseal fossa (1) (Tschopp & Mateus, 2013).',
+      Char. 330: 0 --> 1 330 'C330. Posteriormost cervical and anteriormost dorsal neural spines, shape in anterior/posterior view: taper dorsally, or mediolateral width remains constant along length (0); expand dorsally, with a strongly convex dorsal margin (‘paddle-shaped’) (1) (González Riga, 2005; D''Emic, 2012; Poropat et al., 2016).',
+      Char. 336: 0 --> 1 336 'C336. Anterior-middle dorsal neural arches, vertical midline ridge (‘median infrapostzygapophyseal lamina’) extending from roof of neural canal to ventral midpoint of postzygapophyses/intrapostzygapophyseal lamina (TPOL): absent (0); present (1) (González Riga, 2003; Curry Rogers, 2005, 2009; Gallina, 2011; Gallina & Apesteguía, 2011).',
    Node 163 : 
-      Char. 13: 1 --> 2 
-      Char. 46: 0 --> 1 
-      Char. 48: 0 --> 1 
-      Char. 59: 0 --> 1 
-      Char. 62: 1 --> 0 
-      Char. 77: 1 --> 0 
-      Char. 106: 0 --> 1 
-      Char. 110: 0 --> 1 
-      Char. 111: 0 --> 1 
-      Char. 144: 0 --> 1 
-      Char. 162: 1 --> 0 
-      Char. 171: 0 --> 1 
-      Char. 185: 0 --> 1 
-      Char. 192: 0 --> 1 
-      Char. 212: 0 --> 1 
-      Char. 222: 0 --> 1 
-      Char. 261: 0 --> 1 
-      Char. 263: 0 --> 1 
-      Char. 277: 0 --> 1 
-      Char. 297: 0 --> 1 
-      Char. 345: 0 --> 1 
-      Char. 380: 0 --> 1 
-      Char. 384: 0 --> 1 
-      Char. 403: 1 --> 0 
-      Char. 422: 0 --> 1 
+      Char. 14: 1 --> 2 14 'C14. Cervical vertebrae, number: 13 or fewer (0); 14-15 (1); more than 15 (2) (Upchurch, 1995, 1998; Wilson & Sereno, 1998; Mannion et al., 2013) [ordered].',
+      Char. 47: 0 --> 1 47 'C47. Radius, distal end mediolateral width to midshaft mediolateral width ratio: less than 2.0 (0); 2.0 or greater (1) (Wilson, 2002; Rose, 2007; Mannion et al., 2013; note that in taxa with a twisted radius, the dimension of the long axis of the distal end is used).',
+      Char. 49: 0 --> 1 49 'C49. Radius, distal condyle orientation: perpendicular or bevelled less than 20° to long axis of shaft (0); bevelled at least 20° to long axis of shaft (1) (Curry Rogers & Forster, 2001; Wilson, 2002; Mannion et al., 2013; note that in most taxa only the lateral half of the distal end is bevelled, but this is used as the measurement in those instances).',
+      Char. 60: 0 --> 1 60 'C60. Ischium to pubis proximodistal length ratio: greater than 0.8 (0); 0.80 or less (1) (Calvo & Salgado, 1995; Salgado et al., 1997; Upchurch, 1998; Mannion et al., 2013).',
+      Char. 63: 1 --> 0 63 'C63. Ischium, ratio of dorsoventral width across the distal shaft (mediolateral in taxa with fully coplanar shafts) to ischium proximodistal length: 0.2 or greater (0); less than 0.2 (1) (Jacobs et al., 1993; Upchurch, 1998; Upchurch et al., 2004; Mannion et al., 2013).',
+      Char. 78: 1 --> 0 78 'C78. Maxillary ascending process, medial plate-like projections: do not contact each other on the midline (0); contact each other on the midline (1) (Upchurch, 1998).',
+      Char. 107: 0 --> 1 107 'C107. Tooth crowns in upper and lower tooth rows, relative diameters: subequal (0); lower crowns smaller than upper crowns (1) (Chure et al., 2010).',
+      Char. 111: 0 --> 1 111 'C111. Tooth crowns, apicobasally oriented lingual ridge: present (0); absent (1) (Barrett et al., 2002; Mannion et al., 2013).',
+      Char. 112: 0 --> 1 112 'C112. Tooth crowns, distinct mesial and distal carinae (labiolingually thinner than the rest of the tooth crown) along the full crown length: absent (0); present (1) (Mannion, 2011; Mannion et al., 2013; note that the asymmetrial enamel in derived rebbachisaurids results in the superficial appearance of carinae).',
+      Char. 145: 0 --> 1 145 'C145. Dorsal centra, lateral pneumatic foramina: have margins which are flush with the lateral surface of the centrum (0); are set within a lateral fossa on the lateral surface of the centrum (1) (Bonaparte & Coria, 1993; Upchurch et al., 2004).',
+      Char. 163: 1 --> 0 163 'C163. Middle-posterior dorsal neural spines, with triangular aliform processes: weakly developed aliform processes (0); strongly developed triangular aliform processes so that the lateral tips of these processes extend further laterally than the postzygapophyses (1) (Upchurch, 1998; Wilson & Sereno, 1998; Wilson, 2002; Upchurch et al., 2004; revised here so that only taxa with aliform processes scored for this character).',
+      Char. 172: 0 --> 1 172 'C172. Sacral vertebrae, camellate internal tissue structure: absent (0); present (1) (Mannion et al., 2013).',
+      Char. 186: 0 --> 1 186 'C186. Distal caudal centra, biconvex: absent (0); present (1) (Wilson & Sereno, 1998).',
+      Char. 193: 0 --> 1 193 'C193. Middle-posterior caudal neural arches, distance that prezygapophyses extend beyond the anterior margin of the centrum: less than 20% of centrum length (excluding ball), short prezygapophyses (0); 20% or greater of centrum length (excluding ball), elongate prezygapophyses (1) (González Riga, 2003; Mannion et al., 2013; note that in taxa without anteriorly biased neural arches this prezygapophyseal extension is extrapolated as if the arch was anteriorly positioned on the centrum).',
+      Char. 213: 0 --> 1 213 'C213. Scapular glenoid surface, orientation: faces anteroventrally and/or slightly laterally (0); deflected to face anteroventrally and medially (1) (Wilson & Sereno, 1998; Upchurch et al., 2004).',
+      Char. 223: 0 --> 1 223 'C223. Humeral proximolateral corner, shape: rounded, surfaces merge smoothly into each other to produce a transversely rounded proximal end, with the proximalmost point of the lateral margin at a lower level than the remaining lateral half of the proximal surface (0); square, surfaces meet each other at an abrupt angle to produce a ‘squared’ proximal end in anterior view, with the proximalmost point of the lateral margin level with the remaining lateral half of the proximal surface (1) (Upchurch, 1999; Wilson, 2002; Upchurch et al., 2004; Harris, 2006; Mannion et al., 2013).',
+      Char. 262: 0 --> 1 262 'C262. Fibula, proximal end with anteromedialy directed crest extending into a notch behind the cnemial crest of the tibia: absent (0); present (1) (Wilson & Upchurch, 2009; D’Emic, 2012; Mannion et al., 2013).',
+      Char. 264: 0 --> 1 264 'C264. Fibula, shaft in lateral view: straight (0); sigmoidal (1) (Canudo et al., 2008; Royo-Torres, 2009).',
+      Char. 278: 0 --> 1 278 'C278. Pedal unguals, tuberosity on the ventral margin, along distal half: absent (0); present (1) (Canudo et al., 2008; Mannion et al., 2013).',
+      Char. 298: 0 --> 1 298 'C298. Frontal, lateral margin: expands posteriorly, orbital margin concave in dorsal view (0); unexpanded posteriorly, orbital margin straight or convex in dorsal view (1) (Whitlock et al., 2010; Poropat et al., 2016).',
+      Char. 346: 0 --> 1 346 'C346. Sacrum, ratio of mediolateral width across sacral vertebrae and ribs (taken at midlength on the coossified sacrum) to average length of a sacral centrum: less than 4.0 (0); 4.0 or higher (1) (Upchurch, 1998).',
+      Char. 381: 0 --> 1 381 'C381. Ilium, projected line (chord) connecting articular surfaces of ischiadic and pubic processes: passes ventral to ventral margin of postacetabular portion of ilium (0); passes through or dorsal to ventral edge of postacetabular portion of ilium (1) (Upchurch, 1998).',
+      Char. 385: 0 --> 1 385 'C385. Pubis, distal end transversely expanded along lateral surface relative to shaft: present (0); absent (laminar distal blade) (1) (Curry Rogers, 2005; Poropat et al., 2016).',
+      Char. 404: 1 --> 0 404 'C404. Middle-posterior cervical neural arches, vertical midline lamina (part of the interpostzygapophyseal lamina [TPOL]) divides the centropostzygapophyseal fossa (CPOF) into two fossae: absent (0); present (1) (Upchurch & Martin, 2002; Curry Rogers, 2009).',
+      Char. 423: 0 --> 1 423 'C423. Pedal digit III, number of phalanges: 3 or more (0); 2 or fewer (1) (González Riga et al., 2008, 2016; Nair & Salisbury, 2012).',
    Node 150 : 
-      Char. 140: 1 --> 2 
-      Char. 147: 0 --> 1 
+      Char. 141: 1 --> 2 141 'C141. Middle-posterior dorsal vertebrae, internal tissue texture: solid (0); camerate (1); camellate (2) (Wilson & Sereno, 1998; Carballido et al., 2011; Mannion et al., 2013).',
+      Char. 148: 0 --> 1 148 'C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].',
    Node 148 : 
-      Char. 0: 0 --> 1 
-      Char. 3: 0 --> 1 
-      Char. 39: 3 --> 4 
-      Char. 50: 0 --> 1 
-      Char. 76: 0 --> 1 
-      Char. 102: 0 --> 1 
-      Char. 103: 0 --> 2 
-      Char. 113: 0 --> 1 
-      Char. 147: 1 --> 2 
-      Char. 205: 0 --> 1 
-      Char. 246: 0 --> 1 
-      Char. 289: 0 --> 1 
-      Char. 318: 0 --> 1 
-      Char. 322: 0 --> 1 
+      Char. 1: 0 --> 1 1 'C1. Premaxillary anterior margin, shape: without step or with anteroposteriorly short ‘muzzle’, less than 0.25 of skull length (measured up to the anterior point of the ascending process of premaxilla) (0); elongate, boot-shaped snout, equal to or greater than 0.25 of skull length (1) (Wilson, 2002; Mannion et al., 2013).',
+      Char. 4: 0 --> 1 4 'C4. Parietal, distance separating supratemporal fenestrae to long axis of supratemporal fenestra ratio: 1.0 or greater (0); less than 1.0 (1) (Wilson, 2002; Mannion et al., 2013).',
+      Char. 40: 3 --> 4 40 'C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].',
+      Char. 51: 0 --> 1 51 'C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].',
+      Char. 77: 0 --> 1 77 'C77. Premaxilla-maxilla sutural contact, shape in lateral view: straight (0); sinuous (1) (Chure et al., 2010).',
+      Char. 103: 0 --> 1 103 'C103. Dentary, posteroventral process, shape: single (0); forked (1) (Chure et al., 2010).',
+      Char. 104: 0 --> 2 104 'C104. Tooth rows: restricted anterior to orbit (0); restricted anterior to antorbital fenestra (1); restricted anterior to external naris (2); restricted anterior to subnarial foramen (3) (Gauthier, 1986; Upchurch, 1998; Wilson, 2002; Chure et al., 2010; Mannion et al., 2013) [ordered].',
+      Char. 114: 0 --> 1 114 'C114. Maxillary teeth, shape: straight along axis (0); twisted axially through an arc of 30-45 degrees (1) (Chure et al., 2010; D’Emic, 2012).',
+      Char. 148: 1 --> 2 148 'C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].',
+      Char. 206: 0 --> 1 206 'C206. Anterior caudal ribs: do not extend beyond posterior end of centrum (excluding posterior ball) (0); extend beyond posterior end of centrum (excluding posterior ball) (1) (Mannion & Calvo, 2011; Mannion et al., 2013; revised here so that only taxa with posterolaterally directed caudal ribs are scored for this character).',
+      Char. 247: 0 --> 1 247 'C247. Ilium, preacetabular process, bulge or ‘kink’ on ventral margin: absent (0); present (1) (D’Emic, 2012).',
+      Char. 290: 0 --> 1 290 'C290. Maxilla, position of external opening of the preantorbital fenestra: lies below antorbital fenestra (0); lies anterior to antorbital fenstra, with the posterior margin of the preantorbital fenestra lying entirely anterior to the anterior margin of the antorbital fenestra (1) (Marpmann et al., 2015; Poropat et al., 2016).',
+      Char. 319: 0 --> 1 319 'C319. Dentary, angle between the long-axis of the anterior margin (mandibular symphysis) and the long-axis of the main body of the dentary, in lateral view: greater than 90°, with the dorsal margin of the dentary extending further anteriorly than the ventral margin (0); approximately 90°, with the dorsal and ventral margins extending an equal distance anteriorly (1) (Salgado & Calvo, 1997; Upchurch, 1998; Wilson, 2002; Poropat et al., 2016).',
+      Char. 323: 0 --> 1 323 'C323. Postaxial cervical centra, pneumatization of lateral surface: lateral pneumatic opening occupies approximately anterior two-thirds of centrum or more (0); reduced and restricted to less than the anterior two-thirds of the centrum (1) (Whitlock, 2011; Poropat et al., 2016).',
    Node 149 : 
-      Char. 39: 2 --> 3 
-      Char. 60: 0 --> 1 
-      Char. 61: 0 --> 1 
-      Char. 112: 1 --> 0 
-      Char. 153: 0 --> 1 
-      Char. 157: 0 --> 1 
-      Char. 219: 1 --> 0 
-      Char. 240: 0 --> 1 
-      Char. 257: 0 --> 1 
-      Char. 404: 0 --> 1 
-      Char. 407: 0 --> 1 
-      Char. 414: 0 --> 1 
-      Char. 465: 0 --> 1 
-      Char. 535: 0 --> 1 
+      Char. 40: 2 --> 3 40 'C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].',
+      Char. 61: 0 --> 1 61 'C61. Ischium, ratio of anteroposterior length of proximal plate to ischium proximodistal length: greater than 0.25 (0); 0.25 or less (1) (Mannion et al., 2013).',
+      Char. 62: 0 --> 1 62 'C62. Ischium, ratio of anteroposterior length of iliac peduncle to anteroposterior length of proximal plate: less than 0.7 (large ischial contribution to acetabulum) (0); 0.7 or greater (small ischial contribution to acetabulum) (1) (Wilson, 2002; D’Emic, 2012; Mannion et al., 2013).',
+      Char. 113: 1 --> 0 113 'C113. Tooth serrations/denticles: present (0); absent (1) (Wilson, 2002; Upchurch et al., 2004; Mannion et al., 2013).',
+      Char. 154: 0 --> 1 154 'C154. Anterior-middle dorsal diapophyses: short and dorsoventrally tall (0); elongate and dorsoventrally narrow (1) (Janensch, 1950; Taylor, 2009; D’Emic, 2012).',
+      Char. 158: 0 --> 1 158 'C158. Dorsal neural spines, height: anterior dorsal neural spines subequal to or dorsoventrally shorter than posterior dorsal neural spines (0); anterior dorsal neural spines dorsoventrally taller than posterior dorsal neural spines (1) (Wilson, 2002; Taylor, 2009; Mannion et al., 2013).',
+      Char. 220: 1 --> 0 220 'C220. Coracoid, ventral margin in lateral view forms a notch anterior to the glenoid, resulting in an ‘infraglenoid lip’ anterior to the notch: absent (0); present (1) (Wilson, 2002; Mannion et al., 2013).',
+      Char. 241: 0 --> 1 241 'C241. Metacarpals, metacarpal IV has a prominent proximolateral projection that wraps around the dorsal (anterior) face of metacarpal V (metacarpal IV often forms a chevron shape in proximal end view): absent (0); present (1) (D’Emic, 2012; Mannion et al., 2013).',
+      Char. 258: 0 --> 1 258 'C258. Femur, fourth trochanter: not visible in anterior view (0); visible in anterior view (1) (Gallina & Apesteguía, 2005; Whitlock, 2011).',
+      Char. 405: 0 --> 1 405 'C405. Middle cervical neural spines, lateral fossa at the base of the prezygapophyseal process bounded by SPRL, PRDL and PODL: absent (0); present (1) (Harris, 2006; Tschopp & Mateus, 2013).',
+      Char. 408: 0 --> 1 408 'C408. Sacral ribs, Sv2 ribs: emanate solely from Sv2 (0); emanate from Sv2, with a contribution from Sv1 (1) (Mannion, Allain & Moine, 2017).',
+      Char. 415: 0 --> 1 415 'C415. Metacarpal III, maximum mediolateral width to dorsoventral height of the proximal end ratio: less than 1.3 (0); 1.3 or greater (1) (Mannion, Allain & Moine, 2017).',
+      Char. 466: 0 --> 1 466 'C466. Dorsal centra, anteroposterior length (excluding articular condyle), increases or remains approximately the same along the sequence (0); shortens from anterior to posterior dorsal vertebrae (1) (Mannion et al., 2012; modified here).',
+      Char. 536: 0 --> 1 536 'C536. Tibia, lateral margin of cnemial crest in anterior view: rounded (0); subtriangular, forming a point (1) (Tschopp et al., 2015).',
 
 Reversals:
-   3x       Char. 147
-   2x       Char. 39
-   2x       Char. 50
-   2x       Char. 144
-   2x       Char. 162
+      Char. 148 (3x) 148 'C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].',
+      Char. 40 (2x) 40 'C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].',
+      Char. 51 (2x) 51 'C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].',
+      Char. 145 (2x) 145 'C145. Dorsal centra, lateral pneumatic foramina: have margins which are flush with the lateral surface of the centrum (0); are set within a lateral fossa on the lateral surface of the centrum (1) (Bonaparte & Coria, 1993; Upchurch et al., 2004).',
+      Char. 163 (2x) 163 'C163. Middle-posterior dorsal neural spines, with triangular aliform processes: weakly developed aliform processes (0); strongly developed triangular aliform processes so that the lateral tips of these processes extend further laterally than the postzygapophyses (1) (Upchurch, 1998; Wilson & Sereno, 1998; Wilson, 2002; Upchurch et al., 2004; revised here so that only taxa with aliform processes scored for this character).',
+
