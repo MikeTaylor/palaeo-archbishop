@@ -123,8 +123,8 @@ A. Node 124 (Archbishop)
 B. Node 162 (unnamed clade of advanced Somphospondylian that are not yet titanosaurs)
 C. Node 163 (Somphospondyli)
 D. Node 150 (Titanosauriformes)
-E. Node 148 (unnamed "Brachiosaurinae")
-F. Node 149 (Brachiosauridae)
+E. Node 149 (Brachiosauridae)
+F. Node 148 (unnamed "Brachiosaurinae")
 
 XXX NOTE all character numbers have been increased by 1 from the output of TNT, i.e. they are 1-based rather than 0-based.
 
@@ -190,22 +190,7 @@ x	Char. 163: 1 --> 0 (C163. Middle-posterior dorsal neural spines, with triangul
     D. Node 150 : 
 	Char. 141: 1 --> 2 (C141. Middle-posterior dorsal vertebrae, internal tissue texture: solid (0); camerate (1); camellate (2) (Wilson & Sereno, 1998; Carballido et al., 2011; Mannion et al., 2013).)
 x	Char. 148: 0 --> 1 (C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].)
-    E. Node 148 : 
-	Char. 1: 0 --> 1 (C1. Premaxillary anterior margin, shape: without step or with anteroposteriorly short ‘muzzle’, less than 0.25 of skull length (measured up to the anterior point of the ascending process of premaxilla) (0); elongate, boot-shaped snout, equal to or greater than 0.25 of skull length (1) (Wilson, 2002; Mannion et al., 2013).)
-	Char. 4: 0 --> 1 (C4. Parietal, distance separating supratemporal fenestrae to long axis of supratemporal fenestra ratio: 1.0 or greater (0); less than 1.0 (1) (Wilson, 2002; Mannion et al., 2013).)
-	Char. 40: 3 --> 4 (C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].)
-	Char. 51: 0 --> 1 (C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].)
-	Char. 77: 0 --> 1 (C77. Premaxilla-maxilla sutural contact, shape in lateral view: straight (0); sinuous (1) (Chure et al., 2010).)
-	Char. 103: 0 --> 1 (C103. Dentary, posteroventral process, shape: single (0); forked (1) (Chure et al., 2010).)
-	Char. 104: 0 --> 2 (C104. Tooth rows: restricted anterior to orbit (0); restricted anterior to antorbital fenestra (1); restricted anterior to external naris (2); restricted anterior to subnarial foramen (3) (Gauthier, 1986; Upchurch, 1998; Wilson, 2002; Chure et al., 2010; Mannion et al., 2013) [ordered].)
-	Char. 114: 0 --> 1 (C114. Maxillary teeth, shape: straight along axis (0); twisted axially through an arc of 30-45 degrees (1) (Chure et al., 2010; D’Emic, 2012).)
-x	Char. 148: 1 --> 2 (C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].)
-	Char. 206: 0 --> 1 (C206. Anterior caudal ribs: do not extend beyond posterior end of centrum (excluding posterior ball) (0); extend beyond posterior end of centrum (excluding posterior ball) (1) (Mannion & Calvo, 2011; Mannion et al., 2013; revised here so that only taxa with posterolaterally directed caudal ribs are scored for this character).)
-	Char. 247: 0 --> 1 (C247. Ilium, preacetabular process, bulge or ‘kink’ on ventral margin: absent (0); present (1) (D’Emic, 2012).)
-	Char. 290: 0 --> 1 (C290. Maxilla, position of external opening of the preantorbital fenestra: lies below antorbital fenestra (0); lies anterior to antorbital fenstra, with the posterior margin of the preantorbital fenestra lying entirely anterior to the anterior margin of the antorbital fenestra (1) (Marpmann et al., 2015; Poropat et al., 2016).)
-	Char. 319: 0 --> 1 (C319. Dentary, angle between the long-axis of the anterior margin (mandibular symphysis) and the long-axis of the main body of the dentary, in lateral view: greater than 90°, with the dorsal margin of the dentary extending further anteriorly than the ventral margin (0); approximately 90°, with the dorsal and ventral margins extending an equal distance anteriorly (1) (Salgado & Calvo, 1997; Upchurch, 1998; Wilson, 2002; Poropat et al., 2016).)
-x	Char. 323: 0 --> 1 (C323. Postaxial cervical centra, pneumatization of lateral surface: lateral pneumatic opening occupies approximately anterior two-thirds of centrum or more (0); reduced and restricted to less than the anterior two-thirds of the centrum (1) (Whitlock, 2011; Poropat et al., 2016).)
-    F. Node 149 : 
+    E. Node 149 : 
 	Char. 40: 2 --> 3 (C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].)
 	Char. 61: 0 --> 1 (C61. Ischium, ratio of anteroposterior length of proximal plate to ischium proximodistal length: greater than 0.25 (0); 0.25 or less (1) (Mannion et al., 2013).)
 	Char. 62: 0 --> 1 (C62. Ischium, ratio of anteroposterior length of iliac peduncle to anteroposterior length of proximal plate: less than 0.7 (large ischial contribution to acetabulum) (0); 0.7 or greater (small ischial contribution to acetabulum) (1) (Wilson, 2002; D’Emic, 2012; Mannion et al., 2013).)
@@ -220,6 +205,21 @@ x	Char. 323: 0 --> 1 (C323. Postaxial cervical centra, pneumatization of lateral
 	Char. 415: 0 --> 1 (C415. Metacarpal III, maximum mediolateral width to dorsoventral height of the proximal end ratio: less than 1.3 (0); 1.3 or greater (1) (Mannion, Allain & Moine, 2017).)
 	Char. 466: 0 --> 1 (C466. Dorsal centra, anteroposterior length (excluding articular condyle), increases or remains approximately the same along the sequence (0); shortens from anterior to posterior dorsal vertebrae (1) (Mannion et al., 2012; modified here).)
 	Char. 536: 0 --> 1 (C536. Tibia, lateral margin of cnemial crest in anterior view: rounded (0); subtriangular, forming a point (1) (Tschopp et al., 2015).)
+    F. Node 148 : 
+	Char. 1: 0 --> 1 (C1. Premaxillary anterior margin, shape: without step or with anteroposteriorly short ‘muzzle’, less than 0.25 of skull length (measured up to the anterior point of the ascending process of premaxilla) (0); elongate, boot-shaped snout, equal to or greater than 0.25 of skull length (1) (Wilson, 2002; Mannion et al., 2013).)
+	Char. 4: 0 --> 1 (C4. Parietal, distance separating supratemporal fenestrae to long axis of supratemporal fenestra ratio: 1.0 or greater (0); less than 1.0 (1) (Wilson, 2002; Mannion et al., 2013).)
+	Char. 40: 3 --> 4 (C40. Humerus to femur proximodistal length ratio: 0.7 or less (0); >0.7 to <0.8 (1); 0.8 to <0.9 (2); 0.9-0.95 (3); >0.95 (4) (Wilson, 2002; Upchurch et al., 2004; Tschopp et al., 2015; Poropat et al., 2016; Mannion et al., 2017; an additional state has been added for taxa with ratios of 0.7 or less) [ordered].)
+	Char. 51: 0 --> 1 (C51. Ulna, ratio of mediolateral width of proximal end (equivalent to anteromedial arm) to anteroposterior width of proximal end (equivalent to anterolateral arm): less than 1.4 (0); 1.4 to <2.0 (1); 2.0 or greater (2) (Wilson 2002; Mannion et al. 2013; Upchurch et al. 2015; the long-axes of the anteromedial and anterolateral processes are extrapolated posteriorly so that they intersect close to the position of the olecranon, and each process length is then measured from this intersection to the tip of each process) [ordered].)
+	Char. 77: 0 --> 1 (C77. Premaxilla-maxilla sutural contact, shape in lateral view: straight (0); sinuous (1) (Chure et al., 2010).)
+	Char. 103: 0 --> 1 (C103. Dentary, posteroventral process, shape: single (0); forked (1) (Chure et al., 2010).)
+	Char. 104: 0 --> 2 (C104. Tooth rows: restricted anterior to orbit (0); restricted anterior to antorbital fenestra (1); restricted anterior to external naris (2); restricted anterior to subnarial foramen (3) (Gauthier, 1986; Upchurch, 1998; Wilson, 2002; Chure et al., 2010; Mannion et al., 2013) [ordered].)
+	Char. 114: 0 --> 1 (C114. Maxillary teeth, shape: straight along axis (0); twisted axially through an arc of 30-45 degrees (1) (Chure et al., 2010; D’Emic, 2012).)
+x	Char. 148: 1 --> 2 (C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].)
+	Char. 206: 0 --> 1 (C206. Anterior caudal ribs: do not extend beyond posterior end of centrum (excluding posterior ball) (0); extend beyond posterior end of centrum (excluding posterior ball) (1) (Mannion & Calvo, 2011; Mannion et al., 2013; revised here so that only taxa with posterolaterally directed caudal ribs are scored for this character).)
+	Char. 247: 0 --> 1 (C247. Ilium, preacetabular process, bulge or ‘kink’ on ventral margin: absent (0); present (1) (D’Emic, 2012).)
+	Char. 290: 0 --> 1 (C290. Maxilla, position of external opening of the preantorbital fenestra: lies below antorbital fenestra (0); lies anterior to antorbital fenstra, with the posterior margin of the preantorbital fenestra lying entirely anterior to the anterior margin of the antorbital fenestra (1) (Marpmann et al., 2015; Poropat et al., 2016).)
+	Char. 319: 0 --> 1 (C319. Dentary, angle between the long-axis of the anterior margin (mandibular symphysis) and the long-axis of the main body of the dentary, in lateral view: greater than 90°, with the dorsal margin of the dentary extending further anteriorly than the ventral margin (0); approximately 90°, with the dorsal and ventral margins extending an equal distance anteriorly (1) (Salgado & Calvo, 1997; Upchurch, 1998; Wilson, 2002; Poropat et al., 2016).)
+x	Char. 323: 0 --> 1 (C323. Postaxial cervical centra, pneumatization of lateral surface: lateral pneumatic opening occupies approximately anterior two-thirds of centrum or more (0); reduced and restricted to less than the anterior two-thirds of the centrum (1) (Whitlock, 2011; Poropat et al., 2016).)
 
 Reversals:
 	Char. 148 (3x) (C148. Middle-posterior dorsal neural arches, posterior centroparapophyseal lamina (PCPL): absent (0); present as a single lamina (1); two parallel laminae (2) (Upchurch, 1998; Wilson, 2002; D’Emic, 2012; Mannion et al., 2013) [ordered].)
