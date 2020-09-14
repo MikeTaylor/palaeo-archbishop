@@ -7,6 +7,7 @@
 * [Running the analyses](#running-the-analyses)
     * [Note on importing trees](#note-on-importing-trees)
 * [Other files and directories](#other-files-and-directories)
+* [Visualising trees](#visualising-trees)
 * [To Do](#to-do)
 * [See also](#see-also)
 
@@ -93,6 +94,11 @@ You can now take advantage of a previous long, slow search and play with `pcrpru
 
 * The [`help`](help) directory contains help texts extracted from the TNT binary. The online documentation is difficult to get into, so these individual command descriptions are sometimes more useful (though still very terse).
 * The [`Makefile`](Makefile) controls compilation. You can run `make equalweights` or `make impliedweights`. Each rule moves the old log, tree and consensus-tree files for the relevant analysis into the `previous` directory (creating it if necessary) before the run, making it easy to compare the results of the current and previous run.
+
+
+## Visualising trees
+
+To generate illustrations using generated trees, I used [the Interactive Tree of Life](https://itol.embl.de/itol.cgi), imported the generated `equalweights-strict.tre` file, then exported the result from that page as SVG which I edited with [Inkscape](https://inkscape.org/).
 
 
 ## To Do
