@@ -513,7 +513,7 @@ XXX To follow
 
 Measurements: 46 cm along the longer side, 35cm along the shorter side, 30cm wide and 12cm thick at the larger end (the 12cm being at the narrow midpoint), 24x16cm at narrow end (the 24cm being exaggerated by the diagonal breakage. I estimate 22cm orthogonally.) There is no sign of a marrow cavity.
 
-This fragment is all that remains of a long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped: compare with Janensch (1961: Beilage A: figure 1e).
+This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped (compare with Janensch 1961: Beilage A: figure 1e), and shape of the proximal cross section corroborates this as a digital model of the MB.R.2181 right humerus kindly supplied by Heinrich Mallison shows that the anterior margin is more rounded than the posteror.
 
 XXX To follow
 
@@ -661,7 +661,7 @@ XXX Just in the form of notes at this stage.
 * John Hutchinson and Victoria Watts for CT-scanning Cervical U.
 * Scott Hartman for providing the skeletal reconstrction of _Giraffatitan brancai_ that was used for Figure E, the skeletal inventory.
 * Fiona J. Taylor for help in deciphering Migeod's handwriting and transcribing shipping manifests.
-
+* Heinrich Mallison for providing the 3d model of the _Giraffatitan_ humerus.
 
 
 
