@@ -602,7 +602,7 @@ XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:8
 
 ## Phylogenetic analysis
 
-![Strict consensus tree](figures/export/figure-f-phylogeny.png)
+![Strict consensus tree](figures/phylogeny/figure-f-phylogeny.png)
 
 > **Figure F.** Strict consensus of 2376 most parsimonious trees found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
 
