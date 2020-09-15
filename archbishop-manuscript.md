@@ -602,11 +602,28 @@ XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:8
 
 ## Phylogenetic analysis
 
+![Strict consensus tree](figures/export/figure-f-phylogeny.png)
+
+> **Figure F.** Strict consensus of 2376 most parsimonious trees found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
+
 XXX To follow
 
-In consultation with Phil Mannion, I rescored the followin charcters in the matrix:
+In consultation with Phil Mannion, I rescored the following characters in the matrix:
 
 * C118. Postaxial cervical centra, anterior half of ventral surfaces are: flat or mildly convex mediolaterally (0); concave mediolaterally (1) (Upchurch, 1998; Mannion et al., 2013). Rescored from 0 to 1 for _Giraffatitan_ (Taxon 32).
+
+The Archbishop has neither of the two synapomorphies of Titanosauriformes, in fact it is scored with the basal state for one of these two characters (C148). Within Titanosauriformes, no characters of the Archbishop are synapomorphies of Brachiosauridae. Although is is recovered within Somphospondyli in all most parsimonious trees, it is scored with the basal state for two of the Somphospondylian synapomorphies (C145 and C163). However, the Archbishop's position within the "advanced somphospondylian" clade (Marked AS in Figure F) is supported by four synapomorphies (C15, C168, C169 and C228).
+
+Within the "advanced somphospondylian" clade, the Archbishop is characterised by eight autapomorphies:
+* C22: 1 &rarr; 0 (cotyles of cervical centra taller than wide)
+* C43: 0 &rarr; 1 (humerual shaft eccentricity less than 1.5)
+* C145: 1 &rarr; 0 (margins of pneumatic foramina in dorsal centra flush with the lateral surface)
+* C148: 1 &rarr; 0 (PCPL absent from mid-to-posterior dorsal arches)
+* C163: 0 &rarr; 1 (aliform processes extend further laterally than postzygs in neural spines of mid-to-posterior dorsals)
+* C331: 0 &rarr; 1 (dorsal surface of proximal portion of Cervical rib shaft unexcavated)
+* C339: 1 &rarr; 0 (parapophysis posterior to anterior margin of centrum, excluding condyle, in mid-to-posterior dorsal neural arches)
+* C457: 0 &rarr; 1 (anteroposteriorly elongate fossa on posteroventral corner of lateral surface in postaxial cervical centra)
+
 
 
 
