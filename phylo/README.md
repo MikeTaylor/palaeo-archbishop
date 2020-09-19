@@ -97,7 +97,7 @@ In order to test the the robustness of the Archbishop's somphospondylian (non-br
 
 First attempt: `force = ((Archbishop Brachiosaurus) Saltasaurus);;` (I don't know why two semi-colons seem to be required.) This "works", but by constraining that exact topology, i.e. no other taxa can come between any of these three. What I need is something more like what PAUP* calls a backbone constraint: the kind of thing you would do with `constraints diplodocoid (backbone) = (2,((32,14),27)); hsearch constraints=diplodocoid enforce=yes`.
 
-Second attempt: `force + [Saltasaurus (Brachiosaurus Archbishop)];`.
+Second attempt: `force + [Saltasaurus (Brachiosaurus Archbishop)];`. This doesn't seem to do anything at all, and the Archbishop comes out in its usual Somphospondylian position.
 
 (Some useful if cryptic hints can be found [here](https://groups.google.com/g/tnt-tree-analysis-using-new-technology/c/Kn9LfiZBzoM?pli=1).)
 
