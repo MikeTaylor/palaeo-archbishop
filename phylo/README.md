@@ -6,6 +6,7 @@
 * [Analyses](#analyses)
 * [Running the analyses](#running-the-analyses)
     * [Note on importing trees](#note-on-importing-trees)
+* [Constraining trees](#constraining-trees)
 * [Other files and directories](#other-files-and-directories)
 * [Visualising trees](#visualising-trees)
 * [To Do](#to-do)
@@ -88,6 +89,15 @@ To read a set of trees back into TNT, first determine how many trees the file co
 	tnt*>
 
 You can now take advantage of a previous long, slow search and play with `pcrprune`, `taxname -`, `nelsen`, etc.
+
+
+## Constraining trees
+
+In order to test the the robustness of the Archbishop's somphospondylian (non-brachiosaurid) position, recovered in all most parsimonious trees, I want to constrain it to be brachiosaurid (i.e. more close related to _Brachiosaurus_ than to _Saltasaurus_) and see how many more steps are required. In TNT, you do this using the `force` command to establish what constraints to use, and `constrain =` to tell the program not to ignore the constraints you have defined.
+
+First attempt: `force = ((Archbishop Brachiosaurus) Saltasaurus);;` (I don't know why two semi-colons seem to be required.) This "works", but by constraining that exact topology, i.e. no other taxa can come between any of these three. What I need is something more like what PAUP* calls a backbone constraint: the kind of thing you would do with `constraints diplodocoid (backbone) = (2,((32,14),27)); hsearch constraints=diplodocoid enforce=yes`.
+
+Second attempt: `force + [Saltasaurus (Brachiosaurus Archbishop)];`.
 
 
 ## Other files and directories
