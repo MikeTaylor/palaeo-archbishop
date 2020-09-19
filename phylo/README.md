@@ -99,6 +99,10 @@ First attempt: `force = ((Archbishop Brachiosaurus) Saltasaurus);;` (I don't kno
 
 Second attempt: `force + [Saltasaurus (Brachiosaurus Archbishop)];`. This doesn't seem to do anything at all, and the Archbishop comes out in its usual Somphospondylian position.
 
+Third and fourth attempts: `force + [Saltasaurus (Brachiosaurus Archbishop)];` and `force = [Saltasaurus (Brachiosaurus Archbishop)];` -- both rejected with "No command!".
+
+Fifth attempt: `force / (Shunosaurus (Saltasaurus (Brachiosaurus Archbishop)));;`. This also seems to have no effect.
+
 (Some useful if cryptic hints can be found [here](https://groups.google.com/g/tnt-tree-analysis-using-new-technology/c/Kn9LfiZBzoM?pli=1).)
 
 
