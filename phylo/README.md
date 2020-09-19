@@ -99,6 +99,8 @@ First attempt: `force = ((Archbishop Brachiosaurus) Saltasaurus);;` (I don't kno
 
 Second attempt: `force + [Saltasaurus (Brachiosaurus Archbishop)];`.
 
+(Some useful if cryptic hints can be found [here](https://groups.google.com/g/tnt-tree-analysis-using-new-technology/c/Kn9LfiZBzoM?pli=1).)
+
 
 ## Other files and directories
 
