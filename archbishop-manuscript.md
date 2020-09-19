@@ -47,6 +47,7 @@ UK.
     * [Unprepared jackets](#unprepared-jackets)
 * [Comparisons](#comparisons)
 * [Phylogenetic analysis](#phylogenetic-analysis)
+    * [Character states](#character-states)
 * [Systematic Palaeontology](#systematic-palaeontology)
 * [Discussion](#discussion)
 * [Acknowledgements](#acknowledgements)
@@ -604,13 +605,21 @@ XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:8
 
 ![Strict consensus tree](figures/phylogeny/figure-f-phylogeny.png)
 
-> **Figure F.** Strict consensus of 2376 most parsimonious trees found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
+> **Figure F.** Strict consensus of 2376 most parsimonious trees of length 2661 found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
 
 XXX To follow
 
 In consultation with Phil Mannion, I rescored the following characters in the matrix:
 
 * C118. Postaxial cervical centra, anterior half of ventral surfaces are: flat or mildly convex mediolaterally (0); concave mediolaterally (1) (Upchurch, 1998; Mannion et al., 2013). Rescored from 0 to 1 for _Giraffatitan_ (Taxon 32).
+
+XXX describe protocol
+
+The equal-weights analysis recovered 2376 most parsimonious trees of length 2661. In all of these trees, the Archbishop is resolved as a basal member of an "advanced somphospondylian" clade (marked AS in Figure F) which is more closely related to titanosaurs than to brachiosaurids or the "primitive somphospondylian" clade containing Euhelopus and seven other OTUs. When the Archbishop is constrained to be a brachiosaurid (i.e. more closely related to _Brachiosaurus_ than to _Saltasaurus_), two additional steps are required, yielding most parsimonious trees of length 2663. When it is constrained to be the sister taxon to _Giraffatitan_, two further steps are required (i.e. four more than in the unconstrained search), in most parsimonious trees of length 2665.
+
+
+
+### Character states
 
 The Archbishop has neither of the two synapomorphies of Titanosauriformes, in fact it is scored with the basal state for one of these two characters (C148). Within Titanosauriformes, no characters of the Archbishop are synapomorphies of Brachiosauridae. Although is is recovered within Somphospondyli in all most parsimonious trees, it is scored with the basal state for two of the Somphospondylian synapomorphies (C145 and C163). However, the Archbishop's position within the "advanced somphospondylian" clade (Marked AS in Figure F) is supported by four synapomorphies (C15, C168, C169 and C228).
 
