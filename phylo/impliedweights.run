@@ -20,5 +20,13 @@ pcrprune;
 nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
 tplot;
 
+naked-;
+tplot;
+
+log impliedweights-apomorphies.log
+tplot;
+apo -;
+apo;
+
 log/;
 quit;
