@@ -11,20 +11,20 @@ hold 200000;
 force / (Shunosaurus (Saltasaurus (Brachiosaurus Archbishop)));;
 constrain =;
 
-xmult=consense 1 noratchet verbose;
+xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
-export = equalweights.tre;
-export - equalweights.export;
+export = equalweights-constrained.tre;
+export - equalweights-constrained.export;
 
 pcrprune;
 
-nelsen*; tchoose {strict}; export = equalweights-strict.tre;
+nelsen*; tchoose {strict}; export = equalweights-constrained-strict.tre;
 tplot;
 
 naked-;
 tplot;
 
-log equalweights-apomorphies.log
+log equalweights-constrained-apomorphies.log
 tplot;
 apo -;
 apo;

@@ -1,5 +1,5 @@
 echo =;
-log ecg.log
+log ecg.log;
 mxram 2048;
 proc archbishop.tnt;
 taxcode -12 14 17 28 29 40 42 44;
@@ -12,20 +12,20 @@ force = (Giraffatitan Archbishop);
 force;
 constrain =;
 
-xmult=consense 1 noratchet verbose;
+xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
-export = equalweights.tre;
-export - equalweights.export;
+export = ecg.tre;
+export - ecg.export;
 
 pcrprune;
 
-nelsen*; tchoose {strict}; export = equalweights-strict.tre;
+nelsen*; tchoose {strict}; export = ecg-strict.tre;
 tplot;
 
 naked-;
 tplot;
 
-log equalweights-apomorphies.log
+log ecg-apomorphies.log
 tplot;
 apo -;
 apo;
