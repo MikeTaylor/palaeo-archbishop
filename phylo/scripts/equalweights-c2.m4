@@ -1,4 +1,4 @@
-define(`NAME', `ecg')dnl
+define(`NAME', `equalweights-c2')dnl
 define(`MAYBE_PIWE', `dnl')dnl
 define(`MAYBE_XPIWE', `dnl')dnl
 define(`CONSTRAINTS', `force = (Giraffatitan Archbishop);

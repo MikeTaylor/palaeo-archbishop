@@ -1,4 +1,4 @@
-NAMES = equalweights impliedweights equalweights-constrained ecg 
+NAMES = equalweights impliedweights equalweights-c1 equalweights-c2
 SCRIPTS = $(NAMES:%=%.run)
 
 all: $(SCRIPTS)
@@ -7,12 +7,6 @@ all: $(SCRIPTS)
 	rm -f $@
 	m4 $< > $@
 	chmod ugo-w $@
-
-test: all
-	diff ../equalweights.run equalweights.run
-	diff ../impliedweights.run impliedweights.run
-	diff ../equalweights-constrained.run equalweights-constrained.run
-	diff ../ecg.run ecg.run
 
 clean:
 	rm -f $(SCRIPTS)
