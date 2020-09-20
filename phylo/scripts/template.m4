@@ -1,29 +1,30 @@
 echo =;
-log impliedweights.log;
+log NAME.log;
 mxram 2048;
-piwe=;
+MAYBE_PIWE
 proc archbishop.tnt;
-xpiwe=;
+MAYBE_XPIWE
 taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
 hold 200000;
 
+CONSTRAINTS
 xmult=consense 2 noratchet verbose;
 bbreak=tbr xbit safe;
-export = impliedweights.tre;
-export - impliedweights.export;
+export = NAME.tre;
+export - NAME.export;
 
 pcrprune;
 
-nelsen*; tchoose {strict}; export = impliedweights-strict.tre;
+nelsen*; tchoose {strict}; export = NAME-strict.tre;
 tplot;
 
 naked-;
 tplot;
 
-log impliedweights-apomorphies.log
+log NAME-apomorphies.log
 tplot;
 apo -;
 apo;
