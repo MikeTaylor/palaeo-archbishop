@@ -1,5 +1,5 @@
 echo =;
-log NAME.log;
+log results/NAME.log;
 mxram 2048;
 MAYBE_PIWE
 proc archbishop.tnt;
@@ -13,18 +13,18 @@ hold 200000;
 CONSTRAINTS
 xmult=consense 1 noratchet verbose;
 bbreak=tbr xbit safe;
-export = NAME.tre;
-export - NAME.export;
+export = results/NAME.tre;
+export - results/NAME.export;
 
 pcrprune;
 
-nelsen*; tchoose {strict}; export = NAME-strict.tre;
+nelsen*; tchoose {strict}; export = results/NAME-strict.tre;
 tplot;
 
 naked-;
 tplot;
 
-log NAME-apomorphies.log
+log results/NAME-apomorphies.log
 tplot;
 apo -;
 apo;
