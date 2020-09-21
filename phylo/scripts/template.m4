@@ -11,7 +11,7 @@ taxname =;
 hold 200000;
 
 CONSTRAINTS
-xmult=consense 2 noratchet verbose;
+xmult=consense 1 noratchet verbose;
 bbreak=tbr xbit safe;
 export = NAME.tre;
 export - NAME.export;
