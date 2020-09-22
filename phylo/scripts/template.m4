@@ -8,7 +8,7 @@ taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
-hold 1000;
+hold 2000;
 
 CONSTRAINTS
 xmult=consense 1 noratchet verbose;
