@@ -8,10 +8,11 @@ taxcode -12 14 17 28 29 40 42 44;
 taxcode +;
 taxcode -;
 taxname =;
-hold 200000;
+hold 1000;
 
 CONSTRAINTS
 xmult=consense 1 noratchet verbose;
+hold 200000;
 bbreak=tbr xbit safe;
 export = results/NAME.tre;
 export - results/NAME.export;
