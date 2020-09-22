@@ -1,4 +1,4 @@
-NAMES = equalweights impliedweights equalweightsA equalweightsB
+NAMES = equalweights equalweightsA equalweightsB impliedweights
 SCRIPTS = $(NAMES:%=%.run)
 LOGS = $(NAMES:%=results/%.log)
 
