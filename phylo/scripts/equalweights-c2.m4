@@ -5,4 +5,4 @@ define(`CONSTRAINTS', `force = (Giraffatitan Archbishop);
 force;
 constrain =;
 ')dnl
-include(template.m4)dnl
+include(scripts/template.m4)dnl
