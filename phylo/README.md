@@ -54,7 +54,7 @@ The result of this work is the two [`equalweights.run`](equalweights.run) and [`
 
 ## Running the analyses
 
-The two TNT analyses can be run in TNT using the shell commands `./tnt/tnt.command equalweights.run,` and `./tnt/tnt.command impliedweights.run,`. (Do _not_ omit the trailing comma. Seriously: TNT needs it.) Both of these scripts pulls in the TNT data file `archbishop.tnt` (see above).
+The two TNT analyses can be run in TNT using the shell commands `./tnt/tnt.command equalweights.run,` and `./tnt/tnt.command impliedweights.run,`. (Do _not_ omit the trailing comma. Seriously: TNT needs it. Also: TNT is not able to run a command-file if the filename contains a hyphen, an underscore, or even a digit. Seriously.) Both of these scripts pulls in the TNT data file `archbishop.tnt` (see above).
 
 XXX At the time of writing, the scripts uses `consense 3` rather than `consense 5`, because it is much faster (half an hour rather than many hours). This lets me experiment more quickly, but they will need to be changed back before I run the analyses for real.
 
