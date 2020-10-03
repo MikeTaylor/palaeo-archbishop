@@ -18,7 +18,10 @@ The other drawing is as far as I know unpublished, and I have copies only thanks
 * [`Migeod M23 site map.jpg`](Migeod%20M23%20site%20map.jpg) -- very good quality scan of most of map, but with some parts missing.
 * [`M23 Overview 1.jpg`](M23%20Overview%201.jpg) -- a complete but much lower-quality scan.
 
-I will combine these two by using the low-quality scan as a guide to redraw the missing parts into the high-quality scan.
+I have combined these two:
+
+* `Migeod M23 site map--raw.xcf` (not version-controlled) -- the various parts of the high-quality map separated, moved into the right relation as guided by the low-quality scan, and with the by using the missing parts drawn into a high-quality scan layer using the low-quality scan as a guide. No merging or colour correction, retained in case I want to read pencil annotations.
+* `Migeod M23 site map.xcf` -- the one that will yield the production-quality version.
 
 
 ## Comparison
