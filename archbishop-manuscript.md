@@ -45,6 +45,7 @@ UK.
     * [Humerus fragment L](#humerus-fragment-l)
     * [Pubis M](#pubis-m)
     * [Unprepared jackets](#unprepared-jackets)
+* [Size and proportions](#size-and-proportions)
 * [Comparisons](#comparisons)
 * [Phylogenetic analysis](#phylogenetic-analysis)
     * [Character states](#character-states)
@@ -130,9 +131,9 @@ What few references there have been to NHMUK PV R5937 in the literature have oft
 
 ## Contemporary accounts
 
-XXX Migeod papers: material found, quarry map, interpretations
+As an explorer and linguist, Migeod's palaeontological skills were not his strongest point, and he was not well respected as a scientist by his peers. Charig's (1990) memoir of his Tendaguru assistant Francis "Rex' Parrington tells us "Parrington [...] soon discovered that Migeod's pretensions concealed a profound ignorance of many subjects, and thereafter he delighted in setting deliberate verbal traps for Migeod, into which Migeod invariably fell" (p363). Charig further says that "the expedition  (no fault of Parrington's) was ill-conceived and ill-prepared" (p364). Parrington later described Migeod as "a charlatan" (Arthur Cruickshanks, pers. comm., 2005). After visting the BMNH's then sparse Tendaguru collection, Friedrich von Huene wrote in a 1927 letter to Wener Janensch, wrote "Spoke with Migeod who last excavated at Tendaguru [...] Migeod does not have the slightest notion of palaeontology" (Maier 2003:199). Even the BMNH's own director Sidney Harmer wrote to the museum trustees "Mr. Migeod has done his work admirably, but it appears that he has not the special knowledge of Palaeontology which is required to make the work a complete success [...] he appears to be willing to admit that he is not a Palaeontologist" (Maier 2003:199).
 
-Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, for example; and on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches. Nevertheless, his account gives a good idea of the material that existed and was excavated, and allows us to draw conclusions about what must have been lost or destroyed between then and now.
+And indeed Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, and these are sometimes inconsistent: for example, on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches. Nevertheless, his account gives a good idea of the material that existed and was excavated, and allows us to draw conclusions about what must have been lost or destroyed between then and now.
 
 ![Site map with prepared material highlighted](figures/export/site-map.jpeg)
 
@@ -142,9 +143,7 @@ Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931a:88
 
 Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
 
-"The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
-
-Migeod's numbering of the vertebrae of this specimen was unusual. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
+Migeod's numbering of the vertebrae of this specimen was idiosyncratic. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
 
 When referring to cervical vertebra numbers as assigned by Migeod, I use the form mC<i>n</i> to mean "the vertebra designated C<i>n</i> by Migeod"; and when referring to dorsal vertebra numbers as assigned by Migeod, I use the form mD<i>n</i> to mean "the vertebra designated D<i>n</i> by Migeod".
 
@@ -152,6 +151,7 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
+XXX Migeod papers: material found, quarry map, interpretations
 
 XXX Parrington papers
 
@@ -160,7 +160,6 @@ XXX Migeod speaks of the dorsal vertebrae having "wings". FMNH P25107's presacra
 XXX Lots of good stuff at
 https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
 
-XXX Comments about Migeod (Huene etc.)
 
 
 
@@ -590,6 +589,16 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 
 
+## Size and proportions
+
+
+Migeod's assessment of the size of the animal was based on the vertebrae: "The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
+
+XXX compare with Giraffatitan.
+
+
+
+
 ## Comparisons
 
 XXX Compare to _Australodocus_ as well as _Giraffatitan_. Compare cervical U CT-scan cross section with that of _Australodocus_ in Mannion et al. (2019:figure 40).
@@ -677,6 +686,7 @@ XXX Just in the form of notes at this stage.
 ## References
 
 * Bonaparte, José F., Wolf-Dieter Heinrich, and Rupert Wild. 2000. Review of _Janenschia_ Wild, with the description of a new sauropod from the Tendaguru beds of Tanzania and a discussion on the systematic value of procoelous caudal vertebrae in the Sauropoda. _Palaeontographica A_ **256**:25-76.
+* Charig, Alan J. 1990. Francis Rex Parrington, 20 February 1905-17 April 1981. _Biographical Memoirs of Members of the Royal Society_ **36**:359-378. doi:10.1098/rsbm.1990.0036
 * Fraas, Eberhard. 1908. Ostafrikanische Dinosaurier. _Palaeontographica_ **55**:105-144.
 * Galton, Peter M. 1977. The ornithopod dinosaur _Dryosaurus_ and a Laurasia-Gondwanaland connection in the Upper Jurassic. _Nature_ **268**:230-232.
 * Glut, Donald F. 1997. _Dinosaurs: the Encyclopedia_. McFarland & Company, Inc., Jefferson, North Carolina. 1076 pages.
