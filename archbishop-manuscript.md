@@ -116,7 +116,7 @@ The name "_Gigantosaurus_" has the most complex history of all. Fraas chose this
 
 German operations in East Africa were interrupted by the Great War (1914-1918), during which the territory of German East Africa changed hands and became the British protectorate of Tanganyika. Aware of the impressive results of the German expeditions, the British Museum (Natural History) began in 1920 to plan expeditions of their own, hoping to obtain display-quality specimens comparable to those that were starting to emerge from Berlin. After a series of delays, the expeditions finally commenced in 1924, under the leadership of William Cutler assisted by Louis Leakey. Cutler died in the field in 1925, having obtained only fragmentary material, and was replaced by Frederick W. H. Migeod in late 1925 and through 1926. Migeod had extensive experience in Africa, first in the colonian civil service in Nigeria and Ghana, and then as an explorer, crossing the continent twice on foot. His main interest was in African languages, and he published several books and academic articles on western African languages.
 
-However, Migeod was not a palaeontologist, his work at Tendguru was impeded by his lack relevant experience and expertise. For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929. Consequently Migeod returned, to be joined in 1930 by a new assistant, Francis R. "Rex" Parrington, assistant superintendant of the Cambridge University Museum of Zoology. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
+However, Migeod was not a palaeontologist, and his work at Tendguru was impeded by his lack relevant experience and expertise (see below). For this reason he was himself replaced by John Parkinson for the 1927 and 1928 field seasons. For reasons that are unclear, Parkinson's contract was not renewed in 1929. Consequently Migeod returned, to be joined in 1930 by a new assistant, Francis R. "Rex" Parrington, assistant superintendant of the Cambridge University Museum of Zoology. By this stage, the BMNH had been excavating in Tendaguru for six years with little to show for it: there were plenty of isolated bones, but no skeleton complete enough to compare with the spectacular German material.
 
 The 1930 field season, however, was more suggessful. Migeod and his team excavated quarry M 23, and so yielded the specimen that the BMNH had been awaiting. Although Migeod was 58 by this time, he supervised the excavation of a large, fairly complete and partially articulated sauropod skeleton, since catalogued as BMNH R5937, now NHMUK PV R5937. Although this material seemed to meet the BMNH's requirement for a display-quality specimen, it remained largely unprepared and was described only in an informal account of the 1930 field season (Migeod 1931a), a paper written without having seen any of the material prepared, and which is figured only with field photographs and a quarry map. Several subsequent popular accounts (Migeod 1931b, Migeod 1931c, Parrington 1931) added little information.
 
@@ -133,15 +133,13 @@ What few references there have been to NHMUK PV R5937 in the literature have oft
 
 As an explorer and linguist, Migeod's palaeontological skills were not his strongest point, and he was not well respected as a scientist by his peers. Charig's (1990) memoir of his Tendaguru assistant Francis "Rex' Parrington tells us "Parrington [...] soon discovered that Migeod's pretensions concealed a profound ignorance of many subjects, and thereafter he delighted in setting deliberate verbal traps for Migeod, into which Migeod invariably fell" (p363). Charig further says that "the expedition  (no fault of Parrington's) was ill-conceived and ill-prepared" (p364). Parrington later described Migeod as "a charlatan" (Arthur Cruickshanks, pers. comm., 2005). After visting the BMNH's then sparse Tendaguru collection, Friedrich von Huene wrote in a 1927 letter to Wener Janensch, wrote "Spoke with Migeod who last excavated at Tendaguru [...] Migeod does not have the slightest notion of palaeontology" (Maier 2003:199). Even the BMNH's own director Sidney Harmer wrote to the museum trustees "Mr. Migeod has done his work admirably, but it appears that he has not the special knowledge of Palaeontology which is required to make the work a complete success [...] he appears to be willing to admit that he is not a Palaeontologist" (Maier 2003:199).
 
-And indeed Migeod's (1931a) reporting is in places haphazard: only a random smattering of measurements are given, and these are sometimes inconsistent: for example, on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches. Nevertheless, his account gives a good idea of the material that existed and was excavated, and allows us to draw conclusions about what must have been lost or destroyed between then and now.
+Migeod's only significant publication about the Tendaguru sauropod is his brief description in the BMNH's _Natural History_ magazine (Migeod 1931a), and indeed his reporting is in places haphazard: only a random smattering of measurements are given, and these are sometimes inconsistent: for example, on page 92 he gives the length of the "shoulder vertebra" (see below) as 24 inches, then four sentences later as 23 inches. Nevertheless, his account gives a good idea of the material that existed and was excavated, and allows us to draw conclusions about what must have been lost or destroyed between then and now.
 
 ![Site map with prepared material highlighted](figures/export/site-map.jpeg)
 
 > **Figure D.** A map of the site, quarry M 23, where NHMUK PV R5937 was found. Modified from Migeod (1931a:figure 1). The bones that have been prepared and are available for study are highlighted in pink. The humeri, though mentioned in Migeod's account as being "at the extreme end" of the scapula, are not included in his site map. They are added here in pale grey, scaled from that of _Giraffatitan brancai_ MB.R.2181 (formerly HMN SII), as illustrated by Janensch (1961:beilage A:part 1a).
 
-Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931a:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931a:88), and corroding impregnation of iron had done considerable damage.
-
-Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
+Tree roots had damaged the skeleton mostly in the sacral region (Migeod 1931a:88). A damp layer ran through the skeleton so that "while the highest and the lowest bones were hard, the intermediate section was powdery" (Migeod 1931a:88), and corroding impregnation of iron had done considerable damage. It is noticeable in the prepared material that different bones are preserved very differently.
 
 Migeod's numbering of the vertebrae of this specimen was idiosyncratic. Rather than number the cervicals starting at C1 for the atlas and increasing backwards, he designated a single "shoulder vertebra", and counted both cervical vertebra forward from this zero-point, and dorsal vertebrae backwards. The sequence of vertebrae from posterior neck backwards, then, using Migeod's numbering, was ... C3, C2, C1, 0, D1, D2, D3.
 
@@ -151,11 +149,11 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
-XXX Migeod papers: material found, quarry map, interpretations
+Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article.
+
+
 
 XXX Parrington papers
-
-XXX Migeod speaks of the dorsal vertebrae having "wings". FMNH P25107's presacral P7 shows an "apron" similar to that of SII.D?7 -- a wide, contiguous set of horizontal laminae joining prezygs to diapophyses and postzygs.  This morphology is unusual, and may be what Migeod refers to as "wings".
 
 XXX Lots of good stuff at
 https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
@@ -164,6 +162,8 @@ https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%2
 
 
 ### Material assigned to the specimen
+
+Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
 
 Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions.
 
@@ -417,6 +417,8 @@ XXX To follow
 ### Dorsal vertebrae
 
 XXX To follow
+
+XXX Migeod speaks of the dorsal vertebrae having "wings". FMNH P25107's presacral P7 shows an "apron" similar to that of SII.D?7 -- a wide, contiguous set of horizontal laminae joining prezygs to diapophyses and postzygs.  This morphology is unusual, and may be what Migeod refers to as "wings".
 
 
 #### Dorsal vertebral neural spine C
