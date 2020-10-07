@@ -181,7 +181,7 @@ mD1 (D2)                   | 14"                   |                          | 
 mD2 (D3)                   | 11"                   |                          |           |
 mD3 (D4)                   | 10.5" long, 39" tall  | Jackets G, H             |           | _Discovery_ says `9-11"`
 mD4 (D5)                   |                       | Dorsal Q and spine C?    | Yes       |
-mD5 (D6)                   | 11" long, 39" tall    | Dorsal R?; Jacket S      | Yes       |
+mD5 (D6)                   | 11" long, 38" tall    | Dorsal R?; Jacket S      | Yes       |
 mD6 (D7)                   |                       | Jacket Q                 |           |
 mD7 (D8)                   |                       | Dorsal A?                | Yes       |
 mD8 (D9)                   |                       | Dorsal B?                | Yes       |
