@@ -509,6 +509,8 @@ Measurements: 46 cm along the longer side, 35cm along the shorter side, 30cm wid
 
 This fragment is all that remains of the long bones, and is not particularly informative. Its likely identification as a part of the distal end of the right humerus is based on the presence of the anconial fossa at the broader end, interpreted as distal. This also gives us the orientation of the bone, with face showing this fossa being posterior. The irregular shape of the distal cross section suggests that this is a right humerus because in _Giraffatitan_ the medial aspect is more rounded and the lateral more irregularly shaped (compare with Janensch 1961: Beilage A: figure 1e), and shape of the proximal cross section corroborates this as a digital model of the MB.R.2181 right humerus kindly supplied by Heinrich Mallison shows that the anterior margin is more rounded than the posteror.
 
+XXX "The humerus might have been expected to be larger, and I have grave doubts whether the two found, though not far from their right position, may not be intrusions" (Migeod 1931b:13).
+
 XXX To follow
 
 
