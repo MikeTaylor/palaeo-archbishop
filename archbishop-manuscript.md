@@ -194,7 +194,7 @@ Caudals 1-9                |                       |                          | 
 Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket O     | Yes       | Partial
 Left humerus               | 57.5" long, 20" wide  |                          |           |
 Right humerus              | 57.5" long, 20" wide  | Humerus L                | Yes       | Fragment
-Radius                     |                       |                          |           | XXX Where is this documented?
+Radius                     |                       |                          |           | Head only
 Right ilium                | 38.5" long, 31" tall  | Jacket F                 |           |
 Ichium (broken)            |                       |                          |           |
 Pubis (ends only)          |                       | Pubis M                  | Yes       |
@@ -205,7 +205,7 @@ Unidentified bone          | 26.5x25"              |                          | 
 
 Not all serial positions can be definitely established, but most can be inferred with some confidence.
 
-Regarding the cervicals, Migeod (1931a:91) noted that "C4, 5 and 6 were separated by short intervals, but 7, 8 and 9 were adering to one another. All of these were in vert good condition, and were plastered separately without cutting to reduce size", but that other cervical vertebra had to be cut into pieces. The still-unprepared Jacket M contains mC9  (i.e. C5), so the five intact cervicals that have been prepared (cervicals V, S, U, T and P), none of which show signs of having been assembled from multiple jackets, must be the other five complete cervicals: mC4-mC8, i.e. C10-C6. In this middle section of the neck, cervicals length increase posteriorly in all sauropods, so based on the measured centrum lengths of cervicals V, S, U, T and P (XXX short, 72, 80, 85 and 90 cm respectively), they were most likely in this serial order.
+Regarding the cervicals, Migeod (1931a:91) noted that "C4, 5 and 6 were separated by short intervals, but 7, 8 and 9 were adering to one another. All of these were in vert good condition, and were plastered separately without cutting to reduce size", but that other cervical vertebra had to be cut into pieces. The still-unprepared Jacket M contains mC9  (i.e. C5), so the five intact cervicals that have been prepared (cervicals V, S, U, T and P), none of which show signs of having been assembled from multiple jackets, must be the other five complete cervicals: mC4-mC8, i.e. C10-C6. In this middle section of the neck, cervicals length increase posteriorly in all sauropods, so based on the measured centrum lengths of cervicals V, S, U, T and P (58, 72, 80, 85 and 90 cm respectively), they were most likely in this serial order.
 
 This assignment raises a difficulty: Migeod's stated measurements of mC4 (C10) are 39 inches in length and 23 inches in height. Cervical P's centrum measures only 90 cm (35 inches). However, the total lenth of the vertebra, including the overhanging prezygapophyses, is 99 cm (39 inches), and its total height (from the tip of the neural spine down to a line joining the ventral margins at the anterior and posterior ends of the vertebra) is 56.5 cm (22.2 inches), both of which are good matches for Migeod's measurements. Unfortunately, Migeod nowhere stated what he meant by the "length" of a vertebra, but it seems likely, based on the measurements of Cervical P, that he did include the prezygapophyses.
 
