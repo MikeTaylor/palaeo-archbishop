@@ -149,11 +149,7 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
-Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article. Parrington's (1931) single-page article in the _Illustrated London News_ likewise contains no additional information, but does include several useful photographs (XXX reproduce these!)
-
-XXX Check for more useful stuff at
-https://www.britishnewspaperarchive.co.uk/search/results?basicsearch=tendaguru%20dinosaur&exactsearch=false&retrievecountrycounts=false&newspapertitle=illustrated%20london%20news
-
+Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article. Parrington's (1931) single-page article in the _Illustrated London News_ likewise contains no additional descriptive information, but it does include several useful photographs, including one of the right scapula that is reproduced better than the similar photo in Migeod (1931a:figure 2), and two photos that offer tantalising hints of the "wings" of the dorsal vertebrae (see below).
 
 
 
