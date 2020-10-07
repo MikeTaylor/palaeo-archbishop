@@ -198,7 +198,7 @@ Radius                     |                       |                          | 
 Right ilium                | 38.5" long, 31" tall  | Jacket F                 |           |
 Ichium (broken)            |                       |                          |           |
 Pubis (ends only)          |                       | Pubis M                  | Yes       |
-1st femur (damaged)        | 4'                    |                          |           | Field Report #3 says 42"
+1st femur (damaged)        | 48" approx            |                          |           | Field Report #3 says 42"
 2nd femur (partial)        |                       |                          |           |
 Calcaneum                  |                       |                          |           | Migeod (1931a:95)
 Unidentified bone          | 26.5x25"              |                          |           |
