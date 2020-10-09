@@ -545,7 +545,7 @@ XXX To follow
   * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
   * **E.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
   * **F.** "M 23 / Ilium part 2 / 6/30"
-  * **G.** "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
+  * **G.** (behind H) "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
   * **H.** "M 23 / Dorsal Vert No. 3 / Neural spine / upper / (i.e. left side) / 23.7.30"
 * Shelf 3
   * **I.** Three labels:
