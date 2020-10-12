@@ -1,4 +1,4 @@
-Dorsal spine C:
+Dorsal spine C
     DSCN8047.JPG
 	14 cm transversely from midline to lateral extent of neurapophysis
 	total length 83 cm
@@ -52,7 +52,7 @@ Dorsal B
 	------------------------
 Cervical rib X1
     DSCN8054.JPG
-	Total preserved length 3cm
+	Total preserved length 32cm
 	Dorsoventral width across preserved diapophyis 18 cm
 	Transverse width acosss preserved parapophysis 8.5 cm
 	Width across broken diapophyis 3 cm
@@ -101,3 +101,173 @@ Cervical U
 Dorsal B
     DSCN8066.JPG
 	Dorsal B 84 cm tall
+Dorsal spine C
+    PXL_20201008_193850508.jpg
+	(no measurements)
+    PXL_20201008_193909090.jpg
+	(no measurements)
+Unprepped jackets
+    PXL_20201008_193959222.jpg
+	(no measurements)
+Dorsal spine C
+    PXL_20201008_194106694.jpg
+	Max preserved length 82cm
+	Tip of spine to postzyg 50cm
+	Breadth of cornice 28cmp (incomplete; 34cm est.)
+	Tip of spine to lateral ridge 78cm(!) in C
+	"                             59      in A
+	"                             55      in B
+	In A & B, height of centrum belong shelf is 27 & 29 => average 28cm
+	Assume 28cm for C => total height 78+28 = 106 cm = 42 inches
+	Heights of Migeod's dorsals:
+		D3 -- 39" = 99 cm
+		D5 -- 38"
+		D9 -- 34"
+	Suggests that C is even more anterior than D3
+Dorsals Q and R
+    PXL_20201008_194204176.jpg
+	(no measurements)
+Cervical W ("C3")
+    PXL_20201008_194932058.jpg
+	Migeod says "C3" measures 41" =~ 102.5 cm
+	Was in 3 jackets one opened -- 47 cm long "block E"
+	47 cm long
+	26 cm across
+	one margin very thing -- 1-2 mm
+	Whole jacket no more than 10 cm thick in middle
+	=> element must be axially oriented
+Scapula N
+    PXL_20201008_194932058.jpg
+	1st "scapula" element
+	52 cm long
+	29ish cm wide
+	13cm width preserved of (probable) anteriormost part
+Pubis M
+    PXL_20201008_194948939.jpg
+	(no measurements)
+Dorsal spine C
+    PXL_20201008_195403704.jpg
+	In ventral view, antoposterior length 25 cm
+Cervical S
+    PXL_20201008_195409794.jpg
+	Posterior view:
+	20 cm total cotyle height
+	18 cm height from bottom of cotyle to midline dip
+	18 cm cotyle width
+	total length 72 cm (right), 76 cm (left)
+	length from cotyle to posterior margin of parapophysis 41cm
+	Anterior view:
+	10 cm total condyle height
+	17 cm height from bottom of condyle to midline dip
+	14 cm condyle width (but some breakage)
+Dorsal spine C
+	total height 80cm
+Cervical S
+    PXL_20201008_195453221.jpg
+	(no measurements)
+Cervical T
+    PXL_20201008_195510802.jpg
+	Left lateral view
+	total length 80 cm
+	Length from front to exposed deepest part of cotyle 74 cm
+	Length from front to anteriormost loss of cortex 65 cm
+	Cotyle height 23
+	(Width not measured but can probably be estimated)
+Lump Z
+    PXL_20201008_195525941.jpg
+	51cm height parallel with probably neural spines
+	62cm maximum diameter
+Cervical U
+    PXL_20201008_195541516.jpg
+	80 cm total length
+	76 cm length from front to exposed deepest part of cotyle
+	width across exposed parapophyses 18 cm (left one missing)
+	condyle height 15 cm
+	condyle width 15 cm
+Cervical rib X1 (left)
+    PXL_20201008_195558874.jpg
+	preserved length 32 cm
+	width across broken diapophyis 17cm
+	width across broken parapophysis 9cm
+	width across broken distal rib 5cm
+Cervical rib X2 (right)
+    PXL_20201008_195558874.jpg
+	preserved length 24 cm
+	width across broken diapophyis 8cm
+	width across broken parapophysis 6cm
+Cervical rib X3 (right)
+    PXL_20201008_195613171.jpg
+	preserved length 22 cm
+	width across broken diapophyis 8cm
+	width across broken parapophysis 6cm
+Pubis fragment
+    PXL_20201008_195613171.jpg
+	greatest diameter 49cm
+	greatest width 31 cm
+Cervical V
+    PXL_20201008_195654381.jpg
+	max length 63 (after breakage lengthened it)
+	Est. 6 cm extra => original length 57 cm
+	height 40
+Long bone
+    PXL_20201008_195703737.jpg
+	30 cm distal width
+	21 cm proximal width
+	48 cm length on long side
+	39 cm length on short site
+	17 cm proximal thickness
+	distal thickness 15, 12, 14 cm at different points
+Cervical "3"
+    PXL_20201008_195714253.jpg
+	48 cm long
+	27 cm wide
+	max depth of jacket 18 cm
+Dorsals Q and R	
+    PXL_20201008_195726757.jpg
+	Posterior (dorsal R): 22 cm height (to incomplete top rim), 23 cm wide
+	Anterior (dorsal Q): 26 height, but meaningless
+	Total length of block 64 cm
+	Total height of block 32 cm
+	Height of filler between Q and R: 30 cm
+	Left side lengths: Q 33, R 30
+	Right side lengths: Q 38, R 26
+Dorsals A and B
+    PXL_20201008_195743571.jpg
+	Dorsal B in posterior view:
+		Total height 84 cm
+		Cotyle height 27 (to bottom of dorsal dip)
+		Cotyle width 24
+		Height of postzygs above cotyle rim: 21
+		Height of spine above postzygs: 28
+	Dorsal A in posterior view:
+		Total height 89 cm
+		Condyle height 23
+		Condyle width 22
+		Height of prezyg above condyle 25
+		Height of spine above prezyg 38
+	Right lateral view
+		Total height at A/B junction 86
+		Height of prezyg/postzyg above A cotyle rim 44
+		Length of B without condyle 26
+		Length of A without condyle 25
+		Length of A including condyle 32
+		Length of condyle 7
+	Dorsal A neurapophysis in dorsal view
+		22 cm wide, 14 cm long, but twisted
+Cervical P
+    PXL_20201008_195753930.jpg
+	Cotyle height 23
+	Cotyle width 22
+	Centrum length 90
+	Total height 55cm approx
+	Condyle height 20
+	Condyle 16
+
+Duplicates
+    PXL_20201008_200446468.jpg = DSCN8047.JPG and DSCN8048.JPG
+    PXL_20201008_200515332.jpg = DSCN8049.JPG and DSCN8050.JPG
+    PXL_20201008_200528746.jpg = DSCN8051.JPG and DSCN8052.JPG
+    PXL_20201008_200541620.jpg = DSCN8053.JPG and DSCN8054.JPG
+    PXL_20201008_200554240.jpg = DSCN8055.JPG
+    PXL_20201008_200607125.jpg = DSCN8056.JPG
+    PXL_20201008_200616067.jpg = DSCN8057.JPG
