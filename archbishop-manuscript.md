@@ -84,7 +84,9 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 
 Nomenclature for vertebral laminae follows that of Wilson (1999).
 
-Anatomical direction are used of the scapula as though the blade were oriented horizontally, although its orientation in life was more complex.
+The average elongation index (aEI) of a centrum is defined following Chure et al. (2010:385) as its length divided by the mean of its posterior height and width.
+
+To avoid ambiguity, anatomical directions are used of the scapula as though the blade were oriented horizontally, although its orientation in life was more complex and remains controversial.
 
 See below on Migeod's idiosyncratic numbering of the  vertebrae, and on how his numbering scheme corresponds with conventional numbering.
 
@@ -149,7 +151,7 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
-The most intriguing part of Migeod's description pertains to the taxonomic identity of the specimen. Although he designates the specimen as being "of the _Brachiosaurus_ type" (Migeod 1931a:87), he also writes "The anterior dorsal vertebrae apparently had their neural spines in two parts, which led me at first to the opinion that this dinosaur was a _Dicraeosaurus_.  This view proved on further excavation to be untenable, and indeed the bifurcate spines were similar to neither species of _Dicraeosaurus_ found at Tendaguru by the Germans" (Migeod 1931a:93). Unfortunately, none of the bifid-spine material has survived and been prepared, so it is currently impossible to directly verify this aspect of the morphology. Jackets G and H contain portions of mD3 (D4) (see below), so preparation of these may cast light on Migeod's claims.
+The most intriguing part of Migeod's description pertains to the taxonomic identity of the specimen. Although he designates the specimen as being "of the _Brachiosaurus_ type" (Migeod 1931a:87), he also writes "The anterior dorsal vertebrae apparently had their neural spines in two parts, which led me at first to the opinion that this dinosaur was a _Dicraeosaurus_.  This view proved on further excavation to be untenable, and indeed the bifurcate spines were similar to neither species of _Dicraeosaurus_ found at Tendaguru by the Germans" (Migeod 1931a:93). Unfortunately, none of the bifid-spine material has survived and been prepared, so it is currently impossible to directly verify this aspect of the morphology. Jackets G and H contain portions of mD3 (D4) (see below), so preparation of these may cast light on Migeod's claims. At any rate, the specimen has been universally assumed to belong to _Giraffatitan_ (formerly _Brachiosaurus_) _brancai_, despite the doubt cast by the bifid neural spines in the anterior dorsal vertebrae.
 
 Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article. Parrington's (1931) single-page article in the _Illustrated London News_ likewise contains no additional descriptive information, but it does include several useful photographs, including one of the right scapula that is reproduced better than the similar photo in Migeod (1931a:figure 2), and two photos that offer tantalising hints of the "wings" of the dorsal vertebrae (see below).
 
@@ -161,7 +163,7 @@ Migeod notes that although no skull bones were recovered (nor the four or five m
 
 Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions.
 
-**Table 1**
+**Table 1. Material found by Migeod**
 
 Element                    | Measurements (inches) | Present?                 | Prepared? | Note
 :------------------------- | :-------------------- | :----------------------- | :-------- | :---
@@ -255,7 +257,7 @@ Many of the elements that were prepared long age have either Migeod's quarry num
 
 Since the serial positions of vertebrae are not possible to determine with confidence, the various elements have been assigned letters. The letters were assigned piecemeal some time ago, and are no particular order. They convey no implication of serial position. Available material of the Archbishop is summarised in Table 2.
 
-**Table 2**
+**Table 2. Available material**
 
 Name | Element               | Description
 :--- | :-------------------- | :----------
@@ -283,11 +285,56 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 ### Cervical vertebrae
 
-XXX generally less laminated: see e.g. C406.
+In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_ (Table 3). However, they are significantly less pneumatic. For example, character 406 in the phylogenetic analysis (see below) is "Middle and posterior cervical neural spines, lateral surface between PRDL, PODL, SPOL (i.e. the spinodiapophyseal fossa [SDF]): has 3 or more coels separated from each other by low ridges". This feature is present for _Giraffatitan_ but absent for the Archbishop.
 
-XXX "The neck was deep rather than broad" (Migeod 1931a:90) as seen in condyle shapes.
+**Table 3. Average elongation index**
 
-XXX To follow
+Taxon    | _Giraffatitan_ | _Giraffatitan_  | "The Archbishop"
+:------- | :------------- | :-------------- | :---------------
+aEI      | MB.R.2180 (SI) | MB.R.2181 (SII) | NHMUK PV R5937
+C2       |
+C3       |
+C4       |
+C5       |
+C6       |
+C7       |
+C8       |
+C9       |
+C10      |
+C11      |
+C12      |
+C13      |
+Average  |
+
+> Average elongation index (aEI) of cervical vertebrae of _Giraffatitan_ and the Archbishop.
+> XXX fill all these one once measurements have been consolidated.
+
+As (Migeod 1931a:90) pointed out, "the neck was deep rather than broad". This is seen partly in his measurements of the more or less intact cervical vertebrae he was dealing with: the last cervical was 1.33 times as tall as it was long (44 inches to 33 inches). Unfortunately, the more posterior cervicals are not available, having apparently been lost or destroyed, so these unusual dimensions cannot be verified or further interpreted. However, the tallness of the cervicals (and indeed dorsals) is also reflected in the proportions of the centra: in every Archbishop vertebra for which both height and width of the cotyle can be measured, it is taller than it is wide (Table 4) -- a reversal of the condition in most neosauropods and particularly in _Giraffatitan_ (character 17 state 1 in the phylogenetic analysis).
+
+**Table 4. Cotyle shape**
+
+Taxon        | _Giraffatitan_ | _Giraffatitan_  | "The Archbishop"
+:----------- | :------------- | :-------------- | :---------------
+Height/width | MB.R.2180 (SI) | MB.R.2181 (SII) | NHMUK PV R5937
+C2           |
+C3           |
+C4           |
+C5           |
+C6           |
+C7           |
+C8           |
+C9           |
+C10          |
+C11          |
+C12          |
+C13          |
+Average      |
+
+> Cotyle height/width ratio of cervical vertebrae of _Giraffatitan_ and the Archbishop.
+> XXX fill all these one once measurements have been consolidated.
+
+
+XXX more general observations?
 
 
 #### Cervical V
@@ -687,6 +734,7 @@ XXX Just in the form of notes at this stage.
 
 * Bonaparte, José F., Wolf-Dieter Heinrich, and Rupert Wild. 2000. Review of _Janenschia_ Wild, with the description of a new sauropod from the Tendaguru beds of Tanzania and a discussion on the systematic value of procoelous caudal vertebrae in the Sauropoda. _Palaeontographica A_ **256**:25-76.
 * Charig, Alan J. 1990. Francis Rex Parrington, 20 February 1905-17 April 1981. _Biographical Memoirs of Members of the Royal Society_ **36**:359-378. doi:10.1098/rsbm.1990.0036
+* Chure, Daniel, Brooks B. Britt, John A. Whitlock and Jeffrey A. Wilson. 2010. First complete sauropod dinosaur skull from the Cretaceous of the Americas and the evolution of sauropod dentition. _Naturwissenschaften_ **97(4)**:379-91. doi:10.1007/s00114-010-0650-6
 * Fraas, Eberhard. 1908. Ostafrikanische Dinosaurier. _Palaeontographica_ **55**:105-144.
 * Galton, Peter M. 1977. The ornithopod dinosaur _Dryosaurus_ and a Laurasia-Gondwanaland connection in the Upper Jurassic. _Nature_ **268**:230-232.
 * Glut, Donald F. 1997. _Dinosaurs: the Encyclopedia_. McFarland & Company, Inc., Jefferson, North Carolina. 1076 pages.
