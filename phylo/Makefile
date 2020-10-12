@@ -6,7 +6,7 @@ LOGS = $(NAMES:%=results/%.log)
 
 all: $(LOGS)
 
-results/%.log: %.run
+results/%.log: %.run archbishop.tnt
 	$(eval STEM := $(shell echo $@ | sed 's/^results\/\(.*\)\.log$$/\1/'))
 	rm -f previous/$(STEM).*
 	test -f results/$(STEM).log && mv results/$(STEM).* previous/ || :
