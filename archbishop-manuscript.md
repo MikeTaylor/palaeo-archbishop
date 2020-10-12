@@ -149,6 +149,8 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
+The most intriguing part of Migeod's description pertains to the taxonomic identity of the specimen. Although he designates the specimen as being "of the _Brachiosaurus_ type" (Migeod 1931a:87), he also writes "The anterior dorsal vertebrae apparently had their neural spines in two parts, which led me at first to the opinion that this dinosaur was a _Dicraeosaurus_.  This view proved on further excavation to be untenable, and indeed the bifurcate spines were similar to neither species of _Dicraeosaurus_ found at Tendaguru by the Germans" (Migeod 1931a:93). Unfortunately, none of the bifid-spine material has survived and been prepared, so it is currently impossible to directly verify this aspect of the morphology. Jackets G and H contain portions of mD3 (D4) (see below), so preparation of these may cast light on Migeod's claims.
+
 Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article. Parrington's (1931) single-page article in the _Illustrated London News_ likewise contains no additional descriptive information, but it does include several useful photographs, including one of the right scapula that is reproduced better than the similar photo in Migeod (1931a:figure 2), and two photos that offer tantalising hints of the "wings" of the dorsal vertebrae (see below).
 
 
@@ -411,6 +413,8 @@ XXX To follow
 XXX To follow
 
 XXX Migeod speaks of the dorsal vertebrae having "wings". FMNH P25107's presacral P7 shows an "apron" similar to that of SII.D?7 -- a wide, contiguous set of horizontal laminae joining prezygs to diapophyses and postzygs.  This morphology is unusual, and may be what Migeod refers to as "wings".
+
+XXX Discuss his confusion as to dicraeosaurid or brachiosaurid identity based on bifid anterior dorsals, and wings, and forward sloping.
 
 
 #### Dorsal vertebral neural spine C
