@@ -285,65 +285,73 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 ### Cervical vertebrae
 
-In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_ (Table 3). However, they are significantly less pneumatic. For example, character 406 in the phylogenetic analysis (see below) is "Middle and posterior cervical neural spines, lateral surface between PRDL, PODL, SPOL (i.e. the spinodiapophyseal fossa [SDF]): has 3 or more coels separated from each other by low ridges". This feature is present for _Giraffatitan_ but absent for the Archbishop.
+In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_, with the aEI of the two cervicals for which this can be calculated nicely bracketing the aEI of the large C8 that is the only vertebra of MB.R.2181 that can be measured (Table 3).
 
-**Table 3. Average elongation index**
+As (Migeod 1931a:90) pointed out, "the neck was deep rather than broad". This is seen partly in his measurements of the more or less intact cervical vertebrae he was dealing with: the last cervical was 1.33 times as tall as it was long (44 inches to 33 inches). Unfortunately, the more posterior cervicals are not available, having apparently been lost or destroyed, so these unusual dimensions cannot be verified or further interpreted. However, the tallness of the cervicals (and indeed dorsals) is also reflected in the proportions of the centra: in every Archbishop vertebra for which both height and width of the cotyle can be measured, it is taller than it is wide (Table 3) -- a reversal of the condition in most neosauropods and particularly in _Giraffatitan_ (character 17 state 1 in the phylogenetic analysis).
 
-Taxon    | _Giraffatitan_ | _Giraffatitan_  | "The Archbishop"
-:------- | :------------- | :-------------- | :---------------
-aEI      | MB.R.2180 (SI) | MB.R.2181 (SII) | NHMUK PV R5937
-C2       |
-C3       |
-C4       |
-C5       |
-C6       |
-C7       |
-C8       |
-C9       |
-C10      |
-C11      |
-C12      |
-C13      |
-Average  |
+**Table 3. Cervical vertebral dimensions and ratios**
 
-> Average elongation index (aEI) of cervical vertebrae of _Giraffatitan_ and the Archbishop.
-> XXX fill all these one once measurements have been consolidated.
+Vertebra  | Centrum length | Cotyle height | Cotyle width | H/W ratio | aEI
+:-------- | :------------- | :------------ | :----------- | :-------- | :--
+**_Giraffatitan_ MB.R.2180 (SI)**
+C2        | 23.2           | 10            | 8.2          | 1.23      | 2.55
+C3        | 30.6           | 11.6          | 12.3         | 0.94      | 2.56
+C4        | 45.7           | 13.8          | 13.2         | 1.05      | 3.39
+C5        | 56             | 15.2          | 17.8         | 0.85      | 3.39
+C6        | 69.1           | 15            | 22.1         | 0.68      | 3.73
+C7        | 70.5           | 22.5          | 19.8         | 1.14      | 3.33
+_Average_ |                |               |              | 0.98      | 3.16
+**_Giraffatitan_ MB.R.2181 (SII)**
+C3        |                | 14.2          | 16.3         | 0.87
+C4        |                |               | 20.4
+C5        | 81
+C6        | 90             |               | 29.0
+C7        | 93             |               | 29.4
+C8        | 98             | 24.4          | 24.7         | 0.99      | 3.99
+C9        | 98             |               | 35.2
+C10       | 100            |               | 40.6
+C11       |                |               | 43.8
+C12       |                |               | 47.2
+C13       |                |               | 46           | 0.93      | 3.99
+_Average_ | XXX
+**"The Archbishop" NHMUK PV R5937**
+V (C?6)   | 57
+S (C?7)   | 75             | 20            | 18           | 1.11      | 3.95
+U (C?8)   | 80
+T (C?9)   | 81             | 22            | 
+P (C?10)  | 90             | 23            | 22           | 1.05      | 4.00
+_Average_ |                |               |              | 1.08      | 3.98
 
-As (Migeod 1931a:90) pointed out, "the neck was deep rather than broad". This is seen partly in his measurements of the more or less intact cervical vertebrae he was dealing with: the last cervical was 1.33 times as tall as it was long (44 inches to 33 inches). Unfortunately, the more posterior cervicals are not available, having apparently been lost or destroyed, so these unusual dimensions cannot be verified or further interpreted. However, the tallness of the cervicals (and indeed dorsals) is also reflected in the proportions of the centra: in every Archbishop vertebra for which both height and width of the cotyle can be measured, it is taller than it is wide (Table 4) -- a reversal of the condition in most neosauropods and particularly in _Giraffatitan_ (character 17 state 1 in the phylogenetic analysis).
+> Dimensions of cervical vertebrae of _Giraffatitan_ and the Archbishop, and ratios expression cotylar eccentricity (H/W ratio) and elongation (aEI). Measurements for _Giraffatitan_ are taken from Janensch (1950:39, 44).
 
-**Table 4. Cotyle shape**
+However, the cervical vertebrae of the Archbishop are significantly less pneumatic than those of _Giraffatitan_. For example, character 406 in the phylogenetic analysis (see below) is "Middle and posterior cervical neural spines, lateral surface between PRDL, PODL, SPOL (i.e. the spinodiapophyseal fossa [SDF]): has 3 or more coels separated from each other by low ridges". This feature is present for _Giraffatitan_ but absent for the Archbishop.
 
-Taxon        | _Giraffatitan_ | _Giraffatitan_  | "The Archbishop"
-:----------- | :------------- | :-------------- | :---------------
-Height/width | MB.R.2180 (SI) | MB.R.2181 (SII) | NHMUK PV R5937
-C2           |
-C3           |
-C4           |
-C5           |
-C6           |
-C7           |
-C8           |
-C9           |
-C10          |
-C11          |
-C12          |
-C13          |
-Average      |
-
-> Cotyle height/width ratio of cervical vertebrae of _Giraffatitan_ and the Archbishop.
-> XXX fill all these one once measurements have been consolidated.
-
+XXX comparative illustration
 
 XXX more general observations?
 
 
-#### Cervical V
+#### Cervical V (Figure V)
 
 ![Composite view of Cervical V](figures/export/cervical-v-composite.jpeg)
 
 > **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
-XXX To follow
+The cervical vertebra designated V is the most anterior of these that have been prepared, and is tentatively assigned to position 6 in the vertebral column (Migeod's mC8). It cannot be C5 (mC9), as that element remains in jacket M. It is unfortunately in very poor condition, and consequently could not be entirely removed from its jacket. It lies on its left side, so that the right lateral aspect is visible.
+
+The maximum height is 40 cm, measured from the tip of the neural spine to a baseline drawn between the parapophysis and the the posterior margin of the centrum. The preserved length of the vertebra when the photographs were taken was 57 cm.; however, the most posterior part of the centrum is missing, and would likely have increased the length by 5 cm or so. The cotyle can therefore not be measured, and cotylar eccentricity and aEI cannot be calculated. This vertebra has crumbled further since the photographs were taken, and the subsequent breakage in the middle of the vertebra has misleadingly increased the apparent length by about 6 cm.
+
+Both postzygapophyses are preserved (although the left one remains in plaster), along with the spinopostzygapophyseal laminae, which are robust, and the neurapophysis. Only a portion of the right spinoprezygapophyseal lamina remains, and both prezygapophyses are lost. The shallow trajectory of all these laminae and correspondingly low neural spine conform well to the shape of of the spine in similarly anterior cervicals of _Giraffatitan_ -- compare with MB.R.2180:C6. The base of the prezygadiapohyseal lamina is present, and comparing its position and trajectory with those of the preserved portion of spinoprezygapophyseal lamina indicates that the prezygapohysis was located some way anterior to the condyle, which matches the condition in _Giraffatitan_.
+
+The condyle is present but damaged: the ventrolateral part is in fair condition, but further dorsally and medially it is broken. Both the diapophysis and parapophysis are present (and the shape of the jacket shows that the left parapophysis is also in place, though inaccessible). The diapophyseal process includes a section projecting ventrally to meet the head of the cervical rib, which is absent (unless cervical rib X2 or X3 belongs to it: see below). As noted above, the base of the lamina connecting the diapophysis to the prezygapohysis is present, though damaged; so is the lamina connecting to the postzygapophysis, though here the damage is even greater and the trajectory cannot be confidently determined.
+
+In ventral aspect, the posterior part of the centrum is deeply excavated. This concavity is also present more anteriorly, but is less developed.
+
+![Red-cyan anaglyph of Cervical V in posterior view](figures/export/archbishop-cervical-v-posterior-anaglyph.jpeg)
+
+> **Figure V2.** NHMUK PV R5937, "The Archbishop", cervical vertebra V in posterior view, red-cyan anaglyph.
+
+Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7, 8 and 9 were adhering to one another". Cervical V, being probably C6, corresponds to mC8 of Migeod's usage, meaning that its anterior and posterior neighbours were both adhered to it. This accounts for the poor condition of the condyle and also explains what at first I thought was a strange feature of the posterodorsal part of the vertebra. A chunk of bone hangs down below the right postzygapohysis, and its anterior margin is oriented anteroventrally so that it and the postzygadiapophyseal lamina provide the posterior and dorsal margins of what appears to be a unique fossa. In fact, the bone beneath the postzygapohysis is the incompletely prepared anteriormost portion of the prezygapophysis of the succeeding vertebra, adhering to Cervical V; and the fossa is the usual excavation below the postzygadiapophyseal lamina and above the centrum. Since Cervical S is most likely C7, the prezygaphysis probably belongs to it.
 
 
 #### Cervical S
