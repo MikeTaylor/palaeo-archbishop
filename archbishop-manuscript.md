@@ -343,6 +343,8 @@ However, the cervical vertebrae of the Archbishop are significantly less pneumat
 
 The cervical vertebrae of the Archbishop are in generally much less pneumatic than those of _Giraffatitan_, apparently lacking accessory fossae in the centra apart from a single such fossa in Cervical S, in having only the most rudimentary pneumatic features in the neural arches. This is most clearly seen by comparing the eighth cervical of the _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII) with that of the Archbishop. The former has a complex honeycombing of pneumatic fossae and accessorly laminae across almost the whole surface of its neural arch, while the surface of the latter is almost entirely smooth. This difference in pneumatization cannot be construed as the result of ontogeny, as the two vertebrae are close to the same size: 98 cm centrum length for _Giraffatitan_, 80 cm for the Archbishop (82% as long).
 
+The full centrum lengths of the Archbishop's presumed cervicals 6-10 were 62 (see below), 75, 80, 85 and 90 cm respectively. The corresponding centrum lengths for MB.R.2181 are 90, 93, 98, 98 and 100 cm. The means that the lengths of the _Giraffatitan_ cervical centra exceed those of the corresponding Archbishop centra by 45%, 24%, 23%, 15% and 11% respectively, with the more posterior Archbishop vertebra more closely approaching those of _Giraffatitan_ in length. This suggests that the more anterior vertebrae in the Archbishop  are less proportionally elongate than in _Giraffatitan_; or, equivalently, that the process of elongation of individual cervical vertebrae had not extended as far forward along the neck in the Archbishop as in _Giraffatitan_.
+
 
 #### Cervical V
 
