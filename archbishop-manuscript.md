@@ -331,19 +331,31 @@ XXX comparative illustration
 XXX more general observations?
 
 
-#### Cervical V (Figure V)
+#### Cervical V
 
 ![Composite view of Cervical V](figures/export/cervical-v-composite.jpeg)
 
-> **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
+> **Figure V.** NHMUK PV R5937, "The Archbishop", cervical vertebra V (most anterior preserved cervical vertebra, probably C6), left side still encased in plaster.
+> **A.** Reconstruction of right lateral view with neural spine, prezygapophysis, diapophysis, condyle, cotyle and cervical rib restored. The prezygapophysis from the succeeding vertebra that has adhered to this element is shown in red.
+> **B.** Dorsal view with anterior to the right.
+> **C.** Posterior view.
+> **D.** Right lateral view.
+> **E.** Anterior view.
+> **F.** Ventral view with anterior to the right.
+> Scale bar 20 cm.
+> Abbreviations:
+> PODL, postzygadiapophyseal lamina;
+> PRDL, prezygadiapophyseal lamina
+> SPOL, spinopostzygapophyseal lamina;
+> SPRL, spinoprezygapophyseal lamina.
 
 The cervical vertebra designated V is the most anterior of these that have been prepared, and is tentatively assigned to position 6 in the vertebral column (Migeod's mC8). It cannot be C5 (mC9), as that element remains in jacket M. It is unfortunately in very poor condition, and consequently could not be entirely removed from its jacket. It lies on its left side, so that the right lateral aspect is visible.
 
 The maximum height is 40 cm, measured from the tip of the neural spine to a baseline drawn between the parapophysis and the the posterior margin of the centrum. The preserved length of the vertebra when the photographs were taken was 57 cm.; however, the most posterior part of the centrum is missing, and would likely have increased the length by 5 cm or so. The cotyle can therefore not be measured, and cotylar eccentricity and aEI cannot be calculated. This vertebra has crumbled further since the photographs were taken, and the subsequent breakage in the middle of the vertebra has misleadingly increased the apparent length by about 6 cm.
 
-Both postzygapophyses are preserved (although the left one remains in plaster), along with the spinopostzygapophyseal laminae, which are robust, and the neurapophysis. Only a portion of the right spinoprezygapophyseal lamina remains, and both prezygapophyses are lost. The shallow trajectory of all these laminae and correspondingly low neural spine conform well to the shape of of the spine in similarly anterior cervicals of _Giraffatitan_ -- compare with MB.R.2180:C6. The base of the prezygadiapohyseal lamina is present, and comparing its position and trajectory with those of the preserved portion of spinoprezygapophyseal lamina indicates that the prezygapohysis was located some way anterior to the condyle, which matches the condition in _Giraffatitan_.
+Both postzygapophyses are preserved (although the left one remains in plaster), along with the spinopostzygapophyseal laminae, which are robust, and the neurapophysis. Only a portion of the right spinoprezygapophyseal lamina remains, and both prezygapophyses are lost. The shallow trajectory of all these laminae and correspondingly low neural spine conform well to the shape of of the spine in similarly anterior cervicals of _Giraffatitan_ -- compare with MB.R.2180:C6. The base of the prezygadiapophyseal lamina is present, and comparing its position and trajectory with those of the preserved portion of spinoprezygapophyseal lamina indicates that the prezygapophysis was located some way anterior to the condyle, which matches the condition in _Giraffatitan_.
 
-The condyle is present but damaged: the ventrolateral part is in fair condition, but further dorsally and medially it is broken. Both the diapophysis and parapophysis are present (and the shape of the jacket shows that the left parapophysis is also in place, though inaccessible). The diapophyseal process includes a section projecting ventrally to meet the head of the cervical rib, which is absent (unless cervical rib X2 or X3 belongs to it: see below). As noted above, the base of the lamina connecting the diapophysis to the prezygapohysis is present, though damaged; so is the lamina connecting to the postzygapophysis, though here the damage is even greater and the trajectory cannot be confidently determined. The parapophysis is fairly robust, and excavated from above by a broad, uniform depression which shades into the anterior end of the lateral fossa of the centrum. This, too, is broad and fairly shallow. There are no accessory fossae in the centrum or, so far as preservation allows observations to be made, in the neural arch.
+The condyle is present but damaged: the ventrolateral part is in fair condition, but further dorsally and medially it is broken. Both the diapophysis and parapophysis are present (and the shape of the jacket shows that the left parapophysis is also in place, though inaccessible). The diapophyseal process includes a section projecting ventrally to meet the head of the cervical rib, which is absent (unless cervical rib X2 or X3 belongs to it: see below). As noted above, the base of the lamina connecting the diapophysis to the prezygapophysis is present, though damaged; so is the lamina connecting to the postzygapophysis, though here the damage is even greater and the trajectory cannot be confidently determined. The parapophysis is fairly robust, and excavated from above by a broad, uniform depression which shades into the anterior end of the lateral fossa of the centrum. This, too, is broad and fairly shallow. There are no accessory fossae in the centrum or, so far as preservation allows observations to be made, in the neural arch.
 
 In ventral aspect, the posterior part of the centrum is deeply excavated. This concavity is also present more anteriorly, but is less developed.
 
@@ -351,7 +363,7 @@ In ventral aspect, the posterior part of the centrum is deeply excavated. This c
 
 > **Figure V2.** NHMUK PV R5937, "The Archbishop", cervical vertebra V in posterior view, red-cyan anaglyph.
 
-Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7, 8 and 9 were adhering to one another". Cervical V, being probably C6, corresponds to mC8 of Migeod's usage, meaning that its anterior and posterior neighbours were both adhered to it. This accounts for the poor condition of the condyle and also explains what at first I thought was a strange feature of the posterodorsal part of the vertebra. A chunk of bone hangs down below the right postzygapohysis, and its anterior margin is oriented anteroventrally so that it and the postzygadiapophyseal lamina provide the posterior and dorsal margins of what appears to be a unique fossa. In fact, the bone beneath the postzygapohysis is the incompletely prepared anteriormost portion of the prezygapophysis of the succeeding vertebra, adhering to Cervical V; and the fossa is the usual excavation below the postzygadiapophyseal lamina and above the centrum. Since Cervical S is most likely C7, the prezygaphysis probably belongs to it.
+Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7, 8 and 9 were adhering to one another". Cervical V, being probably C6, corresponds to mC8 of Migeod's usage, meaning that its anterior and posterior neighbours were both adhered to it. This accounts for the poor condition of the condyle and also explains what at first I thought was a strange feature of the posterodorsal part of the vertebra. A chunk of bone hangs down below the right postzygapophysis, and its anterior margin is oriented anteroventrally so that it and the postzygadiapophyseal lamina provide the posterior and dorsal margins of what appears to be a unique fossa. In fact, the bone beneath the postzygapophysis is the incompletely prepared anteriormost portion of the prezygapophysis of the succeeding vertebra, adhering to Cervical V; and the fossa is the usual excavation below the postzygadiapophyseal lamina and above the centrum. Since Cervical S is most likely C7, the prezygaphysis probably belongs to it.
 
 
 #### Cervical S
