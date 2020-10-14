@@ -291,7 +291,7 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 ### Cervical vertebrae
 
-In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_, with the aEI of the two cervicals for which this can be calculated nicely bracketing the aEI of the large C8 that is the only vertebra of MB.R.2181 that can be measured (Table 3).
+In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_, with the aEI of the two cervicals for which this can be calculated nicely bracketing the aEI of the large C8 that is the only vertebra of MB.R.2181 that can be measured (Table 3). However, Cervical V (C?6), for which no elongation index can be calculated, does not appear as elongate as the corresponding vertebrae of _Giraffatitan_ (Figure Y), even when the missing posterior margin of its centrum is taken into account.
 
 As (Migeod 1931a:90) pointed out, "the neck was deep rather than broad". This is seen partly in his measurements of the more or less intact cervical vertebrae he was dealing with: the last cervical was 1.33 times as tall as it was long (44 inches to 33 inches). Unfortunately, the more posterior cervicals are not available, having apparently been lost or destroyed, so these unusual dimensions cannot be verified or further interpreted. However, the tallness of the cervicals (and indeed dorsals) is also reflected in the proportions of the centra: in every Archbishop vertebra for which both height and width of the cotyle can be measured, it is taller than it is wide (Table 3) -- a reversal of the condition in most neosauropods and particularly in _Giraffatitan_ (character 17 state 1 in the phylogenetic analysis).
 
@@ -341,7 +341,7 @@ However, the cervical vertebrae of the Archbishop are significantly less pneumat
 > Rows show cervical vertebrae 2-10: the Archbishop vertebrae depicted are (from top to bottom), cervicals V, S, U, T and P, most likely assignable to the positions 6-10 respectively.
 > Scale bar 20 cm.
 
-XXX additional general observations?
+The cervical vertebrae of the Archbishop are in generally much less pneumatic than those of _Giraffatitan_, apparently lacking accessory fossae in the centra apart from a single such fossa in Cervical S, in having only the most rudimentary pneumatic features in the neural arches. This is most clearly seen by comparing the eighth cervical of the _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII) with that of the Archbishop. The former has a complex honeycombing of pneumatic fossae and accessorly laminae across almost the whole surface of its neural arch, while the surface of the latter is almost entirely smooth. This difference in pneumatization cannot be construed as the result of ontogeny, as the two vertebrae are close to the same size: 98 cm centrum length for _Giraffatitan_, 80 cm for the Archbishop (82% as long).
 
 
 #### Cervical V
