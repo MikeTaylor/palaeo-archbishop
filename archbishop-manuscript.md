@@ -90,6 +90,11 @@ To avoid ambiguity, anatomical directions are used of the scapula as though the 
 
 See below on Migeod's idiosyncratic numbering of the  vertebrae, and on how his numbering scheme corresponds with conventional numbering.
 
+Abbreviations:
+* PODL, postzygadiapophyseal lamina;
+* PRDL, prezygadiapophyseal lamina
+* SPOL, spinopostzygapophyseal lamina;
+* SPRL, spinoprezygapophyseal lamina.
 
 
 
@@ -343,11 +348,6 @@ XXX more general observations?
 > **E.** Anterior view.
 > **F.** Ventral view with anterior to the right.
 > Scale bar 20 cm.
-> Abbreviations:
-> PODL, postzygadiapophyseal lamina;
-> PRDL, prezygadiapophyseal lamina
-> SPOL, spinopostzygapophyseal lamina;
-> SPRL, spinoprezygapophyseal lamina.
 
 The cervical vertebra designated V is the most anterior of these that have been prepared, and is tentatively assigned to position 6 in the vertebral column (Migeod's mC8). It cannot be C5 (mC9), as that element remains in jacket M. It is unfortunately in very poor condition, and consequently could not be entirely removed from its jacket. It lies on its left side, so that the right lateral aspect is visible.
 
