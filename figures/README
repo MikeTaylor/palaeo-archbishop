@@ -18,7 +18,9 @@ Part captions (A, B, etc.) black in Gill Sans
 Font size 1/25 of page width
 (So e.g. Cervical V composite is 4222 pixels wide => 169 point font)
 Top of rendered font vertically aligned with image part
-Horizonally positioned to left of image part, spaced so that there is
+Horizonally positioned to left of image part
+
+	On horizontal spacing: as GUIDELINE, align so that there is
 	just room for an "M" to follow. (Do this by setting the part
 	caption to its desired value followed by "M", positioning it,
 	and deleting the "M" suffix.)
