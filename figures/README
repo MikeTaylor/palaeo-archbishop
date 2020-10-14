@@ -14,9 +14,9 @@ Line-drawing silhouettes black at 20% opacity
 
 Scale bars 20 cm, with thickness 1/16 of length
 
-Part captions (A, B, etc.) black in Gill Sans
-Font size 1/25 of page width
-(So e.g. Cervical V composite is 4222 pixels wide => 169 point font)
+Part captions ("A", "B", etc.) black in Gill Sans
+Font size 1/28 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 151 point font)
 Top of rendered font vertically aligned with image part
 Horizonally positioned to left of image part
 
@@ -25,3 +25,6 @@ Horizonally positioned to left of image part
 	caption to its desired value followed by "M", positioning it,
 	and deleting the "M" suffix.)
 
+Anatomical captions ("prezygapophysis", etc.) black in Gill Sans
+Font size 1/47 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 90 point font)
