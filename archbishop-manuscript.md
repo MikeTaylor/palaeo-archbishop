@@ -91,10 +91,11 @@ To avoid ambiguity, anatomical directions are used of the scapula as though the 
 See below on Migeod's idiosyncratic numbering of the  vertebrae, and on how his numbering scheme corresponds with conventional numbering.
 
 Abbreviations:
-* PODL, postzygadiapophyseal lamina;
+* PCPL, posterior centroparapophyseal lamina
+* PODL, postzygadiapophyseal lamina
 * PRDL, prezygadiapophyseal lamina
-* SPOL, spinopostzygapophyseal lamina;
-* SPRL, spinoprezygapophyseal lamina.
+* SPOL, spinopostzygapophyseal lamina
+* SPRL, spinoprezygapophyseal lamina
 
 
 
