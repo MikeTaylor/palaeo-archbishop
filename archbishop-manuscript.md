@@ -332,9 +332,16 @@ _Average_ |                |               |              | 1.08      | 3.98
 
 However, the cervical vertebrae of the Archbishop are significantly less pneumatic than those of _Giraffatitan_. For example, character 406 in the phylogenetic analysis (see below) is "Middle and posterior cervical neural spines, lateral surface between PRDL, PODL, SPOL (i.e. the spinodiapophyseal fossa [SDF]): has 3 or more coels separated from each other by low ridges". This feature is present for _Giraffatitan_ but absent for the Archbishop.
 
-XXX comparative illustration
+![Comparison of _Giraffatitan_ and Archbishop cervical vertebrae](figures/export/si-and-sii-and-archbishop-cervicals-lateral.jpeg)
 
-XXX more general observations?
+> **Figure Y.** Comparison of cervical vertebrae of _Giraffatitan_ and the Archbishop, in right lateral view (or in some cases, in left lateral, reversed).
+> First column: vertebrae of _Giraffatitan brancai_ lectotype MB.R.2180 (formerly HMN SI).
+> Second column: vertebrae of _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII).
+> Third column: vertebrae of NHMUK PV R5937, "The Archbishop".
+> Rows show cervical vertebrae 2-10: the Archbishop vertebrae depicted are (from top to bottom), cervicals V, S, U, T and P, most likely assignable to the positions 6-10 respectively.
+> Scale bar 20 cm.
+
+XXX additional general observations?
 
 
 #### Cervical V
