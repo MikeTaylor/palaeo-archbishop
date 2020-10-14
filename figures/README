@@ -1,0 +1,25 @@
+Line-drawing black at 100% opacity
+using brush "2. Hardness 075"
+size 1/1000 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 4 px brush)
+
+Line-drawing shading black at 20% opacity
+using brush "2. Hardness 050"
+Size 1/16 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 264 px brush)
+
+Line-drawing texture photos desaturated at 20% opacity
+
+Line-drawing silhouettes black at 20% opacity
+
+Scale bars 20 cm, with thickness 1/16 of length
+
+Part captions (A, B, etc.) black in Gill Sans
+Font size 1/25 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 169 point font)
+Top of rendered font vertically aligned with image part
+Horizonally positioned to left of image part, spaced so that there is
+	just room for an "M" to follow. (Do this by setting the part
+	caption to its desired value followed by "M", positioning it,
+	and deleting the "M" suffix.)
+
