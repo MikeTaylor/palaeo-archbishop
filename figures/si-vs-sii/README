@@ -1,0 +1,16 @@
+Notes on scale in si-and-sii-and-archbishop-cervicals-lateral.xcf
+
+SII:C8 is 865 pixels across, including the projecting prezyg
+Janensch (1950:44) gives the total length of C8 as 113 cm
+So we have 865/113 = 7.65 pixels per cm
+
+Our 20 cm scale bar will be 20*7.65 = 153 pixels long
+=> it will be 153/16 = 10 pixels deep
+
+Centrum lengths of Archibishop vertebrae:
+
+C6 (Cervical V)  57 cm = 436 pixels
+C7 (Cervical S)  72 cm = 551 pixels
+C8 (Cervical U)  80 cm = 612 pixels
+C9 (Cervical T)  85 cm = 650 pixels
+C10 (Cervical P) 90 cm = 689 pixels
