@@ -28,3 +28,9 @@ Horizonally positioned to left of image part
 Anatomical captions ("prezygapophysis", etc.) black in Gill Sans
 Font size 1/47 of page width
 (So e.g. Cervical V composite is 4222 pixels wide => 90 point font)
+
+Lines connecting anatomical captions:
+Layer group with black lines and white lines, all at 33% opacity
+using brush "2. Hardness 075"
+size 1/600 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 7 px brush)
