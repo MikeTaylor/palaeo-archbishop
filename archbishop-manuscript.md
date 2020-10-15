@@ -380,19 +380,34 @@ Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7,
 
 ![Composite view of Cervical S](figures/export/cervical-s-composite.jpeg)
 
-> **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
+> **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S (probably C7).
+> **A.** Reconstruction of right lateral view with neural spine, prezygapophysis, diapophysis, parapophysus, condyle and cervical rib restored. Most anatomical features are as in the reconstruction of Cervical V: only unique elements are labelled.
+> **B.** Left lateral view.
+> **C.** Dorsal view with anterior to the right.
+> **D.** Posterior view.
+> **E.** Right lateral view.
+> **F.** Anterior view.
+> Scale bar 20 cm.
 
-XXX Measurements for Cervical S: 75cm length (cotyle margin to condyle). Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top. 18cm across cotyle (vertical). 18cm across cotyle (horizontal) also.
+Although the preserved part of Cervical S is in better, more robust, condition than Cervical V, the loss of most of the processes makes it less informative overall. The best preserved part is the most posterior third, but anterior to here the whole neural arch, both diapophyses and all traces of the prezygapophyses are missing. Since the condyle is also badly damaged and the cortex mixing over much of the centrum, the only other informative parts of the bone are the parapophyses and the ventral margin of the centrum.
+
+Cervical S measures 75 cm in total length (cotyle margin to condyle). Local maxima in vertical height are found at the parapophysis, where the dorsal margin is 31 cm above the ventral, and at the highest preserved part of the neural arch, just anterior to the right postzygapophysis, which is 35cm above the PCPL. The total height of the cotyle is 20 cm and its width is 18 cm.
+
+The postzygapophyses are robust, and supported by very robust centropostzygapophyseal lamina that differ dramatically from the thin, flat sheetlike CPOLs of MB.R.2181:C8 and the various cervicals of MB.R.2180. In Cervical S, the laminae are thicker than the width of the neural canal (Figure S2, S3), and project posteriorly dorsal to the centrum but ventral to the postzygapophyses in such a way that, viewed in later aspect, they could be mistaken for the postzygapophyses themselves.
 
 ![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
 
-> **Figure S2.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in right posterolateral view, red-cyan anaglyph.
+> **Figure S2.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in right posterolateral view, red-cyan anaglyph. Note the thick, posteriorly bulging centropostzygapophyseal laminae and the additional posterior projection located between them.
+
+Between and below the CPOLs is an additional midline process, directly above the neural canal, that is located where a hyposphene would be in dorsal vertebrae. This cannot be interpreted as paired intrapostzygapophyseal laminae for several reasons: first, these are paired laminae that meet at the midline, whereas this is a midline element; second, the structure is in no sense laminar, being roughly hemispherical in shape; and third, TPOs occurs more dorsally and connect the medial aspects of the upper parts of the CPOLs. This projection could conceivably be homologous with the vertical midline lamina that supports the junction of the TPOLs in some vertebrae, but based on its non-laminar shape it seems to be a novel feature. I refer to it as a "hyposphene" (in quotes) because of its location, though it is unlikely to have functioned in stiffening the column as the hyposphene is thought to do in dorsal vertebrae (Apesteguía 2005).
 
 ![Red-cyan anaglyph of Cervical S in posterior view](figures/export/archbishop-cervical-s--hyposphene-3d.jpeg)
 
 > **Figure S3.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in posterior view, close-up of postzygapophyses, ?hyposphene and neural canal, red-cyan anaglyph.
 
-XXX To follow
+Unfortunately, most of the other cervical vertebrae of the Archbishop do not preserve the relevant region, though it does not seem to be present in Cervical P. It is not possible to determine whether the presence of the "hyposphene" is a character of this taxon or merely an aberration in this specific vertebrae. However, distinctly robust CPOLs similar to those of Cervical S are present in Cervicals V and P, and possibly also in U and T, so this does seem to be a reliable character distinguishing the Archbishop from _Giraffatitan_.
+
+XXXX describe the rest of S.
 
 
 #### Cervical U
@@ -764,6 +779,7 @@ XXX Just in the form of notes at this stage.
 
 ## References
 
+* Apesteguía, Sebastián. 2005. Evolution of the hyposphene-hypantrum complex within Sauropoda. pp. 248-267 in: Virginia Tidwell and Kenneth Carpenter (eds), _Thunder-lizards: the sauropodomorph dinosaurs_. Indiana University Press, Bloomington: Indiana.
 * Bonaparte, José F., Wolf-Dieter Heinrich, and Rupert Wild. 2000. Review of _Janenschia_ Wild, with the description of a new sauropod from the Tendaguru beds of Tanzania and a discussion on the systematic value of procoelous caudal vertebrae in the Sauropoda. _Palaeontographica A_ **256**:25-76.
 * Charig, Alan J. 1990. Francis Rex Parrington, 20 February 1905-17 April 1981. _Biographical Memoirs of Members of the Royal Society_ **36**:359-378. doi:10.1098/rsbm.1990.0036
 * Chure, Daniel, Brooks B. Britt, John A. Whitlock and Jeffrey A. Wilson. 2010. First complete sauropod dinosaur skull from the Cretaceous of the Americas and the evolution of sauropod dentition. _Naturwissenschaften_ **97(4)**:379-91. doi:10.1007/s00114-010-0650-6
