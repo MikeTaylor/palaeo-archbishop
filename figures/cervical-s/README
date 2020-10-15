@@ -1,0 +1,12 @@
+Width of composite image is 3554 pixels, so drawing sizes are:
+Line-drawing brush: 3554/1000  = 3.5 px
+Shading brush: 3554/16 = 222 px
+Lines connecting anatomical captions: 3554/600 = 6 px
+Part-caption font: 3554/28 = 127 point
+Anatomical-caption font: 3554/47 = 76 point
+
+	Greatest length in lateral view measures 2057 pixels.
+	This is 75 cm in real life, so we have 2057/75 = 27.43 pixels per cm.
+	So a 20 cm scale bar is 27.43*20 = 549 pixels
+	=> depth of scale bar = 549/16 = 34 pixels
+
