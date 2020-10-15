@@ -689,9 +689,11 @@ XXX See section "Oversplitting of Tendaguru Sauropods?" in Mannion et al. 2019:8
 
 ## Phylogenetic analysis
 
+XXX Rework this section based on modified results after recent re-scoring.
+
 ![Strict consensus tree](figures/phylogeny/figure-f-phylogeny.png)
 
-> **Figure F.** Strict consensus of 2376 most parsimonious trees of length 2661 found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
+> **Figure F.** Strict consensus of 2376 most parsimonious trees of length 2662 found by phylogenetic analysis using equal weights (protocol described in text). The Archbishop is highlighted in bold, and is recovered as part of a polytomy at the base of the clade of "advanced somphospondylians", marked AS.
 
 XXX To follow
 
@@ -701,7 +703,7 @@ In consultation with Phil Mannion, I rescored the following characters in the ma
 
 XXX describe protocol
 
-The equal-weights analysis recovered 2376 most parsimonious trees of length 2661. In all of these trees, the Archbishop is resolved as a basal member of an "advanced somphospondylian" clade (marked AS in Figure F) which is more closely related to titanosaurs than to brachiosaurids or the "primitive somphospondylian" clade containing Euhelopus and seven other OTUs. When the Archbishop is constrained to be a brachiosaurid (i.e. more closely related to _Brachiosaurus_ than to _Saltasaurus_), two additional steps are required, yielding most parsimonious trees of length 2663. When it is constrained to be the sister taxon to _Giraffatitan_, two further steps are required (i.e. four more than in the unconstrained search), in most parsimonious trees of length 2665.
+The equal-weights analysis recovered 2376 most parsimonious trees of length 2662. In all of these trees, the Archbishop is resolved as a basal member of an "advanced somphospondylian" clade (marked AS in Figure F) which is more closely related to titanosaurs than to brachiosaurids or the "primitive somphospondylian" clade containing Euhelopus and seven other OTUs. When the Archbishop is constrained to be a brachiosaurid (i.e. more closely related to _Brachiosaurus_ than to _Saltasaurus_), one additional step is required, yielding most parsimonious trees of length 2663. When it is constrained to be the sister taxon to _Giraffatitan_, two further steps are required (i.e. three more than in the unconstrained search), in most parsimonious trees of length 2665.
 
 
 
