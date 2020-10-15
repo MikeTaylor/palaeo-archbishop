@@ -382,7 +382,7 @@ Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7,
 
 > **Figure S.** NHMUK PV R5937, "The Archbishop", cervical vertebra S. Top row: left lateral view; second row: dorsal view (anterior to right); bottom row (left to right): posterior, right lateral, and anterior views.
 
-XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to condyle).  Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top.  18cm across cotyle (vertical). 18cm across cotyle (horizontal) also. But OLD/new-visit measures it as 72cm.
+XXX Measurements for Cervical S: 75cm length (cotyle margin to condyle). Local maxima in vertical height 31cm (parapophysis to dorsal eminence which may be supraprezygopophyseal lamina) and 35cm from PCPL to the highest preserved part of the spine, which is broken near the top. 18cm across cotyle (vertical). 18cm across cotyle (horizontal) also.
 
 ![Red-cyan anaglyph of Cervical S in right posterolateral view](figures/export/archbishop-cervical-s--right-posterolateral-3d.jpeg)
 
