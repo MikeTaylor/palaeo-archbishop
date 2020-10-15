@@ -8,11 +8,17 @@ using brush "2. Hardness 050"
 Size 1/16 of page width
 (So e.g. Cervical V composite is 4222 pixels wide => 264 px brush)
 
+Lines connecting anatomical captions:
+Layer group with black lines and white lines, all at 33% opacity
+using brush "2. Hardness 075"
+size 1/600 of page width
+(So e.g. Cervical V composite is 4222 pixels wide => 7 px brush)
+White lines shifted down and right by 1/1400 page width
+(So e.g. Cervical V composite is 4222 pixels wide => 3 pixel shift)
+	
 Line-drawing texture photos desaturated at 20% opacity
 
 Line-drawing silhouettes black at 20% opacity
-
-Scale bars 20 cm, with thickness 1/16 of length
 
 Part captions ("A", "B", etc.) black in Gill Sans
 Font size 1/28 of page width
@@ -29,8 +35,5 @@ Anatomical captions ("prezygapophysis", etc.) black in Gill Sans
 Font size 1/47 of page width
 (So e.g. Cervical V composite is 4222 pixels wide => 90 point font)
 
-Lines connecting anatomical captions:
-Layer group with black lines and white lines, all at 33% opacity
-using brush "2. Hardness 075"
-size 1/600 of page width
-(So e.g. Cervical V composite is 4222 pixels wide => 7 px brush)
+Scale bars 20 cm, with thickness 1/16 of length
+
