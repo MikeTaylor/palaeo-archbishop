@@ -28,8 +28,8 @@ UK.
     * [Cervical vertebrae](#cervical-vertebrae)
         * [Cervical V](#cervical-v)
         * [Cervical S](#cervical-s)
-        * [Cervical T](#cervical-t)
         * [Cervical U](#cervical-u)
+        * [Cervical T](#cervical-t)
         * [Cervical P](#cervical-p)
         * [Cervical W](#cervical-w)
     * [Cervical ribs](#cervical-ribs)
@@ -395,6 +395,17 @@ XXX Measurements for Cervical S: 72cm right lateral length (cotyle margin to con
 XXX To follow
 
 
+#### Cervical U
+
+![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
+
+> **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
+
+XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
+
+XXX To follow
+
+
 #### Cervical T
 
 ![Composite view of Cervical T](figures/export/cervical-t-composite.jpeg)
@@ -406,17 +417,6 @@ XXX Cervical T is about 80cm long, but too awkwardly located to measure more ful
 ![Red-cyan anaglyph of Cervical T](figures/export/archbishop-cervical-t--anterior-3d.jpeg)
 
 > **Figure T2.** NHMUK PV R5937, "The Archbishop", cervical vertebra T in anterior view, red-cyan anaglyph.
-
-XXX To follow
-
-
-#### Cervical U
-
-![Composite view of Cervical U](figures/export/cervical-u-composite.jpeg)
-
-> **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
-
-XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
 
 XXX To follow
 
