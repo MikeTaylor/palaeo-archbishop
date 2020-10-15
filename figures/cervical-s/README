@@ -1,5 +1,6 @@
 Width of composite image is 3554 pixels, so drawing sizes are:
-Line-drawing brush: 3554/1000  = 3.5 px
+Line-drawing brush: 3554/1000 = 3.5 px
+White lines shift: 3554/1400 = 3 pixel shift
 Shading brush: 3554/16 = 222 px
 Lines connecting anatomical captions: 3554/600 = 6 px
 Part-caption font: 3554/28 = 127 point
