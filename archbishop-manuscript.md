@@ -389,7 +389,12 @@ Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7,
 > **F.** Anterior view.
 > Scale bar 20 cm.
 
-Although the preserved part of Cervical S is in better, more robust, condition than Cervical V, the loss of most of the processes makes it less informative overall. The best preserved part is the most posterior third, but anterior to here the whole neural arch, both diapophyses and almost all traces of the prezygapophyses are missing: all that remains is a portion of the medial aspect of the right prezygapophyseal lamina, but this is too badly damaged to indicate the trajectory of the SPRLs. Since the condyle is also badly damaged and the cortex mixing over much of the centrum, the only other informative parts of the bone are the parapophyses and the ventral margin of the centrum.
+Although the preserved part of Cervical S is in better, more robust, condition than Cervical V, the loss of most of the processes makes it less informative overall. The best preserved part is the most posterior third, but anterior to here the whole neural arch, both diapophyses and almost all traces of the prezygapophyses are missing: all that remains is a portion of the medial aspect of the right prezygapophyseal ramus and a tiny scap of the left ramus, but these are too badly damaged to indicate the trajectory of the SPRLs (Figure S5). Since the condyle is also badly damaged and the cortex mixing over much of the centrum, the only other informative parts of the bone are the parapophyses and the ventral margin of the centrum.
+
+![Red-cyan anaglyph of Cervical S in dorsal
+view](figures/export/archbishop-cervical-s-dorsal-anaglyph.jpeg)
+
+> **Figure S5.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in dorsal view, red-cyan anaglyph.
 
 Cervical S measures 75 cm in total length (cotyle margin to condyle). Local maxima in vertical height are found at the parapophysis, where the dorsal margin is 31 cm above the ventral, and at the highest preserved part of the neural arch, just anterior to the right postzygapophysis, which is 35cm above the PCPL. The total height of the cotyle is 20 cm and its width is 18 cm.
 
@@ -411,6 +416,8 @@ Of the centrum, as with the superstructure, the posterior end of the right side 
 
 ![Red-cyan anaglyph of Cervical S in anterior 
 view](figures/export/archbishop-cervical-s-anterior-anaglyph.jpeg)
+
+> **Figure S4.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in dorsal view, red-cyan anaglyph.
 
 Depressions are present on the dorsal surfaces of both left and right parapophyses, although the preservation is poor on the left side. The depression on the right side is bisected by a low, thin vertical lamina, dividing it into anterior and posterior portions.
 
