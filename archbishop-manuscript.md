@@ -394,7 +394,7 @@ Although the preserved part of Cervical S is in better, more robust, condition t
 ![Red-cyan anaglyph of Cervical S in dorsal
 view](figures/export/archbishop-cervical-s-dorsal-anaglyph.jpeg)
 
-> **Figure S5.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in dorsal view, red-cyan anaglyph.
+> **Figure S5.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in dorsal view with anterior to the right, red-cyan anaglyph. Note the broken bases of the prezygapophyseal rami, better defined on the right side than on the left.
 
 Cervical S measures 75 cm in total length (cotyle margin to condyle). Local maxima in vertical height are found at the parapophysis, where the dorsal margin is 31 cm above the ventral, and at the highest preserved part of the neural arch, just anterior to the right postzygapophysis, which is 35cm above the PCPL. The total height of the cotyle is 20 cm and its width is 18 cm.
 
