@@ -16,7 +16,7 @@ size 1/600 of page width
 White lines shifted down and right by 1/1400 page width
 (So e.g. Cervical V composite is 4222 pixels wide => 3 pixel shift)
 	
-Line-drawing texture photos desaturated at 20% opacity
+Line-drawing texture photos desaturated at 25% opacity
 
 Line-drawing silhouettes black at 20% opacity
 
