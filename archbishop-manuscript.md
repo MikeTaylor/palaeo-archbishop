@@ -389,7 +389,7 @@ Migeod (1931a:91) noted that "C4, 5, 6 were separated by short intervals, but 7,
 > **F.** Anterior view.
 > Scale bar 20 cm.
 
-Although the preserved part of Cervical S is in better, more robust, condition than Cervical V, the loss of most of the processes makes it less informative overall. The best preserved part is the most posterior third, but anterior to here the whole neural arch, both diapophyses and all traces of the prezygapophyses are missing. Since the condyle is also badly damaged and the cortex mixing over much of the centrum, the only other informative parts of the bone are the parapophyses and the ventral margin of the centrum.
+Although the preserved part of Cervical S is in better, more robust, condition than Cervical V, the loss of most of the processes makes it less informative overall. The best preserved part is the most posterior third, but anterior to here the whole neural arch, both diapophyses and almost all traces of the prezygapophyses are missing: all that remains is a portion of the medial aspect of the right prezygapophyseal lamina, but this is too badly damaged to indicate the trajectory of the SPRLs. Since the condyle is also badly damaged and the cortex mixing over much of the centrum, the only other informative parts of the bone are the parapophyses and the ventral margin of the centrum.
 
 Cervical S measures 75 cm in total length (cotyle margin to condyle). Local maxima in vertical height are found at the parapophysis, where the dorsal margin is 31 cm above the ventral, and at the highest preserved part of the neural arch, just anterior to the right postzygapophysis, which is 35cm above the PCPL. The total height of the cotyle is 20 cm and its width is 18 cm.
 
@@ -399,7 +399,7 @@ The postzygapophyses are robust, and supported by very robust centropostzygapoph
 
 > **Figure S2.** NHMUK PV R5937, "The Archbishop", cervical vertebra S in right posterolateral view, red-cyan anaglyph. Note the thick, posteriorly bulging centropostzygapophyseal laminae and the additional posterior projection located between them.
 
-Between and below the CPOLs is an additional midline process, directly above the neural canal, that is located where a hyposphene would be in dorsal vertebrae. This cannot be interpreted as paired intrapostzygapophyseal laminae for several reasons: first, these are paired laminae that meet at the midline, whereas this is a midline element; second, the structure is in no sense laminar, being roughly hemispherical in shape; and third, TPOs occurs more dorsally and connect the medial aspects of the upper parts of the CPOLs. This projection could conceivably be homologous with the vertical midline lamina that supports the junction of the TPOLs in some vertebrae, but based on its non-laminar shape it seems to be a novel feature. I refer to it as a "hyposphene" (in quotes) because of its location, though it is unlikely to have functioned in stiffening the column as the hyposphene is thought to do in dorsal vertebrae (Apesteguía 2005).
+Between and below the CPOLs is an additional midline process, directly above the neural canal, that is located where a hyposphene would be in dorsal vertebrae (Figure S2, S3). This cannot be interpreted as paired intrapostzygapophyseal laminae for several reasons: first, these are paired laminae that meet at the midline, whereas this is a midline element; second, the structure is in no sense laminar, being roughly hemispherical in shape; and third, TPOs occurs more dorsally and connect the medial aspects of the upper parts of the CPOLs. This projection could conceivably be homologous with the vertical midline lamina that supports the junction of the TPOLs in some vertebrae, but based on its non-laminar shape it seems to be a novel feature. I refer to it as a "hyposphene" (in quotes) because of its location, though it is unlikely to have functioned in stiffening the column as the hyposphene is thought to do in dorsal vertebrae (Apesteguía 2005).
 
 ![Red-cyan anaglyph of Cervical S in posterior view](figures/export/archbishop-cervical-s--hyposphene-3d.jpeg)
 
@@ -407,7 +407,12 @@ Between and below the CPOLs is an additional midline process, directly above the
 
 Unfortunately, most of the other cervical vertebrae of the Archbishop do not preserve the relevant region, though it does not seem to be present in Cervical P. It is not possible to determine whether the presence of the "hyposphene" is a character of this taxon or merely an aberration in this specific vertebrae. However, distinctly robust CPOLs similar to those of Cervical S are present in Cervicals V and P, and possibly also in U and T, so this does seem to be a reliable character distinguishing the Archbishop from _Giraffatitan_.
 
-XXXX describe the rest of S.
+Of the centrum, as with the superstructure, the posterior end of the right side best preserved. As well as an elongate lateral fossa with an acute posterior end, it features an accessory fossa posteroventral to the posterior end of the main fossa -- the only such fossa discernable in any of the cervicals. Although the left side is less well preserved, a broad lateral fossa is discerable, much dorsoventrally taller at its posterior end than on the right side.
+
+![Red-cyan anaglyph of Cervical S in anterior 
+view](figures/export/archbishop-cervical-s-anterior-anaglyph.jpeg)
+
+Depressions are present on the dorsal surfaces of both left and right parapophyses, although the preservation is poor on the left side. The depression on the right side is bisected by a low, thin vertical lamina, dividing it into anterior and posterior portions.
 
 
 #### Cervical U
@@ -773,7 +778,7 @@ XXX Just in the form of notes at this stage.
 * John Hutchinson and Victoria Watts for CT-scanning Cervical U.
 * Scott Hartman for providing the skeletal reconstrction of _Giraffatitan brancai_ that was used for Figure E, the skeletal inventory.
 * Fiona J. Taylor for help in deciphering Migeod's handwriting and transcribing shipping manifests.
-* Heinrich Mallison for providing the 3d model of the _Giraffatitan_ humerus.
+* Heinrich Mallison for providing the 3d models of the _Giraffatitan_ cervical vertebra and humerus.
 
 
 
