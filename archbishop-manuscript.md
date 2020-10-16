@@ -82,7 +82,7 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 
 ### Anatomical nomenclature
 
-Nomenclature for vertebral laminae follows that of Wilson (1999).
+Nomenclature for vertebral laminae follows that of Wilson (1999) except that lamina abbreviations such as SPRL are capitalised.
 
 The average elongation index (aEI) of a centrum is defined following Chure et al. (2010:385) as its length divided by the mean of its posterior height and width.
 
@@ -91,6 +91,7 @@ To avoid ambiguity, anatomical directions are used of the scapula as though the 
 See below on Migeod's idiosyncratic numbering of the  vertebrae, and on how his numbering scheme corresponds with conventional numbering.
 
 Abbreviations:
+* CPOL, centropostzygapophyseal lamina
 * PCPL, posterior centroparapophyseal lamina
 * PODL, postzygadiapophyseal lamina
 * PRDL, prezygadiapophyseal lamina
