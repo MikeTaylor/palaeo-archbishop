@@ -74,8 +74,8 @@ The German East Africa expeditions of the Humboldt Museum für Naturkunde in the
 
 * BMNH -- See NHMUK.
 * FMNH -- Field Museum of Natural History, Chicago, Illinois, USA.
-* HMN -- See MB.
-* MB -- Museum für Naturkunde Berlin, Berlin Germany. MB.R. indicates the fossil reptile collection. Formerly HMN, Humboldt Museum für Naturkunde.
+* HMN -- See MfN.
+* MfN -- Museum für Naturkunde Berlin, Berlin Germany. MB.R. indicates the fossil reptile collection. Formerly HMN, Humboldt Museum für Naturkunde.
 * NHMUK -- National History Museum, London, UK. NHMUK PV indicates the vertebrate palaeontology collection. Formerly BMNH, British Museum (Natural History).
 
 
@@ -770,7 +770,7 @@ XXX Just in the form of notes at this stage.
 * David M. Martill (University of Portsmouth) for supervision in the earliest part of this project.
 * Gerhard Maier for field-notes etc.
 * Sandra D. Chapman, Lorna Steel and Paul M. Barrett (all NHMUK) for access to the specimen.
-* David M. Unwin and Wolf-Dieter Heinrich (then both HMN) and Daniela Schwarz (MB) for access to _Giraffatitan brancai_.
+* David M. Unwin and Wolf-Dieter Heinrich (then both HMN) and Daniela Schwarz (MfN) for access to _Giraffatitan brancai_.
 * William F. Simpson (FMNH) for access to _Brachiosarus altithorax_.
 * Ken Carpenter for photographs of _Cedarosaurus_ dorsals.
 * Phil Mannion for the Lusotitan matrix and guidance with coding.
