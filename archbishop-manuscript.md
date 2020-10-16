@@ -292,7 +292,17 @@ In addition, there are a dozen or so as-yet unopened jackets from the Migeod exp
 
 ### Cervical vertebrae
 
-In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_, with the aEI of the two cervicals for which this can be calculated nicely bracketing the aEI of the large C8 that is the only vertebra of MB.R.2181 that can be measured (Table 3). However, Cervical V (C?6), for which no elongation index can be calculated, does not appear as elongate as the corresponding vertebrae of _Giraffatitan_ (Figure Y), even when the missing posterior margin of its centrum is taken into account.
+In general, the cervical vertebrae are about as elongate as those of _Giraffatitan_, with the aEI of the two cervicals for which this can be calculated nicely bracketing the aEI of the large C8 that is the only vertebra of MB.R.2181 that can be measured (Table 3, Figure G). However, Cervical V (C?6), for which no elongation index can be calculated, does not appear as elongate as the corresponding vertebrae of _Giraffatitan_ (Figure Y), even when the missing posterior margin of its centrum is taken into account.
+
+![Composite view of MB.R.2181:C8](figures/export/hmn-sii-c8-multiview.jpeg)
+
+> **Figure G.** _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII), 8th cervical vertebra, multiview constructed from snapshots taken using MeshLab of a 3d photogrammetric model kindly supplied by Heinrich Mallison.
+> **A.** Left lateral view.
+> **B.** Dorsal view with anterior to the right.
+> **C.** Posterior view.
+> **D.** Right lateral view.
+> **E.** Anterior view.
+> Scale bar 20 cm.
 
 As (Migeod 1931a:90) pointed out, "the neck was deep rather than broad". This is seen partly in his measurements of the more or less intact cervical vertebrae he was dealing with: the last cervical was 1.33 times as tall as it was long (44 inches to 33 inches). Unfortunately, the more posterior cervicals are not available, having apparently been lost or destroyed, so these unusual dimensions cannot be verified or further interpreted. However, the tallness of the cervicals (and indeed dorsals) is also reflected in the proportions of the centra: in every Archbishop vertebra for which both height and width of the cotyle can be measured, it is taller than it is wide (Table 3) -- a reversal of the condition in most neosauropods and particularly in _Giraffatitan_ (character 17 state 1 in the phylogenetic analysis).
 
