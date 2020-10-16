@@ -296,7 +296,7 @@ In general, the cervical vertebrae are about as elongate as those of _Giraffatit
 
 ![Composite view of MB.R.2181:C8](figures/export/hmn-sii-c8-multiview.jpeg)
 
-> **Figure G.** _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII), 8th cervical vertebra, multiview constructed from snapshots taken using MeshLab of a 3d photogrammetric model kindly supplied by Heinrich Mallison.
+> **Figure G.** _Giraffatitan brancai_ paralectotype MB.R.2181 (formerly HMN SII), 8th cervical vertebra, multiview constructed from isometric (i.e. with perspective removed) MeshLab snapshots of a 3d photogrammetric model kindly supplied by Heinrich Mallison.
 > **A.** Left lateral view.
 > **B.** Dorsal view with anterior to the right.
 > **C.** Posterior view.
