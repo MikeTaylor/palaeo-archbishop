@@ -158,7 +158,7 @@ The identity of the "shoulder vertebra" can be established, though with some unc
 
 Nevertheless, I will proceed on the assumption that Migeod's "shoulder vertebra" is D1. Assuming, then, that the Archbishop had thirteen cervicals, then mC<i>n</i> is C(14-_n_), so mC3 is C11; and mD<i>n</i> is D(_n_+1), so mD7 is D8.
 
-The most intriguing part of Migeod's description pertains to the taxonomic identity of the specimen. Although he designates the specimen as being "of the _Brachiosaurus_ type" (Migeod 1931a:87), he also writes "The anterior dorsal vertebrae apparently had their neural spines in two parts, which led me at first to the opinion that this dinosaur was a _Dicraeosaurus_.  This view proved on further excavation to be untenable, and indeed the bifurcate spines were similar to neither species of _Dicraeosaurus_ found at Tendaguru by the Germans" (Migeod 1931a:93). Unfortunately, none of the bifid-spine material has survived and been prepared, so it is currently impossible to directly verify this aspect of the morphology. Jackets G and H contain portions of mD3 (D4) (see below), so preparation of these may cast light on Migeod's claims. At any rate, the specimen has been universally assumed to belong to _Giraffatitan_ (formerly _Brachiosaurus_) _brancai_, despite the doubt cast by the bifid neural spines in the anterior dorsal vertebrae.
+The most intriguing part of Migeod's description pertains to the taxonomic identity of the specimen. Although he designates the specimen as being "of the _Brachiosaurus_ type" (Migeod 1931a:87), he also writes "The anterior dorsal vertebrae apparently had their neural spines in two parts, which led me at first to the opinion that this dinosaur was a _Dicraeosaurus_.  This view proved on further excavation to be untenable, and indeed the bifurcate spines were similar to neither species of _Dicraeosaurus_ found at Tendaguru by the Germans" (Migeod 1931a:93). Unfortunately, none of the bifid-spine material has survived and been prepared, so it is currently impossible to directly verify this aspect of the morphology. Two as-yet unopened jackets contain portions of mD3 (D4) (see below), so preparation of these may cast light on Migeod's claims. At any rate, the specimen has been universally assumed to belong to _Giraffatitan_ (formerly _Brachiosaurus_) _brancai_, despite the doubt cast by the bifid neural spines in the anterior dorsal vertebrae.
 
 Aside from his _Natural History_ article, Migeod wrote two further accounts of the work in Tendaguru, in the _Times_ newspaper (Migeod 1931b) and in _Discovery_ magazine (Migeod 1931c). However, these contain very little information not in the _Natural History_ article, and seem to be primarily condensations of that article. Parrington's (1931) single-page article in the _Illustrated London News_ likewise contains no additional descriptive information, but it does include several useful photographs, including one of the right scapula that is reproduced better than the similar photo in Migeod (1931a:figure 2), and two photos that offer tantalising hints of the "wings" of the dorsal vertebrae (see below).
 
@@ -168,7 +168,8 @@ Aside from his _Natural History_ article, Migeod wrote two further accounts of t
 
 Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
 
-Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions.
+Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions. XXXX discuss element letters and jacket letters.
+
 
 **Table 1. Material found by Migeod**
 
@@ -176,13 +177,13 @@ Element                    | Measurements (inches) | Present?                 | 
 :------------------------- | :-------------------- | :----------------------- | :-------- | :---
 large tooth                |                       |                          |           | Probably from a theropod
 two small teeth            |                       |                          |           | Probably from a theropod
-mC9 (C5)                   |                       | Jacket M                 |           |
+mC9 (C5)                   |                       | Jacket JM                |           |
 mC8 (C6)                   |                       | Cervical V?              | Yes       |
 mC7 (C7)                   |                       | Cervical S?              | Yes       |
 mC6 (C8)                   |                       | Cervical U?              | Yes       |
 mC5 (C9)                   |                       | Cervical T?              | Yes       |
 mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              | Yes       |
-mC3 (C11)                  | 41" long              | Cervical W; Jackets E, I | Part      |
+mC3 (C11)                  | 41" long              | Cervical W; Jackets JE, JI | Part      |
 mC2 (C12)                  |                       |                          |           |
 mC1 (C13)                  | 33" long, 44" tall    |                          |           |
 Cervical ribs              |                       | X1, X2, X3               | Yes       |
@@ -190,23 +191,23 @@ Cervical ribs              |                       | X1, X2, X3               | 
 "Shoulder vertebra" (D1)   | 24" long, 39" tall    |                          |           |
 mD1 (D2)                   | 14"                   |                          |           |
 mD2 (D3)                   | 11"                   |                          |           |
-mD3 (D4)                   | 10.5" long, 39" tall  | Jackets G, H             |           | _Discovery_ says `9-11"`
+mD3 (D4)                   | 10.5" long, 39" tall  | Jackets JG, JH           |           | _Discovery_ says `9-11"`
 mD4 (D5)                   |                       | Dorsal Q and spine C?    | Yes       |
-mD5 (D6)                   | 11" long, 38" tall    | Dorsal R?; Jacket S      | Yes       |
-mD6 (D7)                   |                       | Jacket Q                 |           |
+mD5 (D6)                   | 11" long, 38" tall    | Dorsal R?; Jacket JS     | Yes       |
+mD6 (D7)                   |                       | Jacket JQ                |           |
 mD7 (D8)                   |                       | Dorsal A?                | Yes       |
 mD8 (D9)                   |                       | Dorsal B?                | Yes       |
-mD9 (D10)                  | 34" tall              | Jacket D? Lump Z?        | Partially |
+mD9 (D10)                  | 34" tall              | Jacket JD? Lump Z?       | Partially |
 mD10 (D11)                 | 9"                    | Lump Z?                  | Partially |
 mD11 (D12)                 | (maybe)               |                          |           |
 Dorsal ribs                | Up to 92.5" long      |                          |           |
-Sacral vertabrae (damaged) |                       | Jacket P?                |           |
+Sacral vertabrae (damaged) |                       | Jacket JP?               |           |
 Caudals 1-9                |                       |                          |           |
-Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket O     | Yes       | Partial
+Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket JO    | Yes       | Partial
 Left humerus               | 57.5" long, 20" wide  |                          |           |
 Right humerus              | 57.5" long, 20" wide  | Humerus L                | Yes       | Fragment
 Radius                     |                       |                          |           | Head only
-Right ilium                | 38.5" long, 31" tall  | Jacket F                 |           |
+Right ilium                | 38.5" long, 31" tall  | Jacket JF                |           |
 Ichium (broken)            |                       |                          |           |
 Pubis (ends only)          |                       | Pubis M                  | Yes       |
 1st femur (damaged)        | 48" approx            |                          |           | Field Report #3 says 42"
@@ -216,15 +217,15 @@ Unidentified bone          | 26.5x25"              |                          | 
 
 Not all serial positions can be definitely established, but most can be inferred with some confidence.
 
-Regarding the cervicals, Migeod (1931a:91) noted that "C4, 5 and 6 were separated by short intervals, but 7, 8 and 9 were adering to one another. All of these were in vert good condition, and were plastered separately without cutting to reduce size", but that other cervical vertebra had to be cut into pieces. The still-unprepared Jacket M contains mC9  (i.e. C5), so the five intact cervicals that have been prepared (cervicals V, S, U, T and P), none of which show signs of having been assembled from multiple jackets, must be the other five complete cervicals: mC4-mC8, i.e. C10-C6. In this middle section of the neck, cervicals length increase posteriorly in all sauropods, so based on the measured centrum lengths of cervicals V, S, U, T and P (57, 75, 80, 85 and 90 cm respectively), they were most likely in this serial order.
+Regarding the cervicals, Migeod (1931a:91) noted that "C4, 5 and 6 were separated by short intervals, but 7, 8 and 9 were adering to one another. All of these were in vert good condition, and were plastered separately without cutting to reduce size", but that other cervical vertebra had to be cut into pieces. The still-unprepared Jacket JM contains mC9  (i.e. C5), so the five intact cervicals that have been prepared (cervicals V, S, U, T and P), none of which show signs of having been assembled from multiple jackets, must be the other five complete cervicals: mC4-mC8, i.e. C10-C6. In this middle section of the neck, cervicals length increase posteriorly in all sauropods, so based on the measured centrum lengths of cervicals V, S, U, T and P (57, 75, 80, 85 and 90 cm respectively), they were most likely in this serial order.
 
 This assignment raises a difficulty: Migeod's stated measurements of mC4 (C10) are 39 inches in length and 23 inches in height. Cervical P's centrum measures only 90 cm (35 inches). However, the total lenth of the vertebra, including the overhanging prezygapophyses, is 99 cm (39 inches), and its total height (from the tip of the neural spine down to a line joining the ventral margins at the anterior and posterior ends of the vertebra) is 56.5 cm (22.2 inches), both of which are good matches for Migeod's measurements. Unfortunately, Migeod nowhere stated what he meant by the "length" of a vertebra, but it seems likely, based on the measurements of Cervical P, that he did include the prezygapophyses.
 
 Regarding the dorsals, the well-preserved conjoined pair A and B can be positioned by reference to Migeod (1931a:92): "All the dorsal vertebrae [...] were with one exception adhering very firmly to each other [...] The exception was a break between D6 and D7. [...] After extracting D7, however, together with D8 (which were plastered together so that there might be no disturbance of the interlocking neural arches) [...]". From this, it seems highly likely that A and B and mD7 and mD8 (i.e. D8 and D9). This assignment to a posterior position within the dorsal column is corroborated by the high position of the parapopysis on both vertebrae.
 
-Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the condyle to the cotyle. The shortness of the centra rules out either of them being Migeod's "shoulder vertebra", mD1 or mD2. mD3 is still contained in Jackets G and H, and mD6 in Jacket Q; and mD7 and mD8 are dorsals A and B. Therefore the only possible positions for centra Q and R are as mD4-mD5, or posterior to A and B as mD9 and mD10 -- that is, D10 and D11, the two most posterior dorsals. But on most sauropods, that last few dorsals the shortest, and centra Q and R are slightly longer than the centra of dorsals A and B. A very posterior position is therefore unlikely, and the position as mD4 and mD5 (i.e. D5 and D6) seems most likely.
+Centra Q and R measure 26 and 29 cm (10 and 11 inches) from the back of the condyle to the cotyle. The shortness of the centra rules out either of them being Migeod's "shoulder vertebra", mD1 or mD2. mD3 is still contained in Jackets JG and JH, and mD6 in Jacket JQ; and mD7 and mD8 are dorsals A and B. Therefore the only possible positions for centra Q and R are as mD4-mD5, or posterior to A and B as mD9 and mD10 -- that is, D10 and D11, the two most posterior dorsals. But on most sauropods, that last few dorsals the shortest, and centra Q and R are slightly longer than the centra of dorsals A and B. A very posterior position is therefore unlikely, and the position as mD4 and mD5 (i.e. D5 and D6) seems most likely.
 
-Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket S contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
+Dorsal neural spine C may belong to either centrum Q or R; but since the as-yet unopened Jacket JS contains part of mD5, it seems most likely that it belongs to mD4, i.e. dorsal centrum Q -- but this assignment is by no means certain.
 
 Finally, the position of Lump Z is very difficult to determine. It contains indeterminate processes, probably those of dorsal vertebrae. Although it is quite possible that they are lateral processes, they seem most likely to be two neural spines, presumably from consecutive vertebrae. Since Migeod repeatedly claimed that the anterior dorsal vertebra had bifid neural spines resembling those of _Dicraeosaurus_, we can conclude the Lump Z does not contain such bifid spines and thus likely belongs to more posterior dorsals such as mD9 and mD10 (D10 and D11).
 
@@ -238,7 +239,7 @@ Finally, the position of Lump Z is very difficult to determine. It contains inde
 
 In illustrating the excavated material, some choices had to be made:
 
-* While Migeod (1931a, b, c) only mentions vertebrae as far forward as mC9 (C5), the label attached to Jacket M says "cervical vertebra 9 and a fragment of 10", so I have shown the posterior portion of C4 as present.
+* While Migeod (1931a, b, c) only mentions vertebrae as far forward as mC9 (C5), the label attached to Jacket JM says "cervical vertebra 9 and a fragment of 10", so I have shown the posterior portion of C4 as present.
 * Apart from the sequence of the nine most proximal caudal vertebrae, Migeod (1931a:94) mentions that "a small vertebra 2 to 3 inches long was found near the humeri, and later stll anotheron 13/16ths of an inch long in the tail region". He considered these likely a part of the specimen, so I show one mid-caudal and one distal caudal as well as proximal sequence.
 * "Of the lower limbs only the doubtful head of a radius was found" (p94). I have depicted the head of right radius as present, since the only preserved part of a forelimb is probably from the right humerus.
 * Of the humeri, Migeod (1931a:95) says "whilst one was sound, half of the other powdered away", but does not specify which humerus was sound. Since the preserved humeral portion seems to be from the right humerus, I have depicted the lower half of the right humerus as absent.
@@ -370,7 +371,7 @@ The full centrum lengths of the Archbishop's presumed cervicals 6-10 were 62 (se
 > **F.** Ventral view with anterior to the right.
 > Scale bar 20 cm.
 
-The cervical vertebra designated V is the most anterior of these that have been prepared, and is tentatively assigned to position 6 in the vertebral column (Migeod's mC8). It cannot be C5 (mC9), as that element remains in jacket M. It is unfortunately in very poor condition, and consequently could not be entirely removed from its jacket. It lies on its left side, so that the right lateral aspect is visible.
+The cervical vertebra designated V is the most anterior of these that have been prepared, and is tentatively assigned to position 6 in the vertebral column (Migeod's mC8). It cannot be C5 (mC9), as that element remains in jacket JM. It is unfortunately in very poor condition, and consequently could not be entirely removed from its jacket. It lies on its left side, so that the right lateral aspect is visible.
 
 The maximum height is 40 cm, measured from the tip of the neural spine to a baseline drawn between the parapophysis and the the posterior margin of the centrum. The preserved length of the vertebra when the photographs were taken was 57 cm.; however, the most posterior part of the centrum is missing, and would likely have increased the length by 5 cm or so. The cotyle can therefore not be measured, and cotylar eccentricity and aEI cannot be calculated. This vertebra has crumbled further since the photographs were taken, and the subsequent breakage in the middle of the vertebra has misleadingly increased the apparent length by about 6 cm.
 
@@ -661,47 +662,47 @@ XXX To follow
 > **Figure J.** NHMUK PV R5937, "The Archbishop", jackets containing as-yet unprepared material as of 5 September 2005. See text for catalogue.
 
 * Shelf 1
-  * **A.** "M 23 / Scapula 8 / Distal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N3].
-  * **B.** "M 23 / Scapula / and Coracoid (fused) / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N2. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
-  * **C.** "M 23 / Scapula / Proximal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N1.
+  * **JA.** "M 23 / Scapula 8 / Distal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N3].
+  * **JB.** "M 23 / Scapula / and Coracoid (fused) / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N2. Label photographed in [dscn1662.jpg](OLD/photos/2005-09-05/jackets/dscn1662.jpg).
+  * **JC.** "M 23 / Scapula / Proximal end / 3.7.30". Subsequently prepared as [scapula N](#scapula-n), part N1.
 * Shelf 2
-  * **D.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
-  * **E.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
-  * **F.** "M 23 / Ilium part 2 / 6/30"
-  * **G.** (behind H) "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
-  * **H.** "M 23 / Dorsal Vert No. 3 / Neural spine / upper / (i.e. left side) / 23.7.30"
+  * **JD.** "M 23 / Uncertain / Process / between Verts: / (Dorsal) 9 + 10 / 24/6/30"
+  * **JE.** "M 23 / Cervical Vert. No. 3 / Block D / Under A / 26/7/30"
+  * **JF.** "M 23 / Ilium part 2 / 6/30"
+  * **JG.** (behind H) "M 23 / Dorsal Vert 3 / Lower i.e. / Right wing / 7/30"
+  * **JH.** "M 23 / Dorsal Vert No. 3 / Neural spine / upper / (i.e. left side) / 23.7.30"
 * Shelf 3
-  * **I.** Three labels:
+  * **JI.** Three labels:
     * "Cerv 3 / Block B / Distal + lower end"
     * "Cervical / vert. No. 3 / Block B / 26/7/30"
     * "Cerv. V: 3 / Junction with / Block E by / 'brodie'"
-  * **J.** "M 23 / Cervical Vert 3 / Block E / 26.7.30". Subsequently prepared as [Cervical W](#cervical-w).
+  * **JJ.** "M 23 / Cervical Vert 3 / Block E / 26.7.30". Subsequently prepared as [Cervical W](#cervical-w).
 * Shelf 4
-  * **K.** "Sacral / part / B". Apparently [misidentified](OLD/photos/2005-09-05/jackets/dscn1681.jpg) or mislabelled, and subsequently prepared as [Pubis M](#pubis-m).
-  * **L.** (no label)
-  * **M.** "M 23 / Cervical No. 9 / + frag of / No. 10 / 6/30"
-  * **N.** (no label)
+  * **JK.** "Sacral / part / B". Apparently [misidentified](OLD/photos/2005-09-05/jackets/dscn1681.jpg) or mislabelled, and subsequently prepared as [Pubis M](#pubis-m).
+  * **JL.** (no label)
+  * **JM.** "M 23 / Cervical No. 9 / + frag of / No. 10 / 6/30"
+  * **JN.** (no label)
 * Shelf 5
-  * **O.** "M 23 / Scapula 10 / Distal end / 9.7.30"
-  * **P.** "M 23 / next / (sacral) / Vert 10 / Ventral edge / 6/30"
-  * **Q.** "M 23 / Dorsal Vert 6 / 3.7.30"
+  * **JO.** "M 23 / Scapula 10 / Distal end / 9.7.30"
+  * **JP.** "M 23 / next / (sacral) / Vert 10 / Ventral edge / 6/30"
+  * **JQ.** "M 23 / Dorsal Vert 6 / 3.7.30"
 * Shelf 6
-  * **R.** "M 23 Cervical" (written on plaster; label is torn). Subsequently prepared as [Cervical V](#cervical-v).
-  * **S.** (two labels, both illegible] "D5" scratched into plaster)
+  * **JR.** "M 23 Cervical" (written on plaster; label is torn). Subsequently prepared as [Cervical V](#cervical-v).
+  * **JS.** (two labels, both illegible] "D5" scratched into plaster)
 
 XXX Misidentification of Pubis M as a sacral vertebra casts some doubt on the labelling of the other jackets.
 
 In summary, the remaining jackets should contain
-"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in Jacket M),
-portions of "cervical vertebra 3" (i.e. probably C11, in Jackets E and I),
-parts of "dorsal vertebra 3" (i.e. D4) including the "right wing" (in Jackets G and H),
-parts of "dorsal vertebrae 5" (i.e. D6, in Jacket S) and "6" (i.e. D7, in Jacket Q),
-an indeterminate dorsal vertebral process (in Jacket D),
-part of a sacral or late dorsal vertebra (in Jacket P),
-the distal end of a scapula (presumably the same one as element N, in Jacket O),
-a partial ilium (in Jacket F),
+"cervical vertebra 9 and a fragment of 10" (i.e. probably C5 and a fragment of C4, in Jacket JM),
+portions of "cervical vertebra 3" (i.e. probably C11, in Jackets JE and JI),
+parts of "dorsal vertebra 3" (i.e. D4) including the "right wing" (in Jackets JG and JH),
+parts of "dorsal vertebrae 5" (i.e. D6, in Jacket JS) and "6" (i.e. D7, in Jacket JQ),
+an indeterminate dorsal vertebral process (in Jacket JD),
+part of a sacral or late dorsal vertebra (in Jacket JP),
+the distal end of a scapula (presumably the same one as element N, in Jacket JO),
+a partial ilium (in Jacket JF),
 and
-two unidentified elements (in Jackets L and M).
+two unidentified elements (in Jackets JL and JM).
 
 These jackets are too small to contain complete vertebrae or even very substantial partial vertebral material, and certainly no complete appendicular elements. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
 
