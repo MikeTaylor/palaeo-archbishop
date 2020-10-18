@@ -168,8 +168,7 @@ Aside from his _Natural History_ article, Migeod wrote two further accounts of t
 
 Migeod notes that although no skull bones were recovered (nor the four or five most anteror cervicals), "a large tooth was, however found, measuring 6½ inches in length with a maximum circumference of 5¾ inches, which would indicate that the head was large" (Migeod 1931a:90), but since the tooth was pointed is must have belonged to a scavenging theropod rather than to Migeod's sauropod -- a possibility that Migeod allowed -- and so tells us nothing about the animal in question.
 
-Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions. XXXX discuss element letters and jacket letters.
-
+Migeod's accounts directly reference many more bones than are presently available for study. Table 1 summarises the bones Migeod reported having found, the sizes he gave for them (where specified), and assignments of the prepared elements to serial positions. I have assigned letters to the prepared elements that are available to study (e.g. Cervical P, Dorsals A and B) so that they can be referred to unambiguously. As will be seen, the serial positions of these elements cannot all be determined with confidence, so reference by letter is prefereable to reference by uncertain serial position. Thus, for example, Dorsal A is probably D8 (D7 of Migeod's usage), but is certainly Dorsal A. Some jackets remain unopened (see below): these have been assigned two-letter names beginning with "J" for jacket and ins some cases the unprepped material in jackets can be tentatively or confidently associated with specific serial positions.
 
 **Table 1. Material found by Migeod**
 
@@ -473,6 +472,10 @@ XXX To follow
 "No 5" is painted on the left dorsolateral aspect of the posterior end of this vertebra in white paint.  This may represent Migeod's observation of the position it was found in, indicating that it is the fifth most proximal cervical (i.e. C9 if the neck has thirteen vertebrae like _Giraffatitan_), but may only be a field number. XXX consider implications for serial positions in table above.
 
 XXX Its length from condyle to cotyle is about 90cm, but it's hard to measure accurately while it's behind the dorsals. The cotyle height is estimated at 22 cm. OLD/new-visit also measures it as 90cm.
+
+![Red-cyan anaglyph of Cervical P](figures/export/archbishop-cervical-p-posterior-anaglyph.jpeg)
+
+> **Figure P2.** NHMUK PV R5937, "The Archbishop", cervical vertebra P in posterior view, red-cyan anaglyph.
 
 XXX To follow
 
