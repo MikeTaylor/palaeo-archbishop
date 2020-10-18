@@ -172,47 +172,47 @@ Migeod's accounts directly reference many more bones than are presently availabl
 
 **Table 1. Material found by Migeod**
 
-Element                    | Measurements (inches) | Present?                 | Prepared? | Note
-:------------------------- | :-------------------- | :----------------------- | :-------- | :---
-large tooth                |                       |                          |           | Probably from a theropod
-two small teeth            |                       |                          |           | Probably from a theropod
-mC9 (C5)                   |                       | Jacket JM                |           |
-mC8 (C6)                   |                       | Cervical V?              | Yes       |
-mC7 (C7)                   |                       | Cervical S?              | Yes       |
-mC6 (C8)                   |                       | Cervical U?              | Yes       |
-mC5 (C9)                   |                       | Cervical T?              | Yes       |
-mC4 (C10)                  | 39" long, 23" tall    | Cervical P?              | Yes       |
+Element                    | Measurements (inches) | Present?                   | Prepared? | Note
+:------------------------- | :-------------------- | :------------------------- | :-------- | :---
+large tooth                |                       |                            |           | Probably from a theropod
+two small teeth            |                       |                            |           | Probably from a theropod
+mC9 (C5)                   |                       | Jacket JM                  |           |
+mC8 (C6)                   |                       | Cervical V?                | Yes       |
+mC7 (C7)                   |                       | Cervical S?                | Yes       |
+mC6 (C8)                   |                       | Cervical U?                | Yes       |
+mC5 (C9)                   |                       | Cervical T?                | Yes       |
+mC4 (C10)                  | 39" long, 23" tall    | Cervical P?                | Yes       |
 mC3 (C11)                  | 41" long              | Cervical W; Jackets JE, JI | Part      |
-mC2 (C12)                  |                       |                          |           |
-mC1 (C13)                  | 33" long, 44" tall    |                          |           |
-Cervical ribs              |                       | X1, X2, X3               | Yes       |
-"Neck tendons"             | Up to 97.5" long      | X                        | Yes       | Fragments only
-"Shoulder vertebra" (D1)   | 24" long, 39" tall    |                          |           |
-mD1 (D2)                   | 14"                   |                          |           |
-mD2 (D3)                   | 11"                   |                          |           |
-mD3 (D4)                   | 10.5" long, 39" tall  | Jackets JG, JH           |           | _Discovery_ says `9-11"`
-mD4 (D5)                   |                       | Dorsal Q and spine C?    | Yes       |
-mD5 (D6)                   | 11" long, 38" tall    | Dorsal R?; Jacket JS     | Yes       |
-mD6 (D7)                   |                       | Jacket JQ                |           |
-mD7 (D8)                   |                       | Dorsal A?                | Yes       |
-mD8 (D9)                   |                       | Dorsal B?                | Yes       |
-mD9 (D10)                  | 34" tall              | Jacket JD? Lump Z?       | Partially |
-mD10 (D11)                 | 9"                    | Lump Z?                  | Partially |
-mD11 (D12)                 | (maybe)               |                          |           |
-Dorsal ribs                | Up to 92.5" long      |                          |           |
-Sacral vertabrae (damaged) |                       | Jacket JP?               |           |
-Caudals 1-9                |                       |                          |           |
-Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket JO    | Yes       | Partial
-Left humerus               | 57.5" long, 20" wide  |                          |           |
-Right humerus              | 57.5" long, 20" wide  | Humerus L                | Yes       | Fragment
-Radius                     |                       |                          |           | Head only
-Right ilium                | 38.5" long, 31" tall  | Jacket JF                |           |
-Ichium (broken)            |                       |                          |           |
-Pubis (ends only)          |                       | Pubis M                  | Yes       |
-1st femur (damaged)        | 48" approx            |                          |           | Field Report #3 says 42"
-2nd femur (partial)        |                       |                          |           |
-Calcaneum                  |                       |                          |           | Migeod (1931a:95)
-Unidentified bone          | 26.5x25"              |                          |           |
+mC2 (C12)                  |                       |                            |           |
+mC1 (C13)                  | 33" long, 44" tall    |                            |           |
+Cervical ribs              |                       | X1, X2, X3                 | Yes       |
+"Neck tendons"             | Up to 97.5" long      | X                          | Yes       | Fragments only
+"Shoulder vertebra" (D1)   | 24" long, 39" tall    |                            |           |
+mD1 (D2)                   | 14"                   |                            |           |
+mD2 (D3)                   | 11"                   |                            |           |
+mD3 (D4)                   | 10.5" long, 39" tall  | Jackets JG, JH             |           | _Discovery_ says `9-11"`
+mD4 (D5)                   |                       | Dorsal Q and spine C?      | Yes       |
+mD5 (D6)                   | 11" long, 38" tall    | Dorsal R?; Jacket JS       | Yes       |
+mD6 (D7)                   |                       | Jacket JQ                  |           |
+mD7 (D8)                   |                       | Dorsal A?                  | Yes       |
+mD8 (D9)                   |                       | Dorsal B?                  | Yes       |
+mD9 (D10)                  | 34" tall              | Jacket JD? Lump Z?         | Partially |
+mD10 (D11)                 | 9"                    | Lump Z?                    | Partially |
+mD11 (D12)                 | (maybe)               |                            |           |
+Dorsal ribs                | Up to 92.5" long      |                            |           |
+Sacral vertabrae (damaged) |                       | Jacket JP?                 |           |
+Caudals 1-9                |                       |                            |           |
+Left scapulocoracoid       | 87" long, 26" wide    | N1, N2, N3; Jacket JO      | Yes       | Partial
+Left humerus               | 57.5" long, 20" wide  |                            |           |
+Right humerus              | 57.5" long, 20" wide  | Humerus L                  | Yes       | Fragment
+Radius                     |                       |                            |           | Head only
+Right ilium                | 38.5" long, 31" tall  | Jacket JF                  |           |
+Ichium (broken)            |                       |                            |           |
+Pubis (ends only)          |                       | Pubis M                    | Yes       |
+1st femur (damaged)        | 48" approx            |                            |           | Field Report #3 says 42"
+2nd femur (partial)        |                       |                            |           |
+Calcaneum                  |                       |                            |           | Migeod (1931a:95)
+Unidentified bone          | 26.5x25"              |                            |           |
 
 Not all serial positions can be definitely established, but most can be inferred with some confidence.
 
