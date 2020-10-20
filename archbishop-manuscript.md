@@ -443,7 +443,7 @@ Depressions are present on the dorsal surfaces of both left and right parapophys
 
 > **Figure U.** NHMUK PV R5937, "The Archbishop", cervical vertebra U. Top row: dorsal view; middle row (left to right): posterior, right lateral, and anterior views; bottom row: ventral view.
 
-XXX Cervical U is approximately 81cm long. But OLD/new-visit measures it as 79cm.
+This is by some way the best preserved of all the Archbishop cervicals. It remains half-jacketed, with the left lateral side hidden from view, but the ventral aspect largely visible. It measures 80 cm in total length and 48 cm in height, measured from the tip of the neural spine to a baseline drawn between the parapophysis and the ventral lip of the cotyle. The depth of the cotyle is 6 cm but it is too crushed and broken for meaningful measurements to be made of its height or width. The condyle is 6 cm deep, 15 cm in height and 15 cm in width. The maximum preserved width across the parapophyses is 18 cm, but part of the left parapophysis is either missing or still embedded in the jacket. The likely total width across parapophyses was 22 cm.
 
 XXX To follow
 
