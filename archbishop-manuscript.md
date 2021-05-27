@@ -714,10 +714,13 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 ## Size and proportions
 
-
 Migeod's assessment of the size of the animal was based on the vertebrae: "The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
 
 XXX compare with Giraffatitan.
+
+XXX Tom "Poekilopleuron" writes:
+
+> Good day, the first reference for that would be a Czech book Záhada dinosaurů ("The mystery of dinosaurs", 1993) by Czech entomologist and researcher Jaroslav Mareš (who passed away on May 4th 2021, btw). Mareš talked to many paleontologists during the preparations of the manuscript and was told by somebody (don't know who) that during British excavations in Tendaguru around 1930 fossils of much larger sauropods than (would be) Giraffatitan brancai were discovered. Some of them were about 33 % larger than the composite specimen mounted in Berlin. Mareš then assumed that this giant brachiosaurid would be some 15 or 16 meters tall, around 33 meters long and its mass would exceed 80 or even 100 tonnes. I'll try and look up more info, if you like! :-)
 
 
 
