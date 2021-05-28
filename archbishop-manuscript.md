@@ -339,7 +339,7 @@ T (C?9)   | 85             | 22            |
 P (C?10)  | 90             | 23            | 22           | 1.05      | 4.00
 _Average_ |                |               |              | 1.08      | 3.98
 
-> Dimensions of cervical vertebrae of _Giraffatitan_ and the Archbishop, and ratios expression cotylar eccentricity (H/W ratio) and elongation (aEI). Measurements for _Giraffatitan_ are taken from Janensch (1950:39, 44).
+> Dimensions of cervical vertebrae of _Giraffatitan_ and the Archbishop, and ratios expression cotylar eccentricity (H/W ratio) and elongation (aEI). Measurements for _Giraffatitan_ are taken from Janensch (1950a:39, 44).
 
 However, the cervical vertebrae of the Archbishop are significantly less pneumatic than those of _Giraffatitan_. For example, character 406 in the phylogenetic analysis (see below) is "Middle and posterior cervical neural spines, lateral surface between PRDL, PODL, SPOL (i.e. the spinodiapophyseal fossa [SDF]): has 3 or more coels separated from each other by low ridges". This feature is present for _Giraffatitan_ but absent for the Archbishop.
 
@@ -565,7 +565,7 @@ Width of cotyle                                          | -- | 23
 Height of cotyle                                         | -- | 25 est.: top lip of cotyle is missing
 Total preserved height (top of arch to bottom of cotyle) | -- | 35
 
-XXX The portion of the centrum ventral to the lateral foramina is very rounded laterally and thick, whereas that of _B. brancai_ is more V-shaped and thin (see the cross-section in Janensch ?1950). This morphology is also evident, though less obvious, in Dorsals A and B.
+XXX The portion of the centrum ventral to the lateral foramina is very rounded laterally and thick, whereas that of _B. brancai_ is more V-shaped and thin (see the cross-section in Janensch ?1950a). This morphology is also evident, though less obvious, in Dorsals A and B.
 
 XXX To follow. These are quite heavily damaged and restored.
 
@@ -714,7 +714,25 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 ## Size and proportions
 
-Migeod's assessment of the size of the animal was based on the vertebrae: "The [neck] vertebrae found give a 20-foot length [...] The length of the back including the sacral region was about 15 feet. The eight or nine caudal vertebrae cover about 6 feet" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.5 m).
+Migeod's assessment of the size of the animal was based on the vertebrae: "The [neck] vertebrae found give a 20-foot [6.10 m] length [...] The length of the back including the sacral region was about 15 feet [4.57 m]. The eight or nine caudal vertebrae cover about 6 feet [1.83 m]" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.50 m). By comparison, Janensch (1950b:102) gives lengths of portions of the mounted skeleton of MB.R.2181 as 8.78m (neck), 3.92m (torso) and 1.07m (sacrum) for a torso-plus-sacrum length of 4.99m. On this basis, the preserved neck of NHMUK PV R5937 is only 69% as long as that of MB.R.2181, but since the first four vertebrae were missing an omitted from Migeod's measurement, this factor cannot be taken at face value. More informative is the torso-plus-sacrum length, which in NHMUK PV R5937 is 92% the length of MB.R.2181.
+
+Measurements of individual elements compare as follows:
+
+**Table 4. Comparative measurements of _Archbishop_ and _Giraffatitan_ elements**
+
+Element           | Measurement (cm)  | Archbishop | Giraffatitan | Ratio
+:---------------- | :---------------- | :--------- | :----------- | :----
+Torso plus sacrum | total length      | 457        | 499          | 0.916
+C10 (mC4)         | centrum length    | 99         | 100          | 0.990
+C11 (mC3)         | centrum length    | 104        | 
+D4 (mD3)          | centrum length    | 26.7       | 36           | 0.742
+Longest rib       | length over curve | 235        | 263          | 0.894
+Left scapulocoracoid | total length   | 221        | XXX
+
+> Archbishop measurements taken from Migeod (1931a) and converted from imperial; _Giraffatitan_ measurements taken from Janensch (1950a:44).
+
+XXXX caution, centrum lengths in migeod may not include ball, rib measurements different.
+
 
 XXX compare with Giraffatitan.
 
@@ -826,6 +844,10 @@ XXX Just in the form of notes at this stage.
 * Janensch, Werner. 1914. Übersicht über der Wirbeltierfauna der Tendaguru-Schichten nebst einer kurzen Charakterisierung der neu aufgefuhrten Arten von Sauropoden. _Archiv für Biontologie_ **3**:81-110.
 * Janensch, Werner. 1920. Über _Elaphrosaurus bambergi_ und die Megalosaurier aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Sitzungsberichte der Gesellschaft naturforschender Freunde zu Berlin_ **1920**:225-235.
 * Janensch, Werner. 1922. Das Handskelett von _Gigantosaurus robustus_ und _Brachiosaurus brancai_ aus den Tendaguru-Schichten Deutsch-Ostafrikas. _Centralblatt für Mineralogie, Geologie und Paläontologie_ **15**:464-480.
+* Janensch, Werner. 1950a. Die Wirbelsaule von _Brachiosaurus brancai_. _Palaeontographica_ (Suppl. 7) **3**:27-93.
+* Janensch, Werner. 1950b. Die Skelettrekonstruktion von _Brachiosaurus
+brancai_. _Palaeontographica_ (Supplement 7) **3**:97-103, and plates
+VI-VIII.
 * Janensch, Werner. 1961. Die Gliedmaszen und Gliedmaszengurtel der Sauropoden der Tendaguru-Schichten. _Palaeontographica_ (Suppl. 7) 3:177-235.
 * Lambe, Lawrence M. 1904. On the squamoso-parietal crest of the horned dinosaurs _Centrosaurus apertus_ and _Monoclonius canadensis_ from the Cretaceous of Alberta. _Transactions of the Royal Society of Canada_, series 2, **10**:1-9.
 * Lull, Richard S. 1911. The Reptilia of the Arundel Formation. pages 171-211 in:_Maryland Geological Survey Lower Cretaceous Volume_.
