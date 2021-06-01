@@ -714,25 +714,39 @@ These jackets are too small to contain complete vertebrae or even very substanti
 
 ## Size and proportions
 
+Various Internet rumours have suggested that the Archbishop is a super-giant sauropod one third larger than the mounted _Giraffatitan_ specimen MB.R.2181 (formerly HMN SII). This is incorrect.
+
 Migeod's assessment of the size of the animal was based on the vertebrae: "The [neck] vertebrae found give a 20-foot [6.10 m] length [...] The length of the back including the sacral region was about 15 feet [4.57 m]. The eight or nine caudal vertebrae cover about 6 feet [1.83 m]" (Migeod 1931a:90). This gives the total preserved length of the skeleton as 41 feet (12.50 m). By comparison, Janensch (1950b:102) gives lengths of portions of the mounted skeleton of MB.R.2181 as 8.78m (neck), 3.92m (torso) and 1.07m (sacrum) for a torso-plus-sacrum length of 4.99m. On this basis, the preserved neck of NHMUK PV R5937 is only 69% as long as that of MB.R.2181, but since the first four vertebrae were missing an omitted from Migeod's measurement, this factor cannot be taken at face value. More informative is the torso-plus-sacrum length, which in NHMUK PV R5937 is 92% the length of MB.R.2181.
 
-Measurements of individual elements compare as follows:
+This is consonant with measurements of individual elements, which compare as follows:
 
 **Table 4. Comparative measurements of _Archbishop_ and _Giraffatitan_ elements**
 
-Element           | Measurement (cm)  | Archbishop | Giraffatitan | Ratio
-:---------------- | :---------------- | :--------- | :----------- | :----
-Torso plus sacrum | total length      | 457        | 499          | 0.916
-C10 (mC4)         | centrum length    | 99         | 100          | 0.990
-C11 (mC3)         | centrum length    | 104        | 
-D4 (mD3)          | centrum length    | 26.7       | 36           | 0.742
-Longest rib       | length over curve | 235        | 263          | 0.894
-Left scapulocoracoid | total length   | 221        | XXX
+Element              | Measurement (cm)  | Archbishop | Giraffatitan | Ratio
+:------------------- | :---------------- | :--------- | :----------- | :----
+Torso plus sacrum    | total length      | 457        | 499          | 0.916
+C10 (mC4)            | centrum length    | 99         | 100          | 0.990
+C11 (mC3)            | centrum length    | 104        | 100[1]       | 1.040
+D4 (mD3)             | centrum length    | 27         | 36           | 0.750
+Longest rib          | length over curve | 235        | 263          | 0.894
+Left scapulocoracoid | length over curve | 221        | 238[2]       | 0.929
+Right humerus        | length            | 146        | 213          | 0.685
+Right humerus        | width             | 51         | 59           | 0.864
+Right ilium          | length            | 98         | 123[3]       | 0.797
+Right ilium          | height            | 79         | 96[4]        | 0.823
+Femur                | length            | 122        | 196[5]       | 0.622
+:------------------- | :---------------- | :--------- | :----------- | :----
+_Average_            |                   |            |              | 0.846
 
-> Archbishop measurements taken from Migeod (1931a) and converted from imperial; _Giraffatitan_ measurements taken from Janensch (1950a:44).
 
-XXXX caution, centrum lengths in migeod may not include ball, rib measurements different.
+> Archbishop measurements taken from Migeod (1931a) and converted from imperial; _Giraffatitan_ measurements are for MB.R.2181 except where noted, and are taken from Janensch (1950a:44) and Janensch (1961).  
+> [1] Janensch did not report a total centrum length for C11, as its condyle had not been removed from the cotyle of C10; but since the length of its centrum omitting the condyle was, at 87 cm, identical to that of C10, it is reasonable to estimate its total length as also equal to that of C10.  
+> [2] Janensch (1961) did not include measurements for the right scapula of MB.R.2181, which is incorporated into the mounted skeleton, but does give the proximodistal length of its right coracoid as 45 cm. Using the scapula length of 193 cm given for the similarly sized scapula Sa 9, we can deduce a reasonable total estimate of 238 cm for the scapulocoracoid.  
+> [3] Estimated by Janensch (1950b:99) based on cross-scaling from the fibula and ilium of Find J from the Upper Saurian Marl.  
+> [4] This is the measurement provided by Janensch (1961:199) for the ilium Ma 2, which is incorporated into the mounted skeleton, and which Janensch (1950b:99) considered to match MB.R.2181 very precisely.  
+> [5] Based on a restoration of the midshaft which Janench (1950b:99) calccuated based on other finds.
 
+XXXX caution, centrum lengths in migeod may not include ball, rib measurements different. ilium "It is the entire height at the public process."
 
 XXX compare with Giraffatitan.
 
