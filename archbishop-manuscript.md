@@ -735,7 +735,6 @@ Right humerus        | width             | 51         | 59           | 0.864
 Right ilium          | length            | 98         | 123[3]       | 0.797
 Right ilium          | height            | 79         | 96[4]        | 0.823
 Femur                | length            | 122        | 196[5]       | 0.622
-:------------------- | :---------------- | :--------- | :----------- | :----
 _Average_            |                   |            |              | 0.846
 
 
@@ -746,9 +745,11 @@ _Average_            |                   |            |              | 0.846
 > [4] This is the measurement provided by Janensch (1961:199) for the ilium Ma 2, which is incorporated into the mounted skeleton, and which Janensch (1950b:99) considered to match MB.R.2181 very precisely.  
 > [5] Based on a restoration of the midshaft which Janench (1950b:99) calccuated based on other finds.
 
-XXXX caution, centrum lengths in migeod may not include ball, rib measurements different. ilium "It is the entire height at the public process."
+Individual lines of this table should each be treated with caution: Migeod's measurements may have been unreliable, and in any case are underspecified: for example, we do not know whether, when he gave a vertebra's length, he included overhanging prezygapophyses or the condyle. Similarly, we know that Migeod (1931:96) wrote that a rib "was as much as 92.5 inches long", but we do not know for certain that, like Janensch, he measured the length over the curve rather than the straight-line distance between the ends. And when Migeod says that the ilium "measured 38.5 by 31 inches" we do not know that the height was measured "at the public process", as Janensch (1961:199) specified.
 
-XXX compare with Giraffatitan.
+With those caveats in place, neverthesless, a picture emerges of a sauropod somewhat smaller than MB.R.2181, though by no means negligible. On average, the measurements come out about 15% smaller than those of _Giraffatitan_.
+
+But this average conceals a great deal of variation. The cervical vertebrae are comparable in length to those of MB.R.2181 (The total of 203 cm for C10 and C11 in the Archbishop, only 1.5% longer than 200 cm for MB.R.2181, is a difference well within the margin of measurement error), and the scapulocoracoid may have been 93% as long as in MB.R.2181. But the limb bones are signficantly shorter (87% for the humerus and a scarcely credible 62% for the femur), and the humeri seem to be have proportionally more robust in the Archbishop: only 2.86 times as long as wide, whereas the ratio is 3.61 in MB.R.2181. If Migeod's measurements can be trusted, we have here an animal whose neck is as long as that of _Giraffatitan_, but whose limbs are noticably shorter. These proportions corroborate the hypothesis that the Archbishop is not a specimen of _Giraffatitan_.
 
 XXX Tom "Poekilopleuron" writes:
 
