@@ -720,7 +720,7 @@ Migeod's assessment of the size of the animal was based on the vertebrae: "The [
 
 This is consonant with measurements of individual elements, which compare as follows:
 
-**Table 4. Comparative measurements of _Archbishop_ and _Giraffatitan_ elements**
+**Table 4. Comparative measurements of Archbishop and _Giraffatitan_ elements**
 
 Element              | Measurement (cm)  | Archbishop | Giraffatitan | Ratio
 :------------------- | :---------------- | :--------- | :----------- | :----
