@@ -842,6 +842,7 @@ XXX Just in the form of notes at this stage.
 * Scott Hartman for providing the skeletal reconstrction of _Giraffatitan brancai_ that was used for Figure E, the skeletal inventory.
 * Fiona J. Taylor for help in deciphering Migeod's handwriting and transcribing shipping manifests.
 * Heinrich Mallison for providing the 3d models of the _Giraffatitan_ cervical vertebra and humerus.
+* David W. E. Hone for constantly badgering me about getting the project done.
 
 
 
