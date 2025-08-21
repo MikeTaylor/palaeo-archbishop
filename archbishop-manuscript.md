@@ -268,7 +268,7 @@ Since the serial positions of vertebrae are not possible to determine with confi
 
 Name | Element               | Description
 :--- | :-------------------- | :----------
-V    | cervical vertebra     | Small, anterior cervical vertebra, still half-jacketed. Poorly presered and very fragile. 
+V    | cervical vertebra     | Small, anterior cervical vertebra, still half-jacketed. Poorly preserved and very fragile. 
 S    | cervical centrum      | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
 T    | cervical centrum      | Large cervical vertebral centrum, almost all of the neural arch and ann processes missing.
 U    | cervical vertebra     | Large, well preserved cervical vertebra, half-jacketed with the right side and anterior/posterior extremities exposed.
@@ -708,6 +708,8 @@ and
 two unidentified elements (in Jackets JL and JM).
 
 These jackets are too small to contain complete vertebrae or even very substantial partial vertebral material, and certainly no complete appendicular elements. However, the chance remains that some diagnostic material is contained, and the jackets should be prepped as circumstances allow.
+
+Note that the quality of material extracted from recently prepared jackets (e.g. Cervicals V and especially W, the putative scapula N and pubis M) has been poor: the bone has crumbled during many decades in jackets, no doubt in part due to the primitive and ad-hoc packaging methods that involved newspaper and even straw (e.g. Figure Z). XXX Maybe also illustrate DSCN2954, DSCN2957 and DSCN7486.
 
 
 
